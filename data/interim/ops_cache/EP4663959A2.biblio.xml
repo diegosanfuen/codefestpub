@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="79185670" country="EP" doc-number="4663959" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663959</doc-number>
+                        <kind>A2</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663959</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>F04D  29/    58            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>04</class>
+                        <subclass>D</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>04</class>
+                        <subclass>D</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>5826</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>04</class>
+                        <subclass>D</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>5853</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>05</class>
+                        <subclass>D</subclass>
+                        <main-group>2260</main-group>
+                        <subgroup>22141</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639228657">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25210475</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250210475</doc-number>
+                        <date>20211230</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25210475.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250210475</doc-number>
+                            <date>20211230</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210218345</doc-number>
+                            <date>20211230</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21218345.3</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>PFEIFFER VACUUM TECHNOLOGY AG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Pfeiffer Vacuum Technology AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BRÜCK HEIKO [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LOHSE MARTIN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> SCHWEIGHÖFER MICHAEL [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>BRÜCK, Heiko, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LOHSE, Martin, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>SCHWEIGHÖFER, Michael</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VAKUUMPUMPE</invention-title>
+                <invention-title lang="fr">POMPE À VIDE</invention-title>
+                <invention-title lang="en">VACUUM PUMP</invention-title>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Vakuumpumpe, insbesondere Turbomolekularvakuumpumpe, mit einem Gehäuse, in dem ein um eine Rotationsachse drehbarer Rotor und ein Antriebsmotor zum Antreiben des Rotors angeordnet sind und das eine zumindest einen Teil des Pumpenäußeren bildende Außenseite aufweist, wobei an der Außenseite des Gehäuses zumindest eine Kühlanordnung vorgesehen ist, die eine Vielzahl von stabförmigen, nach außen abstehenden Kühlelementen umfasst und/oder die eine Vielzahl von gekrümmten, nach außen abstehenden Kühlrippen umfasst.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

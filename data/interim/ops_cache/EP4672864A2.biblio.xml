@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="84537868" country="EP" doc-number="4672864" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4672864</doc-number>
+                        <kind>A2</kind>
+                        <date>20251231</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4672864</doc-number>
+                        <date>20251231</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H05B  45/   335            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>45</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>45</main-group>
+                        <subgroup>325</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>45</main-group>
+                        <subgroup>335</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>90</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>45</main-group>
+                        <subgroup>305</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>45</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="640290595">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25215266</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250215266</doc-number>
+                        <date>20221216</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25215266.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202163265691P</doc-number>
+                            <date>20211217</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202163265691 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220214383</doc-number>
+                            <date>20221216</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22214383.6</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>STRYKER CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Stryker Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ALEXANDERSON JAMES KENNETH [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> YORK ROBERT LEE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>ALEXANDERSON, James Kenneth, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>YORK, Robert Lee</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">LEISTUNGSMODULATION ZUR VERSORGUNG EINER ODER MEHRERER LICHTQUELLEN</invention-title>
+                <invention-title lang="fr">MODULATION DE PUISSANCE POUR ALIMENTER UNE OU PLUSIEURS SOURCES DE LUMIÈRE</invention-title>
+                <invention-title lang="en">POWER MODULATION FOR POWERING ONE OR MORE LIGHT SOURCES</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Disclosed herein are systems and methods for powering light sources to reduce optical and/or electrical interference between the light sources and optical components in the same environment. The light sources may be powered using power modulation signals, whose frequency may be varied across modulation periods. Optionally, the frequency may be varied randomly or pseudo randomly. The systems and methods may additionally or alternatively introduce phase modulation into the control signals for driving channels of light sources. A phase difference in the control signals to at least two channels can reduce or avoid simultaneous or synchronous driving of the channels. The systems and methods described herein can vary one or more properties (e.g., frequency, phase shift, delay, duty cycle, power, etc.) of the power modulation signals.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

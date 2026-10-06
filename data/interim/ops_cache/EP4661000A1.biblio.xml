@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="76942805" country="EP" doc-number="4661000" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4661000</doc-number>
+                        <kind>A1</kind>
+                        <date>20251210</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4661000</doc-number>
+                        <date>20251210</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G10L  19/    09            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G10L  19/    18            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>09</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>09</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>09</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>25</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638545117">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207647</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207647</doc-number>
+                        <date>20220714</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207647.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210185662</doc-number>
+                            <date>20210714</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21185662</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220751694</doc-number>
+                            <date>20220714</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22751694.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2022EP69751</doc-number>
+                            <date>20220714</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>FRAUNHOFER GES FORSCHUNG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MARKOVIC GORAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> EDLER BERND [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> BAYER STEFAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> KIENE JAN FREDERIK [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MARKOVIC, Goran, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>EDLER, Bernd, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>BAYER, Stefan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>KIENE, Jan Frederik</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">PROZESSOR MIT LTP UND/ODER HARMONISCHER NACHFILTERUNG</invention-title>
+                <invention-title lang="fr">PROCESSEUR UTILISANT UN POST-FILTRAGE LTP ET/OU HARMONIQUE</invention-title>
+                <invention-title lang="en">PROCESSOR USING LTP AND/OR HARMONIC POST-FILTERING</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP20170078921</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>20170078921</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="application number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007JP74044</doc-number>
+                                <date>20071213</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2007JP74044</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="application number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2014EP53293</doc-number>
+                                <date>20140220</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2014EP53293</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="application number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2015EP66998</doc-number>
+                                <date>20150724</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2015EP66998</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="application number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2016EP54831</doc-number>
+                                <date>20160307</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2016EP54831</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <patcit dnum-type="application number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2018EP80837</doc-number>
+                                <date>20181109</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2018EP80837</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <patcit dnum-type="application number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2019EP82802</doc-number>
+                                <date>20191127</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2019EP82802</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <patcit dnum-type="application number" num="8">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP20200180137</doc-number>
+                                <date>20200616</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>20200180137</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <patcit dnum-type="publication number" num="9">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6064954</doc-number>
+                                <date>20000516</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6064954</doc-number>
+                                <kind>A</kind>
+                                <date>20000516</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="1">
+                            <text>- K. MAKINOJ. MATSUMOTO, "Hybrid audio coding for speech and audio below medium bit rate", Consumer Electronics, 2000. ICCE. 2000 Digest of Technical Papers. International Conference on, (20000000), pages 264 - 265</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <nplcit num="2">
+                            <text>- J. OJANPERA, Method, apparatus and computer program to provide predictor adaptation for advanced audio coding (AAC) system, (20040000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <nplcit num="3">
+                            <text>- J. OJANPERAA, Method for improving the coding efficiency of an audio signal, (20070000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                        <nplcit num="4">
+                            <text>- J. OJANPERÄ, Method for improving the coding efficiency of an audio signal, (20080000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                        <nplcit num="5">
+                            <text>- J. OJANPERÄM. VÄÄNÄNENL. YIN, Long term predictor for transform domain perceptual audio coding,'' in Audio Engineering Society Convention, (19990000), page 107</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                        <nplcit num="6">
+                            <text>- S. A. RAMPRASHAD, "A multimode transform predictive coder (MTPC) for speech and audio", Speech Coding Proceedings, 1999 IEEE Workshop on, (19990000), doi:10.1109/SCFT.1999.781467, pages 10 - 12, XP010345557</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="16">
+                        <nplcit num="7">
+                            <text>- L. VILLEMOESJ. KLEJSAP. HEDELIN, "Speech coding with transform domain prediction", 2017 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), (20170000), doi:10.1109/WASPAA.2017.8170048, pages 324 - 328, XP033264955</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="17">
+                        <nplcit num="8">
+                            <text>- R. H. FRAZIER, "An adaptive filtering approach toward speech enhancement", Citeseer, (19750000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="18">
+                        <nplcit num="9">
+                            <text>- D. MALAHR. COX, "A generalized comb filtering technique for speech enhancement", Acoustics, Speech, and Signal Processing, IEEE International Conference on ICASSP'82, (19820000), vol. 7, doi:10.1109/ICASSP.1982.1171716, pages 160 - 163, XP055816770</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="19">
+                        <nplcit num="10">
+                            <text>- J. SONGC.-H. LEEH.-O. OHH.-G. KANG, "Harmonic Enhancement in Low Bitrate Audio Coding Using an Efficient Long-Term Predictor", EURASIP J. Adv. Signal Process, (20100000), page 2010</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="20">
+                        <nplcit num="11">
+                            <text>- 3GPP, 3rd Generation Partnership Project; Technical Specification Group Services and System Aspects; Codec for Enhanced Voice Services (EVS); Detailed algorithmic description, (20190000), no. 26.445</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="21">
+                        <nplcit num="12">
+                            <text>- N. GUOB. EDLER, "Frequency Domain Long-Term Prediction for Low Delay General Audio Coding", IEEE Signal Processing Letters, (20210000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="22">
+                        <nplcit num="13">
+                            <text>- T. NANJUNDASWAMYK. ROSE, "Cascaded Long Term Prediction for Enhanced Compression of Polyphonic Audio Signals", IEEE/ACM Transactions On Audio, Speech, And Language Processing, (20140000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="23">
+                        <nplcit num="14">
+                            <text>- "Low Complexity Communication Codec", Bluetooth, (20200000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="24">
+                        <nplcit num="15">
+                            <text>- ETSI, Digital Enhanced Cordless Telecommunications (DECT); Low Complexity Communication Codec plus (LC3plus, (20190000), no. 103 634</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2021125624</doc-number>
+                                <name>RAVELLI EMMANUEL [DE], et al</name>
+                                <date>20210429</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2021125624</doc-number>
+                                <kind>A1</kind>
+                                <name>RAVELLI EMMANUEL [DE], et al</name>
+                                <date>20210429</date>
+                            </document-id>
+                        </patcit>
+                        <category>A</category>
+                        <rel-claims>1-13</rel-claims>
+                        <rel-passage>
+                            <passage>* paragraphs  [0048] - [0050] *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="1">
+                            <text>- Juin-Hwey Chen ET AL, "Adaptive postfiltering for quality enhancement of coded speech", IEEE Transactions on Speech and Audio Processing, doi:10.1109/89.365380, (19950101), pages 59 - 71, URL: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=365380, XP055104008</text>
+                        </nplcit>
+                        <category>A</category>
+                        <rel-claims>1-13</rel-claims>
+                        <rel-passage>
+                            <passage>* figure 5 *</passage>
+                            <passage>* secions IV and V *</passage>
+                        </rel-passage>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Processor (1100, 214) for processing an audio signal (y&amp;lt;sub&amp;gt;C&amp;lt;/sub&amp;gt;), the processor (1100,214) comprising:a splitter (1110) configured for splitting a time interval associated with a frame of the audio signal (y&amp;lt;sub&amp;gt;C&amp;lt;/sub&amp;gt;) into a plurality of sub-intervals, each having a respective length, the respective length of the plurality of sub-intervals being dependent on a pitch lag value;a harmonic post-filter (1120) configured for filtering the plurality of sub-intervals, wherein the harmonic post-filter (1120) is based on a transfer function comprising a numerator and a denominator, where the numerator comprises a harmonicity value, and wherein the denominator comprises a sub-interval pitch lag value and the harmonicity value and/or a gain value;wherein the associated harmonicity value and/or the sub-interval pitch lag value and/or the gain value is different in at least two different sub-intervals of the plurality of sub-intervals; wherein the sub-interval pitch lag value, the harmonicity value and/or the gain value are obtained based on the audio signal (yc) in each sub-interval of the plurality of sub-intervals.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

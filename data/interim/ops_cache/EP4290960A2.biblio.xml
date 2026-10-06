@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="73459055" country="EP" doc-number="4290960" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290960</doc-number>
+                        <kind>A2</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290960</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  72/  0453            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>0007</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>0044</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>0094</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>044</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>0453</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="601051235">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23206970</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230206970</doc-number>
+                        <date>20190517</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23206970.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230206970</doc-number>
+                            <date>20190517</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20190929280</doc-number>
+                            <date>20190517</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>19929280.6</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2019JP19727</doc-number>
+                            <date>20190517</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NTT DOCOMO INC [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>NTT DOCOMO, INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HARADA HIROKI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> YOSHIOKA SHOHEI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> NAGATA SATOSHI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HARADA, Hiroki, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>YOSHIOKA, Shohei, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>NAGATA, Satoshi</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BENUTZERENDGERÄT</invention-title>
+                <invention-title lang="fr">TERMINAL UTILISATEUR</invention-title>
+                <invention-title lang="en">USER TERMINAL</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A user terminal, when using a high frequency band having a frequency higher than a certain frequency band including one or a plurality of frequency ranges, increases number of symbols constituting one slot. The user terminal transmits and receives signals by using the slot with the increased number of symbols.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

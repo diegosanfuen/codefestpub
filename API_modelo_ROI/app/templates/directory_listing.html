@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+    <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+    <style>
+        .file-link {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-lg">
+        <h1>Backup Directory Contents</h1>
+        <ul class="list-group">            
+            {% for fecha, file in datos %}            
+                <li class="list-group-item">
+                  <div class="backup-date">{{ fecha }}</div>
+                  <a href="{{ url_for('static', filename='backups/' + file) }}" class="file-link">{{ file }}</a>
+                </li>           
+            {% endfor %}
+        </ul>
+    </div>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../style/legal.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:patent-family legal="true" total-result-count="11">
+        <ops:publication-reference>
+            <document-id document-id-type="docdb">
+                <country>EP</country>
+                <doc-number>4671941</doc-number>
+                <kind>A2</kind>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="87695941">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>4671941</doc-number>
+                    <kind>A2</kind>
+                    <date>20251231</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP4671941</doc-number>
+                    <date>20251231</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="640622813">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>25216598</doc-number>
+                    <kind>A</kind>
+                    <date>20230817</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202263414880</doc-number>
+                    <kind>P</kind>
+                    <date>20221010</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>23191848</doc-number>
+                    <kind>A</kind>
+                    <date>20230817</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202318359855</doc-number>
+                    <kind>A</kind>
+                    <date>20230726</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202263399187</doc-number>
+                    <kind>P</kind>
+                    <date>20220818</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="5" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202263414884</doc-number>
+                    <kind>P</kind>
+                    <date>20221010</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="6" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202263399188</doc-number>
+                    <kind>P</kind>
+                    <date>20220818</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

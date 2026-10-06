@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="79317676" country="EP" doc-number="4651593" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4651593</doc-number>
+                        <kind>A2</kind>
+                        <date>20251119</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4651593</doc-number>
+                        <date>20251119</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  72/    04            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>01</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>01</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>56</main-group>
+                        <subgroup>0035</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>23</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637982479">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25204980</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250204980</doc-number>
+                        <date>20200630</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25204980.4</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250204980</doc-number>
+                            <date>20200630</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200942785</doc-number>
+                            <date>20200630</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20942785.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020CN99283</doc-number>
+                            <date>20200630</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>QUALCOMM INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>QUALCOMM Incorporated</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ABDELGHAFFAR MUHAMMAD SAYED KHAIRY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MANOLAKOS ALEXANDROS [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHANG YU [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>ABDELGHAFFAR, Muhammad Sayed Khairy, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MANOLAKOS, Alexandros, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ZHANG, Yu</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ANZEIGE DER DOPPLER-VORKOMPENSATION IN KOMMUNIKATIONEN MIT MEHREREN SENDEEMPFANGSPUNKTEN</invention-title>
+                <invention-title lang="fr">INDICATION DE PRÉ-COMPENSATION DOPPLER DANS DES COMMUNICATIONS À POINTS DE RÉCEPTION MULTI-ÉMISSIONS</invention-title>
+                <invention-title lang="en">INDICATION OF DOPPLER PRE-COMPENSATION IN MULTI-TRANSMISSION RECEPTION POINT COMMUNICATIONS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Methods, systems, and devices for wireless communications are described. A user equipment (UE) may receive a first reference signal from a first transmission reception point (TRP) and a second reference signal from a second TRP. The UE may estimate a first Doppler shift associated with the first TRP based on receiving the first reference signal and may estimate a second Doppler shift associated with the second TRP based on receiving the second reference signal. In some cases, the UE may receive a first Doppler pre-compensated downlink transmission from the first TRP and a second Doppler pre-compensated downlink transmission from the second TRP based on a Doppler pre-compensation indication that indicates whether the downlink transmissions are Doppler pre-compensated.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

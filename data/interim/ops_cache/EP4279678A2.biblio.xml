@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="65013636" country="EP" doc-number="4279678" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4279678</doc-number>
+                        <kind>A2</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4279678</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>E04C   3/    29            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>2</main-group>
+                        <subgroup>7412</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>04</class>
+                        <subclass>C</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>07</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>04</class>
+                        <subclass>C</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>291</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599762958">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23201898</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230201898</doc-number>
+                        <date>20181219</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23201898.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230201898</doc-number>
+                            <date>20181219</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180833389</doc-number>
+                            <date>20181219</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18833389.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2018EP00569</doc-number>
+                            <date>20181219</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>KNAUF GIPS KG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Knauf Gips KG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                </parties>
+                <invention-title lang="de">PROFIL</invention-title>
+                <invention-title lang="fr">PROFILÉ</invention-title>
+                <invention-title lang="en">PROFILE</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE10216675</doc-number>
+                                <date>20130418</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>10216675</doc-number>
+                                <kind>B4</kind>
+                                <date>20130418</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Profile (1) for dry construction, comprising a first limb (2) and a second limb (3), which are connected to each other via a web (4), wherein the web (4) is formed of web elements (5) and the web elements (5) are connected in a form-fitting manner to the first limb (2) and the second limb (3).</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

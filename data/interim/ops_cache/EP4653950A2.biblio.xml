@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="82644264" country="EP" doc-number="4653950" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4653950</doc-number>
+                        <kind>A2</kind>
+                        <date>20251126</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4653950</doc-number>
+                        <date>20251126</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G03B  30/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>02</class>
+                        <subclass>B</subclass>
+                        <main-group>26</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638654433">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207771</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207771</doc-number>
+                        <date>20220804</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207771.4</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>TW20220107076</doc-number>
+                            <date>20220225</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>111107076</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220188730</doc-number>
+                            <date>20220804</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22188730.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>LARGAN PRECISION CO LTD [TW]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>LARGAN Precision Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CHEN HAO JAN [TW]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LAI YU CHEN [TW]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CHEN, Hao Jan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LAI, Yu Chen</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">STEUERBARE BLENDE, KOMPAKTES KAMERAMODUL UND ELEKTRONISCHE VORRICHTUNG</invention-title>
+                <invention-title lang="fr">ARRÊT D'OUVERTURE RÉGLABLE, MODULE DE CAMÉRA COMPACT ET DISPOSITIF ÉLECTRONIQUE</invention-title>
+                <invention-title lang="en">CONTROLLABLE APERTURE STOP, COMPACT CAMERA MODULE AND ELECTRONIC DEVICE</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A controllable aperture stop (2b) includes a light pass portion (21b), a fixed portion (23b), a driving part (25b) and rollable elements (270b). The light pass portion (21b) includes movable blades (ASB) together surrounding a light pass aperture (210b). The fixed portion (23b) has shaft structures (2310) corresponding to the movable blades (ASB). The driving part (25b) includes a rotatable element (251b), a magnet (253b) and a coil (255b) for driving the movable blades (ASB) to rotate. The rollable elements (270b) are between the fixed portion (23b) and the rotatable element (251b). The movable blades (ASB) are between a cover (235b) of the fixed portion (23b) and the rotatable element (251b). The cover (235b) includes an inner surface (2351b) facing the movable blades (ASB) and an outer surface (2352b). The inner surface (2351b) includes a positioning hole disposed corresponding to one of the shaft structures (2310b), and the positioning hole is a blind hole.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

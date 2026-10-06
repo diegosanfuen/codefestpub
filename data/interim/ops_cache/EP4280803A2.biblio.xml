@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="48471121" country="EP" doc-number="4280803" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4280803</doc-number>
+                        <kind>A2</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4280803</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  76/    28            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>8</main-group>
+                        <subgroup>005</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>76</main-group>
+                        <subgroup>28</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599799955">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202123</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202123</doc-number>
+                        <date>20130508</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202123.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230202123</doc-number>
+                            <date>20130508</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210159182</doc-number>
+                            <date>20130508</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21159182.1</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20130724473</doc-number>
+                            <date>20130508</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13724473.7</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013US40163</doc-number>
+                            <date>20130508</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>BLACKBERRY LTD [CA]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>BlackBerry Limited</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>NOVAK ROBERT [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MUKHERJEE BISWAROOP [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> EBRAHIMI TAZEH MAHALLEH MASOUD [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>NOVAK, Robert, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MUKHERJEE, Biswaroop, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>EBRAHIMI TAZEH MAHALLEH, Masoud</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">NÄHENSIGNALISIERUNG UND VERFAHREN FÜR LTE</invention-title>
+                <invention-title lang="fr">SIGNALISATION DE PROXIMITÉ ET PROCÉDURE POUR LTE</invention-title>
+                <invention-title lang="en">PROXIMITY SIGNALING AND PROCEDURE FOR LTE</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method for communication in a wireless telecommunications system comprises transmitting, by a first user equipment, UE, a first proximity beacon to a second UE according to at least one parameter of a pre-provisioned configuration; and detecting, by the first UE, a second proximity beacon transmitted by the second UE according to the at least one parameter. The at least one parameter indicates a pattern and a window defining a period including a transmission and detection opportunity, the pattern indicating a set of subframes in which a proximity beacon is to be transmitted or detected during the window.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="75362527" country="EP" doc-number="4265522" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4265522</doc-number>
+                        <kind>A2</kind>
+                        <date>20231025</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4265522</doc-number>
+                        <date>20231025</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B64D  15/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>0033</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>0033</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>BR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>166</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>BR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>166</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>166</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>20</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="8">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>BR</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598508897">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23196655</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230196655</doc-number>
+                        <date>20210401</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23196655.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202063004313P</doc-number>
+                            <date>20200402</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202063004313 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210166755</doc-number>
+                            <date>20210401</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21166755.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GOODRICH CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Goodrich Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GUTWEIN ERICH D [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GUTWEIN, Erich D</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KONTINUIERLICH GESTAPELTER DOPPELWICKLUNGSROHRENDVERSCHLUSS FÜR ENTEISUNGSSYSTEME
+</invention-title>
+                <invention-title lang="fr">FERMETURE D'EXTRÉMITÉ DE TUBE À DOUBLE ENVELOPPEMENT EMPILÉ EN CONTINU POUR LES SYSTÈMES ANTIGIVRAGE
+</invention-title>
+                <invention-title lang="en">CONTINUOUS STACKED DUAL WRAP TUBE END CLOSURE FOR ANTI-ICING SYSTEMS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A control system for an anti-icing system, comprising: a deicing boot (402); a controller (127); and a tangible, non-transitory memory configured to communicate with the controller, the tangible, non-transitory memory having instructions stored thereon that, in response to execution by the controller, cause the controller to perform operations comprising: receiving, by the controller, an enable command from a control interface; polling, by the controller, a sensor for a sensor data; receiving, by the controller, the sensor data from the sensor; passing, by the controller, the sensor data to an ice protection logic; determining, by the controller via the ice protection logic, an icing condition; and providing, by the controller, a compressed gas to the deicing boot.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

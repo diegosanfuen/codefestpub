@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="90531482" country="EP" doc-number="4664699" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4664699</doc-number>
+                        <kind>A1</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4664699</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H02G   3/    30            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>H02G   7/    05            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>05</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637984210">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25767230</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250767230</doc-number>
+                        <date>20250225</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25767230.3</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202410266330</doc-number>
+                            <date>20240308</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202410266330</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2025CN79078</doc-number>
+                            <date>20250225</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CN2025079078</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ZHONGTIAN RADIO FREQUENCY CABLE CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Zhongtian Radio Frequency Cable Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WANG BIN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SONG HAO [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> SHA MIN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> CAO WEIJIA [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHAO RUIJING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="epodoc">
+                            <inventor-name>
+                                <name> XU ZONGMING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WANG, Bin, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SONG, Hao, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>SHA, Min, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>CAO, Weijia, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>ZHAO, Ruijing, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="original">
+                            <inventor-name>
+                                <name>XU, Zongming</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">LECKKABELAUFHÄNGER</invention-title>
+                <invention-title lang="fr">DISPOSITIF DE SUSPENSION DE CÂBLE RAYONNANT</invention-title>
+                <invention-title lang="en">LEAKY CABLE HANGER</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure discloses a lifting appliance for leaky cable, and relates to the technical field of laying and installation equipment for cable. The lifting appliance for leaky cable comprises: an anchoring mechanism comprising a connecting screw rod, a locking member, a conical pin and an expansion clamp ring, wherein the locking member comprises a connecting portion, a top supporting portion and an anchoring portion that are connected sequentially, the locking member is connected to the connecting screw rod via the connecting portion, the conical pin can be embedded into a first anchoring hole and can force the anchoring portion to expand outward radially, so that the anchoring portion can be fixed in a wall to form a first tier of locking, and the expansion clamp ring is sleeved on the connecting portion, and when the locking member is pulled by an external force so that it tends to move outward, the expansion clamp ring can expand outward radially under the action of the top supporting portion to form a second tier of locking; and a cable locking mechanism comprising a supporting base plate, at least one cable bearing bracket and at least one cable locking cover plate pivotally mounted on the cable bearing bracket, wherein the anchoring mechanism is connected to the cable locking mechanism via threads through a mounting hole in the supporting base plate. The lifting appliance for leaky cable provided by the present disclosure has excellent cable fixing and locking performance for leaky cable.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

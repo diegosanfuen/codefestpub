@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="88068457" country="EP" doc-number="4656585" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4656585</doc-number>
+                        <kind>A2</kind>
+                        <date>20251203</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4656585</doc-number>
+                        <date>20251203</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B67D   1/    08            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>67</class>
+                        <subclass>D</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0832</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>67</class>
+                        <subclass>D</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0888</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638490373">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207145</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207145</doc-number>
+                        <date>20230904</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207145.1</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE202210122873</doc-number>
+                            <date>20220908</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102022122873</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230771758</doc-number>
+                            <date>20230904</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>23771758.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2023DE100641</doc-number>
+                            <date>20230904</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>DSI MICRO MATIC GMBH [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> VINSERVICE MICRO MATIC S R L [IT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>DSI Micro Matic GmbH, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>Vinservice Micro Matic S.r.l</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WOLTER MIRCO [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SOMMER PHILIPP [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> SÜLTROP STEFAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Wolter, Mirco, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Sommer, Philipp, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>Sültrop, Stefan</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">FITTING MIT DATENTRÄGER FÜR EIN GETRÄNKEFASS</invention-title>
+                <invention-title lang="fr">RACCORD AVEC SUPPORT DE DONNÉES POUR UN FÛT DE BOISSONS</invention-title>
+                <invention-title lang="en">FITTING WITH DATA CARRIER FOR A BEVERAGE KEG</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>GB383900</doc-number>
+                                <date>19321124</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>GB</country>
+                                <doc-number>383900</doc-number>
+                                <kind>A</kind>
+                                <date>19321124</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Fittinganordnung (1) für ein Getränkefass (13), aufweisend ein Fittinggehäuse (2) mit darin angeordnetem, federelastisch und insbesondere relativbewegbarem Steigrohr (6), und einer Dichtung (4), dadurch gekennzeichnet, dass auf oder in der Dichtung (4) und/oder in einer Abdeckung (24) der Dichtung (4) ein elektronischer Datenträger (22) angeordnet ist.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

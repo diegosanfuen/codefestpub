@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="83903404" country="EP" doc-number="4663964" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663964</doc-number>
+                        <kind>A2</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663964</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>F16C  29/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>21</class>
+                        <subclass>D</subclass>
+                        <main-group>43</main-group>
+                        <subgroup>11</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>65</class>
+                        <subclass>H</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>266</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>005</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>063</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>65</class>
+                        <subclass>H</subclass>
+                        <main-group>2301</main-group>
+                        <subgroup>31124</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>65</class>
+                        <subclass>H</subclass>
+                        <main-group>2405</main-group>
+                        <subgroup>5521</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639554569">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25211894</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250211894</doc-number>
+                        <date>20221021</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25211894.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250211894</doc-number>
+                            <date>20221021</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220203035</doc-number>
+                            <date>20221021</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22203035.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ZEHNDER &amp; SOMMER AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Zehnder &amp; Sommer AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LOHNER ERICH [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> FANKHAUSER URS [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LOHNER, Erich, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>FANKHAUSER, Urs</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">MODULARER VORSCHUB</invention-title>
+                <invention-title lang="fr">AVANCEMENT MODULAIRE</invention-title>
+                <invention-title lang="en">MODULAR FEED</invention-title>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die vorliegende Erfindung betrifft einen Vorschub zur Förderung von einem Werkstück, insbesondere Bandmaterial, in einer Förderrichtung, umfassend: mindestens ein erstes Paar Seitentragmodule; ein Grundtragmodul, das zwischen den Seitentragmodulen angeordnet ist; und mindestens ein Fördermodul; wobei die Seitentragmodule mit dem Grundtragmodul quer zur Förderrichtung lösbar verbunden sind, um eine U-förmige Tragstruktur des Vorschubs entlang der Förderrichtung auszubilden; wobei das Fördermodul in Förderrichtung bewegbar auf der Tragstruktur angeordnet ist.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Model Service Status via REST API</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+<script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+<style>
+/* ===============================
+   TABLE ANTI-PIJAMA (NUCLEAR FIX)
+   =============================== */
+
+table {
+  background: transparent !important;
+}
+
+/* mata CUALQUIER fondo que meta bootstrap */
+table tr,
+table td,
+table th,
+.table tr,
+.table td,
+.table th {
+  background-color: transparent !important;
+  background-image: none !important;
+  color: #e9eefc !important;
+}
+
+/* anula variables internas de Bootstrap 5 */
+.table {
+  --bs-table-bg: transparent !important;
+  --bs-table-accent-bg: transparent !important;
+  --bs-table-striped-bg: transparent !important;
+  --bs-table-hover-bg: transparent !important;
+  --bs-table-border-color: rgba(255,255,255,0.08) !important;
+  --bs-table-color: #e9eefc !important;
+}
+
+/* rayado CONTROLADO (sutil y oscuro) */
+.table tbody tr:nth-child(odd) td {
+  background-color: rgba(255,255,255,0.03) !important;
+}
+
+.table tbody tr:nth-child(even) td {
+  background-color: rgba(255,255,255,0.015) !important;
+}
+
+/* hover elegante */
+.table tbody tr:hover td {
+  background-color: rgba(255,255,255,0.06) !important;
+}
+
+/* header */
+.table thead th {
+  background-color: rgba(255,255,255,0.08) !important;
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+/* elimina blancos forzados tipo table-light */
+.table-light,
+.bg-light,
+.bg-white {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+</style>
+</head>
+<body>    
+<h2>EPO CODEFEST Project Model Service Status</h2>
+<h2>Available Models</h2>
+<p style="margin-bottom: 0.2em;">
+  The model endpoint is available at:
+</p>
+<p style="margin: 0; line-height: 1.2;">
+  <small>
+    <code>http(s)://&lt;host&gt;:&lt;port&gt;/api_h7/&lt;context&gt;</code>
+  </small>
+</p>
+<p style="margin-top: 0.2em;">
+  <small>See documentation for further details.</small>
+</p>
+<div class="table-wrap">
+  <table class="models-table">
+  <thead>
+    <tr>
+      <th class="anchura-fecha">Date:</th>
+      <th class="anchura-modelo">Model:</th>
+      <th class="anchura-contexto">Context:</th>            
+      <th class="anchura-ruta">Path:</th>
+      <th class="anchura-buttons"></th>
+      <th class="anchura-buttons"></th>
+      <th class="anchura-buttons"></th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for dato in datos_tabla %}
+    <tr>
+      <td class="anchura-fecha">{{ dato.fecha }}</td>
+      <td class="anchura-modelo">{{ dato.modelo }}</td>
+      <td class="anchura-contexto">{{ dato.contexto }}</td>           
+      <td class="anchura-ruta">{{ dato.ruta }}</td>
+       <td class="anchura-buttons">
+          <form method="get" action="/api_h7/{{ dato.contexto }}/schema">
+          <button  class="boton" type="submit">Information</button>
+          </form>
+      </td>
+      <td class="anchura-buttons">
+          <form method="post" action="/backendAdmin/modify">
+              <input type="hidden" name="contexto" value="{{ dato.contexto }}">
+          <button  class="boton" type="submit">Upgarde</button>
+          </form>
+      </td>
+      <td class="anchura-buttons">
+          <form method="post" action="/backendAdmin/delete">
+              <input type="hidden" name="contexto" value="{{ dato.contexto }}">
+          <button  class="boton" type="submit">Delete</button>
+          </form>
+      </td>
+
+    </tr>
+      {% endfor %}
+    <!-- Agrega más filas según sea necesario -->
+  </tbody>
+  </table>
+</div>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>
+

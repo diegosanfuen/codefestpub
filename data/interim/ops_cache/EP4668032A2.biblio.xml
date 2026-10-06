@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="74068403" country="EP" doc-number="4668032" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4668032</doc-number>
+                        <kind>A2</kind>
+                        <date>20251224</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4668032</doc-number>
+                        <date>20251224</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G05B  15/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639908408">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25213707</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250213707</doc-number>
+                        <date>20211011</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25213707.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>IT20200023851</doc-number>
+                            <date>20201009</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202000023851</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210802799</doc-number>
+                            <date>20211011</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21802799.3</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021IB59291</doc-number>
+                            <date>20211011</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VIMAR SPA [IT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Vimar S.p.A</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>POMELLA ALBERTO ANTONIO [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> ROMANIN GIANLUCA [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> RAVAGNIN ALESSANDRO [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>POMELLA, Alberto Antonio, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>ROMANIN, Gianluca, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>RAVAGNIN, Alessandro</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">STEUERUNGSVERFAHREN EINES ELEKTRISCHEN SYSTEMS</invention-title>
+                <invention-title lang="fr">PROCÉDÉ DE COMMANDE D'UN SYSTÈME ÉLECTRIQUE</invention-title>
+                <invention-title lang="en">CONTROL METHOD OF AN ELECTRICAL SYSTEM</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method for controlling an electrical system, in particular for buildings, of the type comprising at least one control device and a plurality of loads, there being defined in the electrical system a plurality of actuation functions which can be carried out by means of the control device or by means of a plurality of control devices, the method comprising combining with the actuation functions the actuation of one or more of the loads, storing actuations carried out by a user, extracting from the actuations stored a sequence of actuations repeated by the user, modifying the combination of the actuation functions with the loads on the basis of the sequence of repeated actuations extracted.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

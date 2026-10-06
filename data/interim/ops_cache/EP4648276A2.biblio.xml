@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97140770" country="EP" doc-number="4648276" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4648276</doc-number>
+                        <kind>A2</kind>
+                        <date>20251112</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4648276</doc-number>
+                        <date>20251112</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H02S  30/    10            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>H10F  19/    80            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>S</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>F</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>80</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>E</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>50</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637983748">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25205142</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250205142</doc-number>
+                        <date>20250926</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25205142.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN20251167541</doc-number>
+                            <date>20250731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202511067541</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202521618936U</doc-number>
+                            <date>20250731</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202521618936 U</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>JINKO SOLAR CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> ZHEJIANG JINKO SOLAR CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>JINKO SOLAR CO., LTD, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>Zhejiang Jinko Solar Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CHEN ZHENDONG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> TAO WUSONG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LI TINGTING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CHEN, Zhendong, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>TAO, Wusong, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LI, Tingting</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">PHOTOVOLTAISCHESMODUL</invention-title>
+                <invention-title lang="fr">MODULE PHOTOVOLTAÏQUE</invention-title>
+                <invention-title lang="en">PHOTOVOLTAIC MODULE</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A photovoltaic module includes a lamination member, an insulation member and a frame, the insulation member is arranged at an edge of the lamination member, the insulation member is in contact with the insulation member in a first direction, and the edge of the lamination member is located in the frame. The lamination member includes a cell layer, and in a plane perpendicular to a thickness direction of the lamination member, a minimum distance between the cell layer and the insulation member is a, a minimum distance between the cell layer and the insulation member in the thickness direction of the lamination member is b, a part of the lamination member shielded by the insulation member in the thickness direction thereof has a size c in the first direction, and a creepage distance of the photovoltaic module is A=a+b+c.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="70464915" country="EP" doc-number="4276012" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4276012</doc-number>
+                        <kind>A2</kind>
+                        <date>20231115</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4276012</doc-number>
+                        <date>20231115</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B64C  11/    30            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>C</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>301</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>C</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>301</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>C</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>303</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>145</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598508898">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23196657</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230196657</doc-number>
+                        <date>20200424</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23196657.3</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201962838378P</doc-number>
+                            <date>20190425</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201962838378 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200171408</doc-number>
+                            <date>20200424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20171408.6</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>PRATT &amp; WHITNEY CANADA [CA]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>PRATT &amp; WHITNEY CANADA CORP</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>TOMESCU DANA [CA]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>TOMESCU, Dana</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BLATTWINKELPOSITIONSRÜCKKOPPLUNGSSYSTEM MIT VERSATZSENSOREN</invention-title>
+                <invention-title lang="fr">SYSTÈME DE RÉTROACTION DE POSITION D'ANGLE DE PALE AVEC CAPTEURS DÉCALÉS</invention-title>
+                <invention-title lang="en">BLADE ANGLE POSITION FEEDBACK SYSTEM WITH OFFSET SENSORS</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2018304991</doc-number>
+                                <date>20181025</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2018304991</doc-number>
+                                <kind>A1</kind>
+                                <date>20181025</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A blade angle feedback assembly (200) for an aircraft-bladed rotor (130), the rotor (130) rotatable about a longitudinal axis (A) and having an adjustable blade pitch angle, is provided. The assembly (200) comprises a feedback device (204) coupled to rotate with the rotor (130) and to move along the longitudinal axis (A) with adjustment of the blade pitch angle, the feedback device (204) comprising a plurality of position markers (202) circumferentially spaced around the feedback device (204), a plurality of sensors (212, 212&amp;lt;sub&amp;gt;A&amp;lt;/sub&amp;gt;, 212&amp;lt;sub&amp;gt;B&amp;lt;/sub&amp;gt;) positioned adjacent the feedback device (204) and each configured for producing a sensor signal in response to detecting passage of the position markers (202) as the feedback device (204) rotates about the longitudinal axis (A), the sensors (212, 212&amp;lt;sub&amp;gt;A&amp;lt;/sub&amp;gt;, 212&amp;lt;sub&amp;gt;B&amp;lt;/sub&amp;gt;) circumferentially spaced around the feedback device (204) and axially offset along the longitudinal axis (A), and a control unit (220) communicatively coupled to the sensors (212, 212&amp;lt;sub&amp;gt;A&amp;lt;/sub&amp;gt;, 212&amp;lt;sub&amp;gt;B&amp;lt;/sub&amp;gt;) and configured to generate a feedback signal indicative of the blade pitch angle in response to the sensor signals received from the sensors (212, 212&amp;lt;sub&amp;gt;A&amp;lt;/sub&amp;gt;, 212&amp;lt;sub&amp;gt;B&amp;lt;/sub&amp;gt;).</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="72039683" country="EP" doc-number="4290872" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290872</doc-number>
+                        <kind>A1</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290872</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04N  21/  4363            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>H04N  21/   439            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>165</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>N</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>43637</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>N</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>4392</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>R</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>1041</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>4</main-group>
+                        <subgroup>80</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600748839">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23206198</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230206198</doc-number>
+                        <date>20200722</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23206198.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230206198</doc-number>
+                            <date>20200722</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200754094</doc-number>
+                            <date>20200722</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20754094.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020US43043</doc-number>
+                            <date>20200722</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GOOGLE LLC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Google LLC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>JIA YONGKANG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KURAMOTO JEFFREY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>JIA, Yongkang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>KURAMOTO, Jeffrey</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ADAPTIVE AUDIOWIEDERGABEGESCHWINDIGKEIT FÜR BLUETOOTH-KOPFHÖRER</invention-title>
+                <invention-title lang="fr">VITESSE DE LECTURE AUDIO ADAPTATIVE D'ÉCOUTEUR BLUETOOTH</invention-title>
+                <invention-title lang="en">BLUETOOTH EARPHONE ADAPTIVE AUDIO PLAYBACK SPEED</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2006104397</doc-number>
+                                <name>LOTTIS KENT D [US], et al</name>
+                                <date>20060518</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2006104397</doc-number>
+                                <kind>A1</kind>
+                                <name>LOTTIS KENT D [US], et al</name>
+                                <date>20060518</date>
+                            </document-id>
+                        </patcit>
+                        <category>Y</category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2014029701</doc-number>
+                                <name>NEWHAM ADAM E [US], et al</name>
+                                <date>20140130</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2014029701</doc-number>
+                                <kind>A1</kind>
+                                <name>NEWHAM ADAM E [US], et al</name>
+                                <date>20140130</date>
+                            </document-id>
+                        </patcit>
+                        <category>XYI</category>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2021145659</doc-number>
+                                <name>SAMSUNG ELECTRONICS CO LTD [KR]</name>
+                                <date>20210722</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2021145659</doc-number>
+                                <kind>A1</kind>
+                                <name>SAMSUNG ELECTRONICS CO LTD [KR]</name>
+                                <date>20210722</date>
+                            </document-id>
+                        </patcit>
+                        <category>E</category>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure provides systems and methods for adjusting the playback speed of accessories based on the buffer level of the received content. The accessories may receive content from a host device at a certain speed. The incoming speed of the content may be different than the playback speed of the content. Therefore, a buffer level of the received content may be determined using a linear least square ("LLS") fit of the buffer level, the average of the buffer level, or a phased locked loop ("PLL") approach. Based on a difference between the buffer level and the playback speed, a speed adjustment may be determined. Instructions may be transmitted from a primary accessory to a secondary accessory to adjust the playback speed by a certain amount at a certain time. This may ensure that the accessories remain in sync. The accessories may then adjust their respective playback speeds.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

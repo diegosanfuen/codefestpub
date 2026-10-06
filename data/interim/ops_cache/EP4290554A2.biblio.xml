@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="88558467" country="EP" doc-number="4290554" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290554</doc-number>
+                        <kind>A2</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290554</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H01L  21/    02            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>H01L  21/    66            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>L</subclass>
+                        <main-group>22</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600927160">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23206075</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230206075</doc-number>
+                        <date>20231026</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23206075.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230206075</doc-number>
+                            <date>20231026</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SILTRONIC AG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Siltronic AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HAID RICHARD [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HAGER THOMAS [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> RIEDEL FRANK [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZIERER ROBERT [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Haid, Richard, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Hager, Thomas, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>Riedel, Frank, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>Zierer, Robert</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">PARAMETRISIERUNG DER RUNDUNG EINER SCHEIBE AUS HALBLEITERMATERIAL</invention-title>
+                <invention-title lang="fr">PARAMÉTRAGE DE L'ARRONDI D'UN DISQUE DE MATÉRIAU SEMI-CONDUCTEUR</invention-title>
+                <invention-title lang="en">PARAMETERIZATION OF WAFER ROUNDING</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2020090923</doc-number>
+                                <date>20200319</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2020090923</doc-number>
+                                <kind>A1</kind>
+                                <date>20200319</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2020240929</doc-number>
+                                <date>20200730</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2020240929</doc-number>
+                                <kind>A1</kind>
+                                <date>20200730</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US11656186</doc-number>
+                                <date>20230523</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>11656186</doc-number>
+                                <kind>B2</kind>
+                                <date>20230523</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Verfahren zur Bestimmung der Rundung einer Scheibe aus Halbleitermaterial, umfassend die folgenden Schritte in dieser Reihenfolge:(i) Messen des Höhenprofils einer Scheibe aus Halbleitermaterial in radialer Richtung in deren Randbereich und in einem in Radialinwärtsrichtung an den Randbereich angrenzenden Bereich, wobei der Randbereich definiert ist, als ringförmiger Bereich am äußeren Rand der Scheibe, in dem sich die Dicke der Scheibe in Radialauswärtsrichtung kontinuierlich verringert;(ii) Festlegen eines radialen Abschnittes, der einen Teil des Randbereiches und zumindest einen Teil des in Radialinwärtsrichtung an den Randbereich angrenzenden Bereiches der Scheibe aus Halbleitermaterial umfasst;(iii) Bestimmung eines Winkels ϕ und optional eines Winkels θ für bestimmte Messpunkte P1 des Höhenprofils im radialen Abschnitt,wobei der Winkel ϕ aus dem jeweiligen bestimmten Messpunkt P1 als Scheitelpunkt, und zwei weiteren Messpunkten P2 und P3 des Höhenprofils gebildet wird, die in einem bestimmten radialen Abstand a vom Scheitelpunkt in Radialinwärtsrichtung und in Radialauswärtsrichtung angeordnet sind, undwobei der Winkel θ aus der Differenz 180°-ϕ erhalten wird; und(iv) Identifizieren des kleinsten Winkels ϕ oder optional des größten Winkles θ im radialen Abschnitt als Kennzahl für die Rundung.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

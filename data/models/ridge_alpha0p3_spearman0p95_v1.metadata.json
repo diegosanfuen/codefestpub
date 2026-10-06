@@ -1,0 +1,32 @@
+{
+  "artifact": "ridge_alpha0p3_spearman0p95_v1",
+  "model_type": "Ridge",
+  "alpha": 0.3,
+  "pipeline_steps": [
+    "imputer",
+    "scaler",
+    "model"
+  ],
+  "features": [
+    "is_active_recent",
+    "log_legal_events_count",
+    "log_family_size",
+    "novelty_x_breadth",
+    "novelty_x_family",
+    "log_priority_count",
+    "log_party_applicant_count"
+  ],
+  "n_features": 7,
+  "n_samples": 2000,
+  "target_col": "roi_proxy_v3",
+  "dropped_cols": [],
+  "dropped_non_numeric_cols": [],
+  "dataset_path": "data/processed/final/tablon_model_ready_final_features.parquet",
+  "exported_at_utc": "2026-02-11T20:37:44.315790+00:00",
+  "env": {
+    "python": "3.12.11",
+    "sklearn": "1.7.1",
+    "pandas": "2.3.1",
+    "numpy": "2.2.6"
+  }
+}

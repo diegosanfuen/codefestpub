@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="61197413" country="EP" doc-number="4274374" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4274374</doc-number>
+                        <kind>A2</kind>
+                        <date>20231108</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4274374</doc-number>
+                        <date>20231108</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  92/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>24</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>318</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>328</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>24</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>92</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599304600">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23199735</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230199735</doc-number>
+                        <date>20170303</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23199735.4</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201662377295P</doc-number>
+                            <date>20160819</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201662377295 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20170841776</doc-number>
+                            <date>20170303</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>17841776.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2017US20707</doc-number>
+                            <date>20170303</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>APPLE INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Apple Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>YIU, Candy, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>DAVYDOV, Alexei Vladimirovich, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>TANG, Yang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>HUANG, Rui</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">FILTERUNG ZUR MESSUNG IN NETZWERKEN DER FÜNFTEN GENERATION</invention-title>
+                <invention-title lang="fr">FILTRAGE POUR MESURE DANS DES RÉSEAUX DE CINQUIÈME GÉNÉRATION</invention-title>
+                <invention-title lang="en">FILTERING FOR MEASUREMENT IN FIFTH GENERATION NETWORKS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201662377295P</doc-number>
+                                <date>20160819</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>201662377295</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Embodiments of filtering for measurements in 5G networks generally described herein. In some embodiments, a user equipment (UE) reads, from the memory, reference signal received power (RSRP) and transmission reception point (TRP) measurements. The UE applies layer 1 filtering to the RSRP measurements. The UE applies, using a layer 3 filter, layer 3 filtering to the layer 1 filtered RSRP measurements, a configuration of the layer 3 filter being provided via radio resource control (RRC) signaling. The UE applies an average filter to the RSRP measurements, the average filter being applied either before, during or after the layer 3 filter. The UE computes reporting criteria values for the layer 3 filtered RSRP measurements to generate a measurement report. The UE encodes for transmission of the generated measurement report to an evolved NodeB (eNB) via a radio interface.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

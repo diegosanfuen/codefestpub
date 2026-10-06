@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="89223009" country="EP" doc-number="4660856" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4660856</doc-number>
+                        <kind>A2</kind>
+                        <date>20251210</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4660856</doc-number>
+                        <date>20251210</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  21/    54            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>54</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>577</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>577</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>63</main-group>
+                        <subgroup>1433</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>2221</main-group>
+                        <subgroup>033</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>2221</main-group>
+                        <subgroup>033</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639390736">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25211375</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250211375</doc-number>
+                        <date>20231215</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25211375.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202263434976P</doc-number>
+                            <date>20221223</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202263434976 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230217028</doc-number>
+                            <date>20231215</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>23217028.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>PALANTIR TECHNOLOGIES INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Palantir Technologies Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ROGERS CALLUM [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> FOX DANIEL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> WINDHEUSER FABIAN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> DEARMENT GREGORY [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>ROGERS, Callum, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>FOX, Daniel, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>WINDHEUSER, Fabian, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>DEARMENT, Gregory</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SYSTEME UND VERFAHREN ZUR VERWALTUNG VON SOFTWARESICHERHEIT</invention-title>
+                <invention-title lang="fr">SYSTÈMES ET PROCÉDÉS DE GESTION DE SÉCURITÉ LOGICIELLE</invention-title>
+                <invention-title lang="en">SYSTEMS AND METHODS FOR MANAGING SOFTWARE SECURITY</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>According to some embodiments, systems and methods for the present disclosure are directed to managing software security including, for example, controlling software deployment via continuous vulnerability scanning. In certain embodiments, a method for managing software security includes the steps of: initiating a vulnerability scan to a software product based on one or more scan parameters; performing the vulnerability scan to the software product to identify one or more security vulnerabilities using one or more scanners; determining a requirement associated with a first identified security vulnerability of the one or more identified security vulnerabilities; determining one or more actions corresponding to the one or more identified security vulnerabilities.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

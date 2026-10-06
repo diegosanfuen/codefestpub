@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97445532" country="EP" doc-number="4663553" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663553</doc-number>
+                        <kind>A2</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663553</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B64D   9/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>B64F   1/   305            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>B64F   1/    36            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>F</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>368</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>D</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>F</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>305</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>64</class>
+                        <subclass>F</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>366</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639535937">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25211526</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250211526</doc-number>
+                        <date>20251027</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25211526.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250211526</doc-number>
+                            <date>20251027</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ALTIKRITI MUDHAR FAROUQ ABDULSATTAR [AT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Altikriti, Mudhar Farouq Abdulsattar</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ALTIKRITI MUDHAR FAROUQ ABDULSATTAR [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Altikriti, Mudhar Farouq Abdulsattar</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VOLLAUTOMATISCHES END-TO-END-GEPÄCKHANDHABUNGSSYSTEM MIT EINEM AUTHENTIFIZIERTEN PASSAGIERGEPÄCKANSPRUCH AN FLUGHÄFEN</invention-title>
+                <invention-title lang="fr">SYSTÈME DE MANUTENTION DE BAGAGES DE BOUT EN BOUT ENTIÈREMENT AUTOMATISÉ INCORPORANT UN RÉCLAMATION DE BAGAGES DE PASSAGER AUTHENTIFIÉ DANS DES AÉROPORTS</invention-title>
+                <invention-title lang="en">FULLY AUTOMATED END-TO-END BAGGAGE HANDLING SYSTEM INCORPORATING AN AUTHENTICATED-PASSENGER BAGGAGE CLAIM AT AIRPORTS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A fully automated end-to-end baggage-handling system (1000) integrates ground, transfer, aircraft-cargo-hold, and reclaim operations under centralized control (ConSys 8000). Ground-Air Rack Devices (GARD 2000) retain baggage within rack modules conveyed by Robo-Shuttles (3100) and Autonomous Mobile Robots (3200) across terminal and apron zones. Continuous GARD transfer between terminal and aircraft is achieved through Cargo Travelator-Operated Bridges (CTROB 4100), Subways (CTROS 4200), and Dolly Trains (GADOT 4310). Within the aircraft cargo hold (5000), GARD units are indexed by the Logistics Obround Orchestrated Platform (LOOP 5200) without manual intervention. At arrival terminals, GARD units are unloaded from the aircraft and conveyed in reverse sequence of the departure process through transfer infrastructures to the Baggage Claim for Authenticated-Passenger subsystem (BACAP 7000), where Biometric Baggage-Claim Gates (BIOBAG 7100) manage the authenticated-passenger baggage retrieval process. The system enables unmanned, continuous, and traceable baggage transfer between Departure, Apron, and Arrival operations.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

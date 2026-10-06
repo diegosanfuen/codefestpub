@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="84424504" country="EP" doc-number="4657919" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4657919</doc-number>
+                        <kind>A2</kind>
+                        <date>20251203</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4657919</doc-number>
+                        <date>20251203</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  28/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>2483</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>283</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>28</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>28</main-group>
+                        <subgroup>0268</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>84</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>D</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>70</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638894630">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25209083</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250209083</doc-number>
+                        <date>20210611</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25209083.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250209083</doc-number>
+                            <date>20210611</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210944653</doc-number>
+                            <date>20210611</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21944653.1</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021CN99879</doc-number>
+                            <date>20210611</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP., LTD</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LU LIUMING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HUANG LEI [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LUO CHAOMING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHOU PEI [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LU, Liuming, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>HUANG, Lei, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LUO, Chaoming, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>ZHOU, Pei</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ZUGANGSPUNKT, STATION UND DRAHTLOSKOMMUNIKATIONSVERFAHREN</invention-title>
+                <invention-title lang="fr">POINT D'ACCÈS, STATION ET PROCÉDÉ DE COMMUNICATION SANS FIL</invention-title>
+                <invention-title lang="en">ACCESS POINT, STATION, AND WIRELESS COMMUNICATION METHOD</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>An access point (AP), a station (STA), and a wireless communication method are provided. The wireless communication method includes determining, by an AP, a criterion for latency sensitive traffic and determining, by the AP, one or more traffic stream identifiers (TSIDs) for TS-based latency sensitive traffic comprising a TS with a particular traffic specification (TSPEC), wherein the TSPEC comprises extended parameters. The wireless communication method further includes setting up, by the AP, a restricted target wake time (TWT) for the one or more TSIDs. This can issues in the prior art, support a TS operation for latency sensitive traffic, provide good communication performance, and/or provide high reliability.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

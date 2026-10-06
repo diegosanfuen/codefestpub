@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+
+  <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+
+  <title>EPO Model Web Client</title>
+
+  <style>
+    .info-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 20px;
+      height: 20px;
+      margin-left: 8px;
+      border-radius: 50%;
+      background: #0d6efd;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+      line-height: 1;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+    }
+
+    .info-popup {
+      display: none;
+      margin: 8px 0 10px 0;
+      padding: 12px 14px;
+      background: #f8fbff;
+      border: 1px solid #d6e6ff;
+      border-left: 4px solid #0d6efd;
+      border-radius: 10px;
+      color: #243447;
+      font-size: 0.92rem;
+      line-height: 1.45;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .info-popup .info-row {
+      margin-bottom: 6px;
+    }
+
+    .info-popup .info-row:last-child {
+      margin-bottom: 0;
+    }
+
+    .info-popup .info-label {
+      font-weight: 700;
+      color: #0d3b8e;
+      display: inline-block;
+      min-width: 78px;
+    }
+
+    .info-popup code {
+      background: #eef4ff;
+      color: #183153;
+      padding: 1px 5px;
+      border-radius: 4px;
+      font-size: 0.88em;
+    }
+
+    .roi-bar {
+      position: relative;
+      width: 100%;
+      height: 24px;
+      display: flex;
+      overflow: hidden;
+      border-radius: 6px;
+      border: 1px solid #ced4da;
+      margin-top: 8px;
+    }
+
+    .roi-low {
+      flex: 3;
+      background: #dc3545;
+    }
+
+    .roi-medium {
+      flex: 4;
+      background: #ffc107;
+    }
+
+    .roi-high {
+      flex: 3;
+      background: #198754;
+    }
+
+    .roi-marker {
+      position: absolute;
+      top: -4px;
+      width: 4px;
+      height: 32px;
+      background: #111;
+      border-radius: 2px;
+      transform: translateX(-50%);
+      z-index: 5;
+    }
+
+    .roi-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 4px;
+    }
+
+    .roi-legend {
+      margin-top: 10px;
+      font-size: 0.92rem;
+    }
+
+    .roi-legend span {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 12px;
+      margin-right: 6px;
+      font-size: 0.82rem;
+      color: white;
+    }
+
+    .badge-low {
+      background: #dc3545;
+    }
+
+    .badge-medium {
+      background: #d39e00;
+    }
+
+    .badge-high {
+      background: #198754;
+    }
+
+    .roi-note {
+      margin-top: 10px;
+      color: #555;
+      font-size: 0.9rem;
+    }
+
+   .codebox {
+    background: #000000;
+    color: #32cd32;
+    border: 1px solid #222;
+    border-radius: 6px;
+    padding: 12px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-size: 0.95rem;
+    font-family: Consolas, Monaco, monospace;
+    min-height: 120px;
+    max-height: 320px;
+    overflow: auto;
+  }
+
+  .codebox-mini {
+    background: #000000;
+    color: #32cd32;
+    border: 1px solid #222;
+    border-radius: 6px;
+    padding: 10px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-size: 0.82rem;
+    font-family: Consolas, Monaco, monospace;
+    max-height: 220px;
+    overflow: auto;
+    margin-top: 6px;
+  }
+      .result-box {
+    background: #f8f9fa;
+    border: 2px solid #0d6efd;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-top: 14px;
+    margin-bottom: 18px;
+  }
+
+  .result-box .result-title {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 6px;
+  }
+
+  .result-box .result-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #0d6efd;
+    word-break: break-word;
+  }
+  </style>
+</head>
+<body>
+  <div class="container my-4">
+
+    <div class="d-flex align-items-end justify-content-between mb-3">
+      <div>
+        <h1 class="mb-1">EPO Model Web Client</h1>
+        <div class="text-muted small">
+          REST client for <code>/api_h7/&lt;context&gt;</code> endpoints.
+        </div>
+      </div>
+      <div class="small text-muted">
+        <span class="badge rounded-pill bg-secondary">CodeFest UI</span>
+      </div>
+    </div>
+
+    {% if error_global %}
+      <div class="alert alert-danger">
+        <strong>Request failed.</strong><br>
+        <div style="white-space: pre-wrap;">{{ error_global }}</div>
+      </div>
+    {% endif %}
+
+    {% if errors and errors.get("_global") %}
+      <div class="alert alert-warning">{{ errors.get("_global") }}</div>
+    {% endif %}
+
+    <div class="row g-3">
+      <!-- LEFT: FORM -->
+      <div class="col-12 col-lg-6">
+        <div class="card shadow-sm h-100">
+          <div class="card-body">
+            <h5 class="card-title mb-3">Endpoint & Features</h5>
+
+            <form method="POST" class="needs-validation" novalidate>
+              <div class="row g-2 mb-3">
+                <div class="col-4">
+                  <label class="form-label">Scheme</label>
+                  <select class="form-select form-select-sm" name="scheme">
+                    <option value="http" {% if scheme =="http" %}selected{% endif %}>http</option>
+                    <option value="https" {% if scheme =="https" %}selected{% endif %}>https</option>
+                  </select>
+                </div>
+                <div class="col-5">
+                  <label class="form-label">Host</label>
+                  <input class="form-control form-control-sm" name="host" value="{{ host }}" />
+                </div>
+                <div class="col-3">
+                  <label class="form-label">Port</label>
+                  <input class="form-control form-control-sm" name="port" value="{{ port }}" />
+                </div>
+
+                <div class="col-8 mt-2">
+                  <label class="form-label">Context</label>
+                  <input class="form-control form-control-sm" name="context" value="{{ context }}" />
+                </div>
+                <div class="col-4 mt-2">
+                  <label class="form-label">Timeout (s)</label>
+                  <input class="form-control form-control-sm" name="timeout" value="{{ timeout }}" />
+                </div>
+              </div>
+
+              <div class="mb-2">
+                <div class="text-muted small">
+                  Effective endpoint:
+                  <code class="ms-1">{{ effective_url }}</code>
+                </div>
+              </div>
+
+              <hr class="my-3"/>
+
+              <div class="row g-2">
+                {% for name, cast, label in fields %}
+                  {% set r = ranges.get(name) %}
+                  <div class="col-12">
+                    <label class="form-label mb-1 d-flex align-items-center">
+                      <span>{{ label }}</span>
+                      <span class="info-icon" onclick="toggleInfo('{{ name }}')" title="Show variable description">i</span>
+                    </label>
+
+                    <div id="info-{{ name }}" class="info-popup">
+                      {{ feature_descriptions.get(name, "No description available.") | safe }}
+                    </div>
+
+                    <div class="input-group input-group-sm">
+                      <input
+                        class="form-control {% if errors.get(name) %}is-invalid{% endif %}"
+                        name="{{ name }}"
+                        value="{{ field_values.get(name, '') }}"
+                        placeholder="{% if r %}{{ r[0] }}–{{ r[1] }}{% else %}value{% endif %}"
+                      />
+                      {% if r %}
+                        <span class="input-group-text">range {{ r[0] }}–{{ r[1] }}</span>
+                      {% endif %}
+                      {% if errors.get(name) %}
+                        <div class="invalid-feedback">{{ errors.get(name) }}</div>
+                      {% endif %}
+                    </div>
+
+                    <div class="form-text small">
+                      Send empty to omit this feature from the payload.
+                    </div>
+                  </div>
+                {% endfor %}
+              </div>
+
+              <div class="d-flex gap-2 mt-3">
+                <button type="submit" class="btn btn-primary btn-sm">
+                  Run model
+                </button>
+                <a class="btn btn-outline-secondary btn-sm"
+                   href="/?scheme={{ scheme }}&host={{ host }}&port={{ port }}&context={{ context }}&timeout={{ timeout }}">
+                  Reset features
+                </a>
+              </div>
+
+              <div class="mt-2 text-muted small">
+                Tip: you can prefill fields via querystring (e.g. <code>?host=localhost&port=8000&context=epo_roi</code>).
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT: OUTPUT -->
+      <div class="col-12 col-lg-6">
+        <div class="card shadow-sm h-100">
+          <div class="card-body">
+            <h5 class="card-title mb-3">Output</h5>
+
+            {% if status_code %}
+              <div class="mb-2">
+                <span class="badge {% if status_code < 400 %}bg-success{% else %}bg-danger{% endif %}">
+                  HTTP {{ status_code }}
+                </span>
+                <span class="text-muted small ms-2">Endpoint: <code>{{ effective_url }}</code></span>
+              </div>
+            {% endif %}
+
+            <div class="mb-3">
+              <div class="text-muted small mb-1">Payload used</div>
+              <pre class="codebox">{% if payload_used %}{{ payload_used | tojson(indent=2) }}{% else %}{ }{% endif %}</pre>
+            </div>
+
+            <div class="mb-1">
+              <div class="text-muted small mb-1">Prediction result</div>
+              <pre class="codebox">{% if result_json %}{{ result_json | tojson(indent=2) }}{% else %}{ }{% endif %}</pre>
+            </div>
+
+          {% set raw_score = none %}
+
+          {% if result_json %}
+            {% if result_json.get('roi_score') is not none %}
+              {% set raw_score = result_json.get('roi_score') %}
+            {% elif result_json.get('score') is not none %}
+              {% set raw_score = result_json.get('score') %}
+            {% elif result_json.get('prediction') is not none %}
+              {% set raw_score = result_json.get('prediction') %}
+            {% elif result_json.get('predicted_roi') is not none %}
+              {% set raw_score = result_json.get('predicted_roi') %}
+            {% elif result_json.get('ROI_V3') is not none %}
+              {% set raw_score = result_json.get('ROI_V3') %}
+            {% elif result_json.get('pred') is not none and result_json.get('pred')|length > 0 %}
+              {% set raw_score = result_json.get('pred')[0] %}
+            {% endif %}
+          {% endif %}
+
+  <hr class="my-4"/>
+
+
+  <h5 class="card-title mb-2">ROI Interpretation Guide</h5>
+
+  {% if raw_score is not none %}
+  <div class="result-box">
+    <div class="result-title">Main predicted result</div>
+    <div class="result-value">{{ raw_score }}</div>
+  </div>
+{% endif %}
+
+  <div class="roi-legend">
+    <span class="badge-low">Low</span>
+    <span class="badge-medium">Moderate</span>
+    <span class="badge-high">High</span>
+    <span style="display:inline-block; padding:2px 8px; border-radius:12px; background:#0d6efd; color:white; font-size:0.82rem;">
+      Very High
+    </span>
+  </div>
+
+  <div style="position: relative; margin-top: 10px;">
+    <div style="display:flex; height:24px; border:1px solid #ced4da; border-radius:6px; overflow:hidden;">
+      <div style="flex:1; background:#dc3545;"></div>
+      <div style="flex:2; background:#ffc107;"></div>
+      <div style="flex:2; background:#198754;"></div>
+      <div style="flex:2; background:#0d6efd;"></div>
+    </div>
+
+  {% if raw_score is not none %}
+    {% set score = raw_score|float %}
+    {% set display_max = 7.0 %}
+    {% set marker_left = ((score / display_max) * 100) if score <= display_max else 100 %}
+    <div style="
+      position:absolute;
+      left: {{ marker_left }}%;
+      top:-4px;
+      width:4px;
+      height:32px;
+      background:#111;
+      border-radius:2px;
+      transform:translateX(-50%);
+      z-index:5;"></div>
+  {% endif %}
+    </div>
+
+    <div class="roi-labels">
+      <span>0</span>
+      <span>1</span>
+      <span>3</span>
+      <span>5</span>
+      <span>7+</span>
+    </div>
+
+    <div class="roi-note">
+      <strong>Interpretation of output variable:</strong><br>
+      This model version may return ROI values above 1.0. Higher values indicate stronger expected return and stronger commercial potential.
+    </div>
+
+    <div class="mt-3 small">
+      <strong>Suggested interpretation bands:</strong><br>
+      <span class="text-danger"><strong>Low ROI:</strong> 0 – 1</span><br>
+      <span class="text-warning"><strong>Moderate ROI:</strong> 1 – 3</span><br>
+      <span class="text-success"><strong>High ROI:</strong> 3 – 5</span><br>
+      <span style="color:#0d6efd;"><strong>Very High ROI:</strong> &gt; 5</span>
+    </div>
+
+    {% if raw_score is not none %}
+      {% set score = raw_score|float %}
+      <div class="alert alert-info mt-3 mb-0">
+        <strong>Detected score:</strong> {{ score }}<br>
+        <strong>Category:</strong>
+        {% if score < 1 %}
+          Low ROI
+        {% elif score < 3 %}
+          Moderate ROI
+        {% elif score < 5 %}
+          High ROI
+        {% else %}
+          Very High ROI
+        {% endif %}
+      </div>
+    {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <!-- HISTORY -->
+      <div class="col-12">
+        <div class="card shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title mb-3">Last 10 runs</h5>
+
+            {% if history and history|length > 0 %}
+              <div class="table-responsive">
+                <table class="table table-sm align-middle">
+                  <thead>
+                    <tr>
+                      <th style="width: 160px;">Time</th>
+                      <th>Status</th>
+                      <th>Endpoint</th>
+                      <th>Payload</th>
+                      <th>Result / Error</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for item in history %}
+                      <tr>
+                        <td class="text-muted small">{{ item.ts }}</td>
+                        <td>
+                          {% if item.ok %}
+                            <span class="badge bg-success">OK</span>
+                          {% else %}
+                            <span class="badge bg-danger">FAIL</span>
+                          {% endif %}
+                          {% if item.status_code %}
+                            <span class="text-muted small ms-1">{{ item.status_code }}</span>
+                          {% endif %}
+                        </td>
+                        <td class="small"><code>{{ item.url }}</code></td>
+                        <td class="small">
+                          <details>
+                            <summary class="text-muted">view</summary>
+                            <pre class="codebox-mini">{{ item.payload | tojson(indent=2) }}</pre>
+                          </details>
+                        </td>
+                        <td class="small">
+                          <details open>
+                            <summary class="text-muted">view</summary>
+                            {% if item.ok %}
+                              <pre class="codebox-mini">{{ (item.result or {}) | tojson(indent=2) }}</pre>
+                            {% else %}
+                              <pre class="codebox-mini">{{ item.error }}</pre>
+                            {% endif %}
+                          </details>
+                        </td>
+                      </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            {% else %}
+              <div class="text-muted">No runs yet.</div>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="text-muted small mt-3">
+      <span>© EPO CodeFest client UI</span>
+    </div>
+  </div>
+
+  <script>
+    function toggleInfo(fieldName) {
+      const el = document.getElementById("info-" + fieldName);
+      if (!el) return;
+      if (el.style.display === "block") {
+        el.style.display = "none";
+      } else {
+        el.style.display = "block";
+      }
+    }
+  </script>
+</body>
+</html>

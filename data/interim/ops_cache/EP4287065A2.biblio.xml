@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="76999779" country="EP" doc-number="4287065" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4287065</doc-number>
+                        <kind>A2</kind>
+                        <date>20231206</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4287065</doc-number>
+                        <date>20231206</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06K   7/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>0008</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>10039</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>10099</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>10316</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>10356</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>10475</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>K</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>0723</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600239530">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202156</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202156</doc-number>
+                        <date>20210720</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202156.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202016984372</doc-number>
+                            <date>20200804</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202016984372</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210186825</doc-number>
+                            <date>20210720</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21186825.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>INTERMEC IP CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Intermec IP Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>PANDEY PANKAJ KUMAR [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> BISWAS GOURANGO LAL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> MARTINEZ RENE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>PANDEY, Pankaj Kumar, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>BISWAS, Gourango Lal, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>MARTINEZ, Rene</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VERFAHREN UND SYSTEME ZUR KOMMUNIKATION MIT HOCHFREQUENZIDENTIFIKATION (RFID)</invention-title>
+                <invention-title lang="fr">PROCÉDÉS ET SYSTÈMES DE COMMUNICATION D'IDENTIFICATION PAR RADIOFRÉQUENCE (RFID)</invention-title>
+                <invention-title lang="en">METHODS AND SYSTEMS OF RADIO FREQUENCY IDENTIFICATION (RFID) COMMUNICATION</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP1725889</doc-number>
+                                <date>20080130</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>1725889</doc-number>
+                                <kind>B1</kind>
+                                <date>20080130</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A first radio-frequency identification, RFID, reader (102) comprising: a first antenna element (114), wherein the first antenna element (114) is configured to facilitate a first transmission of a first interrogation command to a first RFID tag (110) associated with a second RFID reader (104, 600), and in response to the first transmission of the first interrogation command, receive a first response signal; and a second antenna element (116), wherein the second antenna element (116) is configured to facilitate a second transmission of a second interrogation command to one or more second RFID tags (112), wherein transmitting the second interrogation command is concurrent to receiving the first response signal or concurrent to transmitting the first interrogation command.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

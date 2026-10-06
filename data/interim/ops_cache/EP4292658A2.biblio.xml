@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="58448587" country="EP" doc-number="4292658" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4292658</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4292658</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61P  31/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>7064</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>7064</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>D</subclass>
+                        <main-group>487</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>D</subclass>
+                        <main-group>487</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>H</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="8">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>H</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="9">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>H</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="10">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>H</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="11">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>A</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="12">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>A</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599799958">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202131</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202131</doc-number>
+                        <date>20170321</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202131.1</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>SG20161002360R</doc-number>
+                            <date>20160324</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>10201602360R</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20170714300</doc-number>
+                            <date>20170321</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>17714300.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2017IB51638</doc-number>
+                            <date>20170321</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NOVARTIS AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Novartis AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>FENAUX MARTIJN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SAUNDERS OLIVER [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> YOKOKAWA FUMIAKI [SG]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHONG WEIDONG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>FENAUX, Martijn, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SAUNDERS, Oliver, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>YOKOKAWA, Fumiaki, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>ZHONG, Weidong</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ALKYNYL-NUKLEOSID-ANALOGA ALS INHIBITOREN DES HUMANEN RHINOVIRUS</invention-title>
+                <invention-title lang="fr">ANALOGUES D'ALCYNYL NUCLÉOSIDE EN TANT QU'INHIBITEURS DU RHINOVIRUS HUMAIN</invention-title>
+                <invention-title lang="en">ALKYNYL NUCLEOSIDE ANALOGS AS INHIBITORS OF HUMAN RHINOVIRUS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2018EP66339</doc-number>
+                                <date>20180620</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2018EP66339</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP0090505</doc-number>
+                                <date>19900808</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>0090505</doc-number>
+                                <kind>B1</kind>
+                                <date>19900808</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO9920758</doc-number>
+                                <date>19990429</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>9920758</doc-number>
+                                <kind>A1</kind>
+                                <date>19990429</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO9940196</doc-number>
+                                <date>19990812</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>9940196</doc-number>
+                                <kind>A1</kind>
+                                <date>19990812</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6111090</doc-number>
+                                <date>20000829</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6111090</doc-number>
+                                <kind>A</kind>
+                                <date>20000829</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO0103720</doc-number>
+                                <date>20010118</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>0103720</doc-number>
+                                <kind>A2</kind>
+                                <date>20010118</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <patcit dnum-type="publication number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2004078163</doc-number>
+                                <date>20040916</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2004078163</doc-number>
+                                <kind>A2</kind>
+                                <date>20040916</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <patcit dnum-type="publication number" num="8">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2005007190</doc-number>
+                                <date>20050127</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2005007190</doc-number>
+                                <kind>A1</kind>
+                                <date>20050127</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <patcit dnum-type="publication number" num="9">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2005055808</doc-number>
+                                <date>20050623</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2005055808</doc-number>
+                                <kind>A2</kind>
+                                <date>20050623</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <patcit dnum-type="publication number" num="10">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2005115451</doc-number>
+                                <date>20051208</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2005115451</doc-number>
+                                <kind>A2</kind>
+                                <date>20051208</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <patcit dnum-type="publication number" num="11">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7025962</doc-number>
+                                <date>20060411</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7025962</doc-number>
+                                <kind>B1</kind>
+                                <date>20060411</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <patcit dnum-type="publication number" num="12">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2006083289</doc-number>
+                                <date>20060810</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2006083289</doc-number>
+                                <kind>A2</kind>
+                                <date>20060810</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                        <patcit dnum-type="publication number" num="13">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2006121168</doc-number>
+                                <date>20061116</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2006121168</doc-number>
+                                <kind>A1</kind>
+                                <date>20061116</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                        <patcit dnum-type="publication number" num="14">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007005874</doc-number>
+                                <date>20070111</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2007005874</doc-number>
+                                <kind>A2</kind>
+                                <date>20070111</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                        <patcit dnum-type="publication number" num="15">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007133822</doc-number>
+                                <date>20071122</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2007133822</doc-number>
+                                <kind>A1</kind>
+                                <date>20071122</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="16">
+                        <patcit dnum-type="publication number" num="16">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2009101611</doc-number>
+                                <date>20090820</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2009101611</doc-number>
+                                <kind>A1</kind>
+                                <date>20090820</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="17">
+                        <patcit dnum-type="publication number" num="17">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2009114335</doc-number>
+                                <date>20090917</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2009114335</doc-number>
+                                <kind>A2</kind>
+                                <date>20090917</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="18">
+                        <patcit dnum-type="publication number" num="18">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7618632</doc-number>
+                                <date>20091117</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7618632</doc-number>
+                                <kind>B2</kind>
+                                <date>20091117</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="19">
+                        <patcit dnum-type="publication number" num="19">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010003118</doc-number>
+                                <date>20100107</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2010003118</doc-number>
+                                <kind>A1</kind>
+                                <date>20100107</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="20">
+                        <patcit dnum-type="publication number" num="20">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010028330</doc-number>
+                                <date>20100204</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010028330</doc-number>
+                                <kind>A1</kind>
+                                <date>20100204</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="21">
+                        <patcit dnum-type="publication number" num="21">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010019570</doc-number>
+                                <date>20100218</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2010019570</doc-number>
+                                <kind>A2</kind>
+                                <date>20100218</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="22">
+                        <patcit dnum-type="publication number" num="22">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP2161336</doc-number>
+                                <date>20100310</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>2161336</doc-number>
+                                <kind>A1</kind>
+                                <date>20100310</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="23">
+                        <patcit dnum-type="publication number" num="23">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010027827</doc-number>
+                                <date>20100311</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2010027827</doc-number>
+                                <kind>A2</kind>
+                                <date>20100311</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="24">
+                        <patcit dnum-type="publication number" num="24">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2010077634</doc-number>
+                                <date>20100708</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2010077634</doc-number>
+                                <kind>A1</kind>
+                                <date>20100708</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="25">
+                        <patcit dnum-type="publication number" num="25">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7812135</doc-number>
+                                <date>20101012</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7812135</doc-number>
+                                <kind>B2</kind>
+                                <date>20101012</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="26">
+                        <patcit dnum-type="publication number" num="26">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011028683</doc-number>
+                                <date>20110310</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011028683</doc-number>
+                                <kind>A1</kind>
+                                <date>20110310</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="27">
+                        <patcit dnum-type="publication number" num="27">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011051726</doc-number>
+                                <date>20110505</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011051726</doc-number>
+                                <kind>A2</kind>
+                                <date>20110505</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="28">
+                        <patcit dnum-type="publication number" num="28">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7943743</doc-number>
+                                <date>20110517</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7943743</doc-number>
+                                <kind>B2</kind>
+                                <date>20110517</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="29">
+                        <patcit dnum-type="publication number" num="29">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011066342</doc-number>
+                                <date>20110603</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011066342</doc-number>
+                                <kind>A2</kind>
+                                <date>20110603</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="30">
+                        <patcit dnum-type="publication number" num="30">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2011150892</doc-number>
+                                <date>20110623</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2011150892</doc-number>
+                                <kind>A1</kind>
+                                <date>20110623</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="31">
+                        <patcit dnum-type="publication number" num="31">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011090754</doc-number>
+                                <date>20110728</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011090754</doc-number>
+                                <kind>A1</kind>
+                                <date>20110728</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="32">
+                        <patcit dnum-type="publication number" num="32">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011100131</doc-number>
+                                <date>20110818</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011100131</doc-number>
+                                <kind>A2</kind>
+                                <date>20110818</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="33">
+                        <patcit dnum-type="publication number" num="33">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8008449</doc-number>
+                                <date>20110830</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8008449</doc-number>
+                                <kind>B2</kind>
+                                <date>20110830</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="34">
+                        <patcit dnum-type="publication number" num="34">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2012039906</doc-number>
+                                <date>20120216</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2012039906</doc-number>
+                                <kind>A1</kind>
+                                <date>20120216</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="35">
+                        <patcit dnum-type="publication number" num="35">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2012070415</doc-number>
+                                <date>20120322</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2012070415</doc-number>
+                                <kind>A1</kind>
+                                <date>20120322</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="36">
+                        <patcit dnum-type="publication number" num="36">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2012040124</doc-number>
+                                <date>20120329</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2012040124</doc-number>
+                                <kind>A1</kind>
+                                <date>20120329</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="37">
+                        <patcit dnum-type="publication number" num="37">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2012114649</doc-number>
+                                <date>20120510</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2012114649</doc-number>
+                                <kind>A1</kind>
+                                <date>20120510</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="38">
+                        <patcit dnum-type="publication number" num="38">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8354509</doc-number>
+                                <date>20130115</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8354509</doc-number>
+                                <kind>B2</kind>
+                                <date>20130115</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="39">
+                        <patcit dnum-type="publication number" num="39">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8388967</doc-number>
+                                <date>20130305</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8388967</doc-number>
+                                <kind>B2</kind>
+                                <date>20130305</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="40">
+                        <patcit dnum-type="publication number" num="40">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2013039954</doc-number>
+                                <date>20130321</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2013039954</doc-number>
+                                <kind>A1</kind>
+                                <date>20130321</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="41">
+                        <patcit dnum-type="publication number" num="41">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2013079174</doc-number>
+                                <date>20130606</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2013079174</doc-number>
+                                <kind>A1</kind>
+                                <date>20130606</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="42">
+                        <patcit dnum-type="publication number" num="42">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP1947183</doc-number>
+                                <date>20130717</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>1947183</doc-number>
+                                <kind>B1</kind>
+                                <date>20130717</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="43">
+                        <patcit dnum-type="publication number" num="43">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8586023</doc-number>
+                                <date>20131119</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8586023</doc-number>
+                                <kind>B2</kind>
+                                <date>20131119</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="44">
+                        <patcit dnum-type="publication number" num="44">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8591886</doc-number>
+                                <date>20131126</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8591886</doc-number>
+                                <kind>B2</kind>
+                                <date>20131126</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="45">
+                        <patcit dnum-type="publication number" num="45">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US8609089</doc-number>
+                                <date>20131217</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>8609089</doc-number>
+                                <kind>B2</kind>
+                                <date>20131217</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="46">
+                        <patcit dnum-type="publication number" num="46">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2014008218</doc-number>
+                                <date>20140109</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2014008218</doc-number>
+                                <kind>A1</kind>
+                                <date>20140109</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="47">
+                        <nplcit num="1">
+                            <text>- U.S. MELLO et al., Antimicrobial Agents and Chemotherapy, (20140000), vol. 58, no. 3, pages 1546 - 55</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="48">
+                        <nplcit num="2">
+                            <text>- SMITH et al., J. Med. Chem., (20090000), vol. 52, no. 1, pages 219 - 23</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="49">
+                        <nplcit num="3">
+                            <text>- Remington's Pharmaceutical Sciences, Mack Publishing Company, (19900000), pages 1289 - 1329</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="50">
+                        <nplcit num="4">
+                            <text>- OKAZAKI et al., Curr Opin Immunol, (20020000), vol. 14, pages 391779 - 82</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="51">
+                        <nplcit num="5">
+                            <text>- Q. J. Med., (20010000), vol. 94, pages 1 - 3</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="52">
+                        <nplcit num="6">
+                            <text>- BENNETT et al., J. Immunol., (20030000), vol. 170, pages 1257 - 66</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="53">
+                        <nplcit num="7">
+                            <text>- ISHIDA, Y. et al., EMBO J., (19920000), vol. 11, pages 3887 - 3895</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="54">
+                        <nplcit num="8">
+                            <text>- BLANK, C., Immunol. Immunother., (20061229), vol. 56, no. 5, pages 739 - 745</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="55">
+                        <nplcit num="9">
+                            <text>- DONG, J. Mol. Med., (20030000), vol. 81, pages 281 - 7</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="56">
+                        <nplcit num="10">
+                            <text>- BLANK et al., Cancer Immunol. Immunother., (20050000), vol. 54, pages 307 - 314</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="57">
+                        <nplcit num="11">
+                            <text>- KONISHI et al., Clin. Cancer Res., (20040000), vol. 10, pages 5094 - 100</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="58">
+                        <nplcit num="12">
+                            <text>- IWAI et al., Proc. Nat'I. Acad. Sci. USA, (20020000), vol. 99, pages 12293 - 7</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="59">
+                        <nplcit num="13">
+                            <text>- HAMID, O. et al., New England Journal of Medicine, (20130000), vol. 369, no. 2, pages 134 - 44</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="60">
+                        <nplcit num="14">
+                            <text>- CAS, no. 951209-71-5</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="61">
+                        <nplcit num="15">
+                            <text>- WOO et al., Cancer Res., (20120000), vol. 72, no. 4, pages 917 - 27</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="62">
+                        <nplcit num="16">
+                            <text>- HOUBEN-WEYL, Methods of Organic Synthesis, (19520000), vol. 21</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="63">
+                        <nplcit num="17">
+                            <text>- CLARK et al., "Discovery of beta-D-20-deoxy-20-a-fluoro-40-a-cyano-5-aza-7,9-dideaza adenosine as a potent nucleoside inhibitor of respiratory syncytial virus with excellent selectivity over mitochondrial RNA and DNA polymerases", BMCL, vol. 25, pages 2484 - 2487</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present invention provides a compound of Formula (I) or a salt thereof;and therapeutic uses of these compounds. The invention further provides pharmaceutical compositions comprising these compounds, and compositions comprising these compounds with a therapeutic co-agent, and methods of using the compounds and compositions for treatment of viral infections, especially HRV.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

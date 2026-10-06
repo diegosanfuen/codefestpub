@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="62981215" country="EP" doc-number="4283317" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4283317</doc-number>
+                        <kind>A2</kind>
+                        <date>20231129</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4283317</doc-number>
+                        <date>20231129</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01R  31/    34            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>M</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>M</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>0084</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>05</class>
+                        <subclass>B</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>0281</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599156622">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23199034</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230199034</doc-number>
+                        <date>20180718</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23199034.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE201710212666</doc-number>
+                            <date>20170724</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102017212666</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180743471</doc-number>
+                            <date>20180718</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18743471.7</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2018EP69562</doc-number>
+                            <date>20180718</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VDEH BETR GMBH [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>VDEh-Betriebsforschungsinstitut GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>POLZER JAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> NKWITCHOUA DJANGANG ACHILLE FABIEN [DE]
+</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>POLZER, Jan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>NKWITCHOUA DJANGANG, Achille Fabien</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VORRICHTUNG, SYSTEM UND VERFAHREN ZUR BESTIMMUNG DES ZUSTANDS EINES MECHANISCHEN BAUTEILS</invention-title>
+                <invention-title lang="fr">DISPOSITIF, SYSTÈME ET PROCÉDÉ DE DÉTERMINATION DE L'ÉTAT D'UN COMPOSANT MÉCANIQUE</invention-title>
+                <invention-title lang="en">DEVICE, SYSTEM, AND METHOD FOR DETERMINING THE STATE OF A MECHANICAL COMPONENT</invention-title>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Vorrichtung zur Bestimmung des Zustandes eines mechanischen Bauteils, bei dem im Einsatz des Bauteils zumindest ein Teil des Bauteils relativ zu einem anderen Bauteil bewegt wird, insbesondere von Antrieben oder Lagern oder Getrieben mit einem Messgerät, das eine elektrische Größe oder die Änderung einer elektrischen Größe bestimmen kann.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

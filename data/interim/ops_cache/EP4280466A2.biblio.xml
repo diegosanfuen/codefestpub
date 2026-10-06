@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="68887033" country="EP" doc-number="4280466" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4280466</doc-number>
+                        <kind>A2</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4280466</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04B   1/    04            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>H</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>09</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>H</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>38</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>H</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>28</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0458</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0458</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599799944">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202041</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202041</doc-number>
+                        <date>20191210</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202041.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230202041</doc-number>
+                            <date>20191210</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20190820726</doc-number>
+                            <date>20191210</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>19820726.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2019EP84459</doc-number>
+                            <date>20191210</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ERICSSON TELEFON AB L M [SE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Telefonaktiebolaget LM Ericsson (publ)</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SJÖLAND HENRIK [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> ABDULAZIZ MOHAMMED [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Sjöland, Henrik, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Abdulaziz, Mohammed</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KOMPAKTER ANTENNENIMPEDANZABSTIMMER</invention-title>
+                <invention-title lang="fr">SYNTONISEUR D'IMPÉDANCE D'ANTENNE COMPACT</invention-title>
+                <invention-title lang="en">COMPACT ANTENNA IMPEDANCE TUNER</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP20190820726</doc-number>
+                                <date>20191210</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>20190820726</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5986617</doc-number>
+                                <date>19991116</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5986617</doc-number>
+                                <kind>A</kind>
+                                <date>19991116</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="1">
+                            <text>- J. LINDSTRAND, "A low band cellular antenna impedance tuner in 130nm CMOS-SOI technology", ESSCIRC, (20140000), doi:10.1109/ESSCIRC.2014.6942121, pages 459 - 462, XP032672139</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A chip having integrated thereon a circuit (100) that comprises a first port (P1), a second port (P2) and a tapped transformer (110) comprising a first winding (111) and a second winding (112). Each winding comprises a first terminal, a second terminal and a number of taps connected at different positions between the first and second terminals. The circuit (100) further comprises a first programmable capacitor (C1) connected in shunt with the first winding (111) and a second programmable capacitor (C2) connected in shunt with the second winding (112), a first set of switches (S1) connected between the number of taps on the first winding (111) and a terminal of the first port (P1), and a second set of switches (S2) connected between the number of taps on the second winding (112) and a terminal of the second port (P2).</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,8 @@
+logging|log_general|params|logmode=DEBUG;format=%(asctime)s - %(levelname)s - %(message)s|Log/logH7_
+certificados|certaeat|pem||/certs/certificado.pem
+certificados|certaeatpriv|pem||/certs/certificado_key.pem
+task|task|minutos|1|/tarea.py
+path_temp|path_temp|vaule|_tmp|
+path_models|path_models|vaule|modelos|
+path_old_models|path_old_modeles|vaule|old_models|
+path_logs|path_logs|vaule|Logs|

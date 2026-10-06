@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="74595457" country="EP" doc-number="4293529" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4293529</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4293529</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  16/    11            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>113</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>125</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>125</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>12</main-group>
+                        <subgroup>185</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>51</main-group>
+                        <subgroup>216</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>51</main-group>
+                        <subgroup>42</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>63</main-group>
+                        <subgroup>20</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="601296654">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23207993</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230207993</doc-number>
+                        <date>20210122</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23207993.9</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202016778993</doc-number>
+                            <date>20200131</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202016778993</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210705385</doc-number>
+                            <date>20210122</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21705385.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021US14651</doc-number>
+                            <date>20210122</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SALESFORCE INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Salesforce, Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>VASAMSETTI SRI [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> JENNINGS PAUL MATTHEW [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ROSANIA PAUL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> GORDON STEVEN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> DEMMER MICHAEL [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>VASAMSETTI, Sri, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>JENNINGS, Paul Matthew, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ROSANIA, Paul, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>GORDON, Steven, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>DEMMER, Michael</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VORRICHTUNGEN, VERFAHREN UND COMPUTERPROGRAMMPRODUKT ZUR DATENSPEICHERUNG IN EINEM GEMEINSAMEN GRUPPENBASIERTEN KOMMUNIKATIONSKANAL</invention-title>
+                <invention-title lang="fr">APPAREILS, PROCÉDÉS ET PRODUITS DE PROGRAMME D'ORDINATEUR POUR LA RÉTENTION DE DONNÉES DANS UN CANAL DE COMMUNICATION À BASE DE GROUPE COMMUN</invention-title>
+                <invention-title lang="en">APPARATUSES, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR DATA RETENTION IN A COMMON GROUP-BASED COMMUNICATION CHANNEL</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Embodiments described herein include apparatuses, computer program products, and methods for data management in a group-based communication system. Specifically, some embodiments address data management for group-based communication channel(s) accessible to any number of entities based on various data retention policies. In this regard, embodiments enable maintenance of data associated with multiple organizations accessing a group-based communication channel based on a single, shared data retention policy, or different data retention policies, for example based on authorship of the group-based communication message. In embodiments, a data retention policy may be assigned directly to an entity, or assigned to a higher-level or lower-level entity and function as a default data a retention policy for other entities associated therewith. A group-based communication system is configured to enable storage of data based on corresponding data retention policies for each organization identifier, and/or an agreed data retention policy for all organization identifiers.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

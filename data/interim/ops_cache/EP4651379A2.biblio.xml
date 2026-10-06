@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="96946072" country="EP" doc-number="4651379" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4651379</doc-number>
+                        <kind>A2</kind>
+                        <date>20251119</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4651379</doc-number>
+                        <date>20251119</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H03M   1/    06            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>H03M   1/    08            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>H03M   1/    36            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0607</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>03</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>361</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637108001">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25201244</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250201244</doc-number>
+                        <date>20250909</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25201244.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250201244</doc-number>
+                            <date>20250909</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NXP BV [NL]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> UNIV OF TWENTE [NL]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>NXP B.V, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>University Of Twente</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>OLIEMAN ERIK [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> VAN DE BEEK REMCO CORNELIS HERMAN [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> VAN SINDEREN JAN [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> CENTS REMON BERNARDUS ANTONIUS [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> BINDRA HARIOT SINGH [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>OLIEMAN, Erik, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>VAN DE BEEK, Remco Cornelis Herman, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>VAN SINDEREN, Jan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>CENTS, Remon Bernardus Antonius, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>BINDRA, Hariot Singh</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KAPAZITIVES LADEVERFAHREN UND SCHALTUNG FÜR EINEN DIFFERENZIALKOMPARATOR FÜR EINEN ANALOG-DIGITAL-WANDLER</invention-title>
+                <invention-title lang="fr">MÉTHODE DE CHARGEMENT CAPACITIF ET CIRCUIT POUR UN COMPARATEUR DIFFÉRENTIEL POUR UN CONVERTISSEUR ANALOGIQUE-NUMÉRIQUE</invention-title>
+                <invention-title lang="en">A CAPACITIVE CHARGE METHOD AND CIRCUIT FOR A DIFFERENTIAL COMPARATOR FOR AN ADC</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Aspects of this disclosure are directed to a circuit for a flash ADC converter, comprising: a differential input; a comparator having an output, and first and second input at first and second nodes; reference capacitors, ach having a first terminal respectively connected to first and second nodes, and a second terminal connectable respectively to a supply and to a second supply voltage; first and second reservoir capacitor, each having a first terminal connected to the second supply voltage, and a second terminal connectable respectively to the first and second node; and a plurality of switches controllable to: operate a first charge-setting phase, a second charge-sharing phase, and a third, measurement phase. A corresponding method is also disclosed.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

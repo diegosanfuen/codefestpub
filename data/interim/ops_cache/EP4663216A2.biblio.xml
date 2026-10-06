@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="76695740" country="EP" doc-number="4663216" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663216</doc-number>
+                        <kind>A2</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663216</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61M   1/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>1601</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>168</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>1686</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>1688</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>1688</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>2205</main-group>
+                        <subgroup>11</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>M</subclass>
+                        <main-group>2205</main-group>
+                        <subgroup>3653</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639772930">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25212975</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250212975</doc-number>
+                        <date>20210623</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25212975.4</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202063058022P</doc-number>
+                            <date>20200729</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202063058022 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210735912</doc-number>
+                            <date>20210623</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21735912.4</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP67053</doc-number>
+                            <date>20210623</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GAMBRO LUNDIA AB [SE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Gambro Lundia AB</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BORGQVIST PER-OLOF [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> JANSSON OLOF [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>BORGQVIST, Per-Olof, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>JANSSON, Olof</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">THERAPIESYSTEME FÜR NIERENINSUFFIZIENZ MIT REDUZIERTER BEHANDLUNGSZEIT</invention-title>
+                <invention-title lang="fr">SYSTÈMES DE THÉRAPIE PAR INSUFFISANCE RÉNALE AYANT UN TEMPS RÉDUIT ENTRE DES TRAITEMENTS</invention-title>
+                <invention-title lang="en">RENAL FAILURE THERAPY SYSTEMS HAVING REDUCED TIME BETWEEN TREATMENTS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A renal failure therapy system (10) includes: a fresh dialysis fluid (possibly flexible) tube (72) having a connector (72a) for connecting to a dialyzer (102); a spent dialysis fluid (possibly flexible) tube (74) having a connector (74a) for connecting to the dialyzer (102); a dialysis fluid circuit (30) including a fresh dialysis fluid line (70), a spent dialysis fluid line (56), at least one of (i) a first disinfection device (90a) positioned between the fresh dialysis fluid line (70) and the fresh dialysis fluid tube (72), or (ii) a second disinfection device (90c) positioned between the spent dialysis fluid line (70) and the spent dialysis fluid tube (74), and recirculation circuitry extending to (i) a first machine connector (28a) for mating with the connector (72a) of the fresh dialysis fluid tube (72) during local disinfection and (ii) a second machine connector (28c) for mating with the connector (74a) of the spent dialysis fluid tube (74) during local disinfection; and a control unit (20) configured to cause the first and second disinfection devices (90a, 90b) to be energized during the local disinfection.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

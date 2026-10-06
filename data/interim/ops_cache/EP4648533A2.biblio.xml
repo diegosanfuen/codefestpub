@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="72942359" country="EP" doc-number="4648533" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4648533</doc-number>
+                        <kind>A2</kind>
+                        <date>20251112</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4648533</doc-number>
+                        <date>20251112</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  74/    08            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>74</main-group>
+                        <subgroup>0816</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>74</main-group>
+                        <subgroup>0816</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>74</main-group>
+                        <subgroup>0841</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>84</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637489388">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25202723</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250202723</doc-number>
+                        <date>20200225</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25202723.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20190080648</doc-number>
+                            <date>20190422</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2019080648</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200795529</doc-number>
+                            <date>20200225</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20795529.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020JP07319</doc-number>
+                            <date>20200225</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SONY GROUP CORP [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Sony Group Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>AIO KOSUKE [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> TANAKA YUSUKE [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> SUGAYA SHIGERU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>AIO, Kosuke, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>TANAKA, Yusuke, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>SUGAYA, Shigeru</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KOMMUNIKATIONSVORRICHTUNG UND KOMMUNIKATIONSVERFAHREN</invention-title>
+                <invention-title lang="fr">DISPOSITIF DE COMMUNICATION ET PROCÉDÉ DE COMMUNICATION</invention-title>
+                <invention-title lang="en">COMMUNICATION DEVICE AND COMMUNICATION METHOD</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2017028746</doc-number>
+                                <date>20170202</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2017028746</doc-number>
+                                <kind>A</kind>
+                                <date>20170202</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2018170621</doc-number>
+                                <date>20181101</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2018170621</doc-number>
+                                <kind>A</kind>
+                                <date>20181101</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A communication device that determines a backoff time of multiband transmission is provided.A communication device includes: a communication unit that transmits and receives wireless signals in a plurality of bands; and a control unit that controls an operation in the communication unit. The control unit sets, for each band, a first random standby time for performing transmission in each of the plurality of bands, sets a second random standby time for performing simultaneous transmission of data in two or more of the plurality of bands, and controls countdown of the second random standby time or the first random standby time of each band on the basis of a comparison between the first random standby time of each band and the second random standby time.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

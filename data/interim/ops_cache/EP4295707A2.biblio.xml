@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="61187698" country="EP" doc-number="4295707" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4295707</doc-number>
+                        <kind>A2</kind>
+                        <date>20231227</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4295707</doc-number>
+                        <date>20231227</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A24D   3/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>24</class>
+                        <subclass>B</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>24</class>
+                        <subclass>B</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>24</class>
+                        <subclass>D</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>0204</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>26</class>
+                        <subclass>D</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>405</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>24</class>
+                        <subclass>C</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>01</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>24</class>
+                        <subclass>C</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>01</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="601739541">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23209395</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230209395</doc-number>
+                        <date>20181010</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23209395.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>IT20170115523</doc-number>
+                            <date>20171013</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201700115523</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180199689</doc-number>
+                            <date>20181010</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18199689.3</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>GD SPA [IT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>G.D S.p.A</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>EUSEPI IVAN [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> BALDANZA NICOLA [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> SARTONI MASSIMO [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> FEDERICI LUCA [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>EUSEPI, Ivan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>BALDANZA, Nicola, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>SARTONI, Massimo, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>FEDERICI, Luca</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">MASCHINE UND VERFAHREN ZUR HERSTELLUNG VON STABFÖRMIGEN RAUCHARTIKELN</invention-title>
+                <invention-title lang="fr">MACHINE ET PROCÉDÉ DE FABRICATION D'ARTICLES À FUMER EN FORME DE TIGE</invention-title>
+                <invention-title lang="en">MACHINE AND METHOD FOR MAKING ROD-SHAPED SMOKING ARTICLES</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US4889143</doc-number>
+                                <date>19891226</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>4889143</doc-number>
+                                <kind>A</kind>
+                                <date>19891226</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2016071267</doc-number>
+                                <date>20160512</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2016071267</doc-number>
+                                <kind>A1</kind>
+                                <date>20160512</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>This invention relates to a machine for making rod-shaped smoking articles (1), comprising: unwinding means (2) for unwinding a web (100) of material for the tobacco industry; first cutting means (3) configured to receive and cut the web (100) so as to create a plurality of longitudinal strips (101) making a plurality of longitudinal, broken cutting lines (102) in such a way that two longitudinal strips (101) which are transversely adjacent each other are connected to each other by at least one joining portion (103). Provided are gathering and conveying means (10) configured to gather and convey the longitudinal strips (101) in order to create at least one continuous stream (100'); a garniture tongue (12) configured to make at least one continuous rod (100") comprising a plurality of longitudinal strips (101); and second cutting means (14) for cutting the continuous rod (100") into a plurality of rod-shaped smoking articles.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

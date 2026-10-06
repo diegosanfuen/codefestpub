@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../style/legal.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:patent-family legal="true" total-result-count="37">
+        <ops:publication-reference>
+            <document-id document-id-type="docdb">
+                <country>EP</country>
+                <doc-number>4671057</doc-number>
+                <kind>A2</kind>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="74673343">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>4671057</doc-number>
+                    <kind>A2</kind>
+                    <date>20251231</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP4671057</doc-number>
+                    <date>20251231</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="640290386">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>25215242</doc-number>
+                    <kind>A</kind>
+                    <date>20210126</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202017077820</doc-number>
+                    <kind>A</kind>
+                    <date>20201022</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2021015123</doc-number>
+                    <kind>W</kind>
+                    <date>20210126</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>202062966481</doc-number>
+                    <kind>P</kind>
+                    <date>20200127</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>21707473</doc-number>
+                    <kind>A</kind>
+                    <date>20210126</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="5" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>23165330</doc-number>
+                    <kind>A</kind>
+                    <date>20210126</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

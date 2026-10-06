@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="71527700" country="EP" doc-number="4293166" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4293166</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4293166</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>E03B   9/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CH</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>E</section>
+                        <class>03</class>
+                        <subclass>B</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>08</class>
+                        <subclass>B</subclass>
+                        <main-group>25</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CH</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="601051271">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23207086</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230207086</doc-number>
+                        <date>20200708</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23207086.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CH20190000899</doc-number>
+                            <date>20190710</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>8992019</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200184768</doc-number>
+                            <date>20200708</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20184768.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>HAWLE ARMATUREN AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Hawle Armaturen AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ARSLAN SAIM [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>ARSLAN, Saim</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VORRICHTUNG UND VERFAHREN ZUM ÜBERWACHEN EINES HYDRANTEN</invention-title>
+                <invention-title lang="fr">DISPOSITIF ET PROCÉDÉ DE SURVEILLANCE D'UNE PRISE D'EAU</invention-title>
+                <invention-title lang="en">DEVICE AND METHOD FOR MONITORING A HYDRANT</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2007012631</doc-number>
+                                <date>20070201</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2007012631</doc-number>
+                                <kind>A1</kind>
+                                <date>20070201</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2013036796</doc-number>
+                                <date>20130214</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2013036796</doc-number>
+                                <kind>A1</kind>
+                                <date>20130214</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP3293315</doc-number>
+                                <date>20180314</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>3293315</doc-number>
+                                <kind>A1</kind>
+                                <date>20180314</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Das Überwachungssystem umfasst ein Hydrantengerät (2) mit einer elektronischen Steuerung, die einen Mikrocontroller (19) aufweist und eine Sensoranordnung (21) mit mindestens einem Aktivierungssensor (21a), dessen Zustand durch ein Ereignis, insbesondere die Bewegung eines Hydrantenteils bei der Inbetriebnahme des Hydranten (1), veränderbar ist. Der Aktivierungssensor (21a) ist mit einem Interrupt-Eingang des Mikrocontrollers (19) verbunden und aktiviert den Mikrocontroller (19), sobald das Hydrantenteil bewegt wird. Nach der Aktivierung bzw. dem Wechsel von einem energiesparenden Schlafmodus in einen normalen Betriebsmodus vergleicht ein Prüfprogramm des Mikrocontrollers (19), ob sensorisch erfasste Messwerte einem gespeicherten Vergleichsmuster entsprechen und führt weitere, diesem Vergleichsmuster zugeordnete Verfahrensschritte aus.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

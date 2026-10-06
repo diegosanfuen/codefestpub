@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../style/legal.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:patent-family legal="true" total-result-count="66">
+        <ops:publication-reference>
+            <document-id document-id-type="docdb">
+                <country>EP</country>
+                <doc-number>4292526</doc-number>
+                <kind>A2</kind>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="65528338">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>4292526</doc-number>
+                    <kind>A2</kind>
+                    <date>20231220</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP4292526</doc-number>
+                    <date>20231220</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="599932964">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>23202573</doc-number>
+                    <kind>A</kind>
+                    <date>20200121</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>20744586</doc-number>
+                    <kind>A</kind>
+                    <date>20200121</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>GB</country>
+                    <doc-number>201900780</doc-number>
+                    <kind>A</kind>
+                    <date>20190121</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>IB</country>
+                    <doc-number>2020050433</doc-number>
+                    <kind>W</kind>
+                    <date>20200121</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <ops:legal code="AC  " desc="DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2023-12-20AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Ref Document Number 3914332</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2023-12-20AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Country of Ref Document EP</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2023-12-20AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Kind Code of Ref Document P</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2023-12-20</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">AC</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2023-12-23</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2023-12-20</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L503EP desc="Ref Document Number">3914332</ops:L503EP>
+                    <ops:L504EP desc="Country of Ref Document">EP</ops:L504EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">P</ops:L506EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="AK  " desc="DESIGNATED CONTRACTING STATES" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2023-12-20AK  +DESIGNATED CONTRACTING STATES Kind Code of Ref Document A2</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2023-12-20AK  +DESIGNATED CONTRACTING STATES Designated State(s) AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2023-12-20</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">AK</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2023-12-23</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2023-12-20</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">A2</ops:L506EP>
+                    <ops:L507EP desc="Designated State(s)">AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:L507EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PUAI" desc="PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2023-11-17PUAI PUBLIC REFERENCE MADE UNDER ARTICLE 153(3) EPC TO A PUBLISHED INTERNATIONAL APPLICATION THAT HAS ENTERED THE EUROPEAN PHASE Free Format Text ORIGINAL CODE: 0009012</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2023-11-17</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PUAI</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2023-12-23</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2023-12-21</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">ORIGINAL CODE: 0009012</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="STAA" desc="INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2023-11-17STAA INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT Free Format Text STATUS: THE APPLICATION HAS BEEN PUBLISHED</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2023-11-17</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">STAA</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2023-12-23</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2023-12-21</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">STATUS: THE APPLICATION HAS BEEN PUBLISHED</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PUAL" desc="SEARCH REPORT DESPATCHED" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-02-23PUAL SEARCH REPORT DESPATCHED Free Format Text ORIGINAL CODE: 0009013</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2024-02-23</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PUAL</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-02-26</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">ORIGINAL CODE: 0009013</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Ref Country Code DE</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code R079</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Free Format Text PREVIOUS MAIN CLASS: A61B0005070000</ops:pre>
+                <ops:pre line="00004">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE IPC CLASSIFICATION A61M0031000000</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-02-22</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-11</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-07</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">DE</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="AMENDMENT OF IPC MAIN CLASS" infl=" ">R079</ops:L502EP>
+                    <ops:L510EP desc="Free Format Text">PREVIOUS MAIN CLASS: A61B0005070000</ops:L510EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61M0031000000</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RIC1" desc="INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27RIC1 INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT IPC CLASSIFICATION A61M  31/00        20060101AFI20240222BHEP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RIC1</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61M  31/00        20060101AFI20240222BHEP</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RIC1" desc="INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27RIC1 INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT IPC CLASSIFICATION A61B   5/01        20060101ALI20240222BHEP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RIC1</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61B   5/01        20060101ALI20240222BHEP</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RIC1" desc="INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27RIC1 INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT IPC CLASSIFICATION A61B   5/00        20060101ALI20240222BHEP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RIC1</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61B   5/00        20060101ALI20240222BHEP</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RIC1" desc="INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27RIC1 INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT IPC CLASSIFICATION A61B   5/1455      20060101ALI20240222BHEP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RIC1</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61B   5/1455      20060101ALI20240222BHEP</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RIC1" desc="INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27RIC1 INFORMATION PROVIDED ON IPC CODE ASSIGNED BEFORE GRANT IPC CLASSIFICATION A61B   5/07        20060101ALI20240222BHEP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RIC1</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61B   5/07        20060101ALI20240222BHEP</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="AK  " desc="DESIGNATED CONTRACTING STATES" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-03-27AK  +DESIGNATED CONTRACTING STATES Kind Code of Ref Document A3</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2024-03-27AK  +DESIGNATED CONTRACTING STATES Designated State(s) AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-03-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">AK</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-03-30</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-03-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">A3</ops:L506EP>
+                    <ops:L507EP desc="Designated State(s)">AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:L507EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="STAA" desc="INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-05-17STAA INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT Free Format Text STATUS: REQUEST FOR EXAMINATION WAS MADE</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2024-05-17</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">STAA</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-05-25</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-05-20</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">STATUS: REQUEST FOR EXAMINATION WAS MADE</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="RBV " desc="DESIGNATED CONTRACTING STATES (CORRECTED)" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-06-19RBV +DESIGNATED CONTRACTING STATES (CORRECTED) Designated State(s) AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-06-19</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">RBV</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-06-22</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-06-19</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L507EP desc="Designated State(s)">AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:L507EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="17P " desc="REQUEST FOR EXAMINATION FILED" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-06-1917P +REQUEST FOR EXAMINATION FILED Effective DATE 20240513</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-06-19</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">17P</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-06-22</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-06-19</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L525EP desc="Effective DATE">20240513</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="GRAP" desc="DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-10-06GRAP+DESPATCH OF COMMUNICATION OF INTENTION TO GRANT A PATENT Free Format Text ORIGINAL CODE: EPIDOSNIGR1</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2024-10-06</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">GRAP</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-10-14</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-10-08</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">ORIGINAL CODE: EPIDOSNIGR1</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="STAA" desc="INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-10-06STAA INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT Free Format Text STATUS: GRANT OF PATENT IS INTENDED</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2024-10-06</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">STAA</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-10-14</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-10-08</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">STATUS: GRANT OF PATENT IS INTENDED</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="INTG" desc="INTENTION TO GRANT ANNOUNCED" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-11-06INTG+INTENTION TO GRANT ANNOUNCED Effective DATE 20241007</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-11-06</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">INTG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-11-09</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-11-06</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L525EP desc="Effective DATE">20241007</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="GRAS" desc="GRANT FEE PAID" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-12-18GRAS+GRANT FEE PAID Free Format Text ORIGINAL CODE: EPIDOSNIGR3</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2024-12-18</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">GRAS</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2024-12-21</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2024-12-19</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">ORIGINAL CODE: EPIDOSNIGR3</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="GRAA" desc="(EXPECTED) GRANT" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-01-24GRAA+(EXPECTED) GRANT Free Format Text ORIGINAL CODE: 0009210</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-01-24</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">GRAA</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-02-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-01-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">ORIGINAL CODE: 0009210</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="STAA" desc="INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-01-24STAA INFORMATION ON THE STATUS OF AN EP PATENT APPLICATION OR GRANTED EP PATENT Free Format Text STATUS: THE PATENT HAS BEEN GRANTED</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-01-24</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">STAA</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-02-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-01-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L510EP desc="Free Format Text">STATUS: THE PATENT HAS BEEN GRANTED</ops:L510EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Ref Country Code DE</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code R079</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Ref Document Number 602020047064</ops:pre>
+                <ops:pre line="00004">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Country of Ref Document DE</ops:pre>
+                <ops:pre line="00005">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE Free Format Text PREVIOUS MAIN CLASS: A61B0005070000</ops:pre>
+                <ops:pre line="00006">EP    23202573A  2024-02-22REG  REFERENCE TO A NATIONAL CODE IPC CLASSIFICATION A61M0031000000</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2024-02-22</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-02-08</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-02-06</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">DE</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="AMENDMENT OF IPC MAIN CLASS" infl=" ">R079</ops:L502EP>
+                    <ops:L503EP desc="Ref Document Number">602020047064</ops:L503EP>
+                    <ops:L504EP desc="Country of Ref Document">DE</ops:L504EP>
+                    <ops:L510EP desc="Free Format Text">PREVIOUS MAIN CLASS: A61B0005070000</ops:L510EP>
+                    <ops:L516EP desc="IPC CLASSIFICATION">A61M0031000000</ops:L516EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="AC  " desc="DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-02-26AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Ref Document Number 3914332</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-02-26AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Country of Ref Document EP</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-02-26AC   DIVISIONAL APPLICATION: REFERENCE TO EARLIER APPLICATION Kind Code of Ref Document P</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-02-26</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">AC</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-03-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-02-26</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L503EP desc="Ref Document Number">3914332</ops:L503EP>
+                    <ops:L504EP desc="Country of Ref Document">EP</ops:L504EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">P</ops:L506EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="AK  " desc="DESIGNATED CONTRACTING STATES" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-02-26AK  +DESIGNATED CONTRACTING STATES Kind Code of Ref Document B1</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-02-26AK  +DESIGNATED CONTRACTING STATES Designated State(s) AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-02-26</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">AK</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-03-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-02-26</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">B1</ops:L506EP>
+                    <ops:L507EP desc="Designated State(s)">AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</ops:L507EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-02-26REG  REFERENCE TO A NATIONAL CODE Ref Country Code GB</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-02-26REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code FG4D</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-02-26</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-03-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-02-27</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">GB</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="EUROPEAN PATENT GRANTED" infl="+">FG4D</ops:L502EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-02-28REG  REFERENCE TO A NATIONAL CODE Ref Country Code CH</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-02-28REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code EP</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-02-28</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-03-08</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-03-04</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">CH</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="EUROPEAN PATENT TAKES EFFECT AS A NATIONAL PATENT IN CH/LI" infl="+">EP</ops:L502EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-03-20REG  REFERENCE TO A NATIONAL CODE Ref Country Code DE</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-03-20REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code R096</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-03-20REG  REFERENCE TO A NATIONAL CODE Ref Document Number 602020047064</ops:pre>
+                <ops:pre line="00004">EP    23202573A  2025-03-20REG  REFERENCE TO A NATIONAL CODE Country of Ref Document DE</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-03-20</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-03-22</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-03-20</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">DE</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="DPMA PUBLICATION OF MENTIONED EP PATENT GRANT" infl="+">R096</ops:L502EP>
+                    <ops:L503EP desc="Ref Document Number">602020047064</ops:L503EP>
+                    <ops:L504EP desc="Country of Ref Document">DE</ops:L504EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-03-26REG  REFERENCE TO A NATIONAL CODE Ref Country Code IE</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-03-26REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code FG4D</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-03-26</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-04-05</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-04-01</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">IE</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="EUROPEAN PATENTS GRANTED DESIGNATING IRELAND" infl="+">FG4D</ops:L502EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="U01 " desc="REQUEST FOR UNITARY EFFECT FILED" infl="+" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-04-23U01 +REQUEST FOR UNITARY EFFECT FILED Effective DATE 20250320</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-04-23</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">U01</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-04-26</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-04-23</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L525EP desc="Effective DATE">20250320</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="U07 " desc="UNITARY EFFECT REGISTERED" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-04-30U07  UNITARY EFFECT REGISTERED Designated State(s) AT BE BG DE DK EE FI FR IT LT LU LV MT NL PT RO SE SI</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-04-30U07  UNITARY EFFECT REGISTERED Effective DATE 20250326</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-04-30</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">U07</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-05-03</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-04-30</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L507EP desc="Designated State(s)">AT BE BG DE DK EE FI FR IT LT LU LV MT NL PT RO SE SI</ops:L507EP>
+                    <ops:L525EP desc="Effective DATE">20250326</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="REG " desc="REFERENCE TO A NATIONAL CODE" infl=" " dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Ref Country Code ES</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Ref Legal Event Code FG2A</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Ref Document Number 3022559</ops:pre>
+                <ops:pre line="00004">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Country of Ref Document ES</ops:pre>
+                <ops:pre line="00005">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Kind Code of Ref Document T3</ops:pre>
+                <ops:pre line="00006">EP    23202573A  2025-05-28REG  REFERENCE TO A NATIONAL CODE Effective DATE 20250528</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L007EP desc="Gazette DATE">2025-05-28</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">REG</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-06-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-05-29</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">ES</ops:L501EP>
+                    <ops:L502EP desc="Ref Legal Event Code" descData="DEFINITIVE PROTECTION" infl="+">FG2A</ops:L502EP>
+                    <ops:L503EP desc="Ref Document Number">3022559</ops:L503EP>
+                    <ops:L504EP desc="Country of Ref Document">ES</ops:L504EP>
+                    <ops:L506EP desc="Kind Code of Ref Document">T3</ops:L506EP>
+                    <ops:L525EP desc="Effective DATE">20250528</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-07PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code RS</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-07PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-07PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250526</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-07</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-14</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-08</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">RS</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250526</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-09PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code PL</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-09PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-09PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250226</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-09</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-14</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-10</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">PL</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250226</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code IS</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250626</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-14</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-20</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-15</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">IS</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250626</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code NO</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-14PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250526</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-14</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-20</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-15</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">NO</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250526</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-16PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code HR</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-16PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-16PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250226</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-16</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-20</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-17</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">HR</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250226</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-07-21PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code GR</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-07-21PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-07-21PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250527</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-07-21</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-07-27</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-07-22</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">GR</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250527</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-10-06PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code SM</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-10-06PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-10-06PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250226</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-10-06</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-10-11</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-10-07</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">SM</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250226</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-10-22PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code CZ</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-10-22PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-10-22PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250226</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-10-22</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-10-25</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-10-23</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">CZ</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250226</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+            <ops:legal code="PG25" desc="LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO]" infl="-" dateMigr="00010101">
+                <ops:pre line="00001">EP    23202573A  2025-10-27PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Ref Country Code SK</ops:pre>
+                <ops:pre line="00002">EP    23202573A  2025-10-27PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Free Format Text LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:pre>
+                <ops:pre line="00003">EP    23202573A  2025-10-27PG25-LAPSED IN A CONTRACTING STATE [ANNOUNCED VIA POSTGRANT INFORMATION FROM NATIONAL OFFICE TO EPO] Effective DATE 20250226</ops:pre>
+                <ops:L001EP desc="Country Code">EP</ops:L001EP>
+                <ops:L002EP desc="Filing / Published Document">F</ops:L002EP>
+                <ops:L003EP desc="Document Number">    23202573</ops:L003EP>
+                <ops:L004EP desc="Kind Code">A </ops:L004EP>
+                <ops:L005EP desc="IPR Type">PI</ops:L005EP>
+                <ops:L006EP desc="PRS DOCUMENT TYPE">A </ops:L006EP>
+                <ops:L007EP desc="Gazette DATE">2025-10-27</ops:L007EP>
+                <ops:L008EP desc="Legal Event Code 1">PG25</ops:L008EP>
+                <ops:L018EP desc="DATE last exchanged">2025-11-01</ops:L018EP>
+                <ops:L019EP desc="DATE first created">2025-10-28</ops:L019EP>
+                <ops:L500EP>
+                    <ops:L501EP desc="Ref Country Code">SK</ops:L501EP>
+                    <ops:L510EP desc="Free Format Text">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</ops:L510EP>
+                    <ops:L525EP desc="Effective DATE">20250226</ops:L525EP>
+                </ops:L500EP>
+            </ops:legal>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

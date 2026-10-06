@@ -1,0 +1,16 @@
+services:
+  api_h7:
+    build: .
+    container_name: api_h7
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    environment:
+      - TZ=Europe/Madrid
+    volumes:
+      # Persistencia: BBDD en TXDB, modelos y backups
+      - ./database:/app/database
+      - ./modelos:/app/modelos
+      - ./backups:/app/backups
+      # Opcional: si quieres persistir logs (si los escribes a fichero)
+      # - ./logs:/app/logs

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="70224208" country="EP" doc-number="4292856" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4292856</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4292856</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B60K  20/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>60</class>
+                        <subclass>K</subclass>
+                        <main-group>20</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>60</class>
+                        <subclass>K</subclass>
+                        <main-group>20</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>H</subclass>
+                        <main-group>59</main-group>
+                        <subgroup>105</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>60</class>
+                        <subclass>Y</subclass>
+                        <main-group>2200</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>H</subclass>
+                        <main-group>2059</main-group>
+                        <subgroup>0295</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600968896">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23206677</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230206677</doc-number>
+                        <date>20200310</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23206677.9</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20190044749</doc-number>
+                            <date>20190312</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2019044749</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20190078224</doc-number>
+                            <date>20190417</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2019078224</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200162069</doc-number>
+                            <date>20200310</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20162069.7</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>KUBOTA KK [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Kubota Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>NAKAI KOICHI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KOSAKI TAKASHI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>NAKAI, Koichi, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>KOSAKI, Takashi</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BEDIENUNGSVORRICHTUNG UND ARBEITSFAHRZEUG</invention-title>
+                <invention-title lang="fr">DISPOSITIF DE COMMANDE ET VÉHICULE DE TRAVAIL
+</invention-title>
+                <invention-title lang="en">OPERATION DEVICE AND WORK VEHICLE</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2005343220</doc-number>
+                                <date>20051215</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2005343220</doc-number>
+                                <kind>A</kind>
+                                <date>20051215</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2018188080</doc-number>
+                                <date>20181129</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2018188080</doc-number>
+                                <kind>A</kind>
+                                <date>20181129</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>An operation device (100) capable of switching operation of a transmission (7) of a work vehicle (1) includes an operation lever (130) that is rotatable in a first rotation direction about a first rotation shaft (144) and rotatable in a second rotation direction about a second rotation shaft (143) non-parallel to the first rotation shaft (144), an urging portion (136) that urges the operation lever (130) to move to a predetermined initial position, a first cam portion (170) that rotates following a rotation of the operation lever (130) in the first rotation direction, a second cam portion (150) that rotates following a rotation of the operation lever (130) in the second rotation direction, a first switch portion (190) that is pressed by the first cam portion (170) and detects the pressing in a state where the first cam portion (170) is rotated to a predetermined position, and a second switch portion (200) that is pressed by the second cam portion (150) and detects the pressing in a state where the second cam portion (150) is rotated to a predetermined position. The operation lever (130) is movable to a plurality of operation positions, the operation device (100) further includes a movement holding portion (133) (136) (181) that moves the operation lever (130) to the initial position when the operation lever (130) is positioned at a first operation position among the plurality of operation positions and holds the operation lever (130) in a state where the operation lever (130) is positioned at a second operation position when the operation lever (130) is positioned at the second operation position. The movement holding portion (133) (136) (181) includes an extendable portion (133) that is provided on the operation lever (130) and is expandable, and a recess (181) that receives a tip portion of the extendable portion (133) in an extension direction. The urging portion (136) urges the extendable portion (133) to extend such that the tip portion in the extension direction abuts on the recess (181). The recess (181) includes a first inclined portion (183a) that guides the extendable portion (133) such that the operation lever (130) positioned at the first operation position is moved to the initial position, and a second inclined portion (184a) that guides the extendable portion (133) such that the operation lever (130) positioned at the second operation position is held at the second operation position.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="87201082" country="EP" doc-number="4296390" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4296390</doc-number>
+                        <kind>A1</kind>
+                        <date>20231227</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4296390</doc-number>
+                        <date>20231227</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B22F   1/    00            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>B22F   1/    14            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>B22F   3/    15            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="4">
+                        <text>C22C  29/    08            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>22</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>067</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>22</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>22</class>
+                        <subclass>C</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>22</class>
+                        <subclass>F</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>22</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>15</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>22</class>
+                        <subclass>F</subclass>
+                        <main-group>2005</main-group>
+                        <subgroup>001</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>22</class>
+                        <subclass>F</subclass>
+                        <main-group>2009</main-group>
+                        <subgroup>043</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598629998">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>22930135</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20220930135</doc-number>
+                        <date>20220315</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>22930135.3</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2022JP11622</doc-number>
+                            <date>20220315</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>JP2022011622</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SUMITOMO ELECTRIC INDUSTRIES [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Sumitomo Electric Industries, Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KIDO YASUKI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> OKAMURA KATSUMI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KIDO, Yasuki, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>OKAMURA, Katsumi</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">HARTMETALL</invention-title>
+                <invention-title lang="fr">CARBURE CÉMENTÉ</invention-title>
+                <invention-title lang="en">CEMENTED CARBIDE</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A cemented carbide includes a tungsten carbide grain and a binder phase, wherein the cemented carbide includes 80 volume% or more of the tungsten carbide grain and the binder phase in total, the cemented carbide includes 0.1 volume% or more and 20 volume% or less of the binder phase, the tungsten carbide grain is composed of a first region and a second region, the first region is a region of 0 nm or more and 50 nm or less from a surface of the tungsten carbide grain, the second region is a portion of the tungsten carbide grain other than the first region, each of the first region and the second region includes a first metal element, the first metal element is at least one selected from a group consisting of titanium, niobium, and tantalum, a ratio R1 of the number of atoms of the first metal element to a total of the number of atoms of the first metal element and the number of atoms of a tungsten element in the first region is 1.30 times or more as large as a ratio R2 of the number of atoms of the first metal element to a total of the number of atoms of the first metal element and the number of atoms of the tungsten element in the second region, the R2 is 2.0% or more and 10.0% or less, and the binder phase includes cobalt.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

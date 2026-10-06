@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Management for the EPO CodeFest REST API</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+    <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+</head>
+<body>
+    <div class="container" width=800px>
+    <h2>Model Management for the EPO CodeFest REST API</h2>
+    <body>    
+        <h3>Upgrade EPO API Model</h3>       
+        <form action="/backendAdmin/update_upload" method="post" enctype="multipart/form-data"  autocomplete="off" onsubmit="return validarFormulario()">
+            <span class="indicativo">(*) The Context field cannot be changed</span>
+            <input type="text" width="600px" name="modelo" placeholder="Nombre del modelo" value={{ datos_tabla[0]['modelo'] }} readonly class="readonly">
+            <span class="indicativo">(*) The Context field cannot be changed</span>
+            <input type="text" width="600px" name="contexto" placeholder="Contexto del modelo" class="readonly" value={{ datos_tabla[0]['contexto'] }} readonly> 
+            <span class="indicativo">(*) The Context field cannot be changed</span>
+            <textarea id="input" name="input" rows="4" cols="50" placeholder="Campos de Entrada" readonly class="readonly"> {{ datos_tabla[0]['input'] }}</textarea>
+            <span class="indicativo">(*) The Context field cannot be changed</span>
+            <textarea id="output" name="output" rows="4" cols="50" placeholder="Campos de Salida" readonly class="readonly">{{ datos_tabla[0]['output'] }}</textarea>
+            <input type="file" accept=".pkl" width="600px" name="archivo" id="archivo"><br>
+            <input class="boton" type="submit" value="Upgrade Model">
+        </form>
+        <form action="/backendAdmin?estado=ok" method="get" target="_top">
+            <input  class="boton" type="submit" value="Cancel">
+        </form>        
+    </body>
+    </div>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>
+
+

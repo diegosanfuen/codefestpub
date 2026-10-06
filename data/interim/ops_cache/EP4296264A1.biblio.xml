@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="88022956" country="EP" doc-number="4296264" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4296264</doc-number>
+                        <kind>A1</kind>
+                        <date>20231227</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4296264</doc-number>
+                        <date>20231227</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>C07C 319/    28            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>C07C 321/    26            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>319</main-group>
+                        <subgroup>28</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>319</main-group>
+                        <subgroup>28</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>319</main-group>
+                        <subgroup>28</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>321</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>321</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>321</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>C</subclass>
+                        <main-group>2602</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <combination-set sequence="1">
+                        <group-number>1</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C07C319/28</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C07C321/26</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                </patent-classifications>
+                <application-reference doc-id="598938840">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23768101</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230768101</doc-number>
+                        <date>20230217</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23768101.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20220039384</doc-number>
+                            <date>20220314</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2022039384</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2023JP05626</doc-number>
+                            <date>20230217</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>JP2023005626</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SUGAI CHEMICAL IND CO LTD [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SUGAI CHEMICAL INDUSTRY CO., LTD</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MINEYAMA KENJI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KAZEKAMI YUTAKA [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> FUJIHARA HIROKI [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MINEYAMA Kenji, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>KAZEKAMI Yutaka, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>FUJIHARA Hiroki</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">1,6-NAPHTHALENDITHIOL UND VERFAHREN ZU DESSEN HERSTELLUNG</invention-title>
+                <invention-title lang="fr">1,6-NAPHTALÈNEDITHIOL ET SON PROCÉDÉ DE PRODUCTION</invention-title>
+                <invention-title lang="en">1,6-NAPHTHALENEDITHIOL AND METHOD FOR PRODUCING SAME</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Provided are a naphthalenedithiol (or a naphthalenedithiol product) having a high purity and a reduced coloration, and a process for producing the same.A 1,6-naphthalenedithiol (a 1,6-naphthalenedithiol product) according to the present invention has a purity of not less than 99.5% and a polymeric 1,6-naphthalenedithiol content of not more than 0.2%, each determined by high performance liquid chromatography using area normalization; and has a Gardner color scale in a molten state of not more than 1. The polymeric 1,6-naphthalenedithiol may be a disulfide form as a dimeric 1,6-naphthalenedithiol. Such a 1,6-naphthalenedithiol product can be produced by distilling a crude raw material containing 1,6-naphthalenedithiol and at least a polymeric 1,6-naphthalenedithiol to obtain a distillate fraction containing 1,6-naphthalenedithiol. The crude raw material may be a dry solid of a crudely purified product of 1,6-naphthalenedithiol from a reaction mixture.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

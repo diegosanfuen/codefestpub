@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Management for the EPO CodeFest REST API</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+    <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+</head>
+<body>
+    <div class="container" width=600px>
+    <h2>Model Management for the EPO CodeFest REST API</h2>
+        <script>console.log("Hola")</script>
+    <body>    
+        <h3>Eliminar modelo API</h3>       
+        <form action="/backendAdmin/do_delete" method="post" enctype="multipart/form-data"  autocomplete="off" onsubmit="return validarFormulario()">
+            <span class="indicativo">(*) El campo modelo no se puede cambiar</span>
+            <input type="text" width="600px" name="modelo" placeholder="Model name" value={{ datos_tabla[0]['modelo'] }} readonly class="readonly">
+            <span class="indicativo">(*) El campo Contexto no se puede cambiar</span>
+            <input type="text" width="600px" name="contexto" placeholder="Model context" class="readonly" value={{ datos_tabla[0]['contexto'] }} readonly>
+            <span class="indicativo">(*) El campo Input no se puede cambiar</span>
+            <textarea id="input" name="input" rows="4" cols="50" placeholder="Input features" readonly class="readonly"> {{ datos_tabla[0]['input'] }}</textarea>
+            <span class="indicativo">(*) El campo Output no se puede cambiar</span>
+            <textarea id="output" name="output" rows="4" cols="50" placeholder="Output target" readonly class="readonly">{{ datos_tabla[0]['output'] }}</textarea>
+            <input onclick="confirmarEliminar()" id="eliminarBtn" class="boton" type="submit" value="Delete Model">
+        </form>
+		<form action="/" method="get" target="_top">
+		  <input class="boton" type="submit" value="Cancelar">
+		</form>
+    </body>
+        <script src="{{ url_for('static', filename='asincronas_h7.js') }}"></script>
+    </div>
+     <div id="mensaje"></div>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>
+
+

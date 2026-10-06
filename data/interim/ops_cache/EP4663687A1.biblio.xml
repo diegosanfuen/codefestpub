@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97490317" country="EP" doc-number="4663687" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663687</doc-number>
+                        <kind>A1</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663687</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B32B  15/   088            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>C08G  73/    10            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>C08J   5/    18            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="4">
+                        <text>H05K   1/    03            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>32</class>
+                        <subclass>B</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>088</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>08</class>
+                        <subclass>G</subclass>
+                        <main-group>73</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>08</class>
+                        <subclass>J</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>K</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>03</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637302540">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25763907</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250763907</doc-number>
+                        <date>20250422</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25763907.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>JP20240070589</doc-number>
+                            <date>20240424</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2024070589</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2025JP15588</doc-number>
+                            <date>20250422</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>JP2025015588</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>DAIKIN IND LTD [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> UNIV TOKYO [JP]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>DAIKIN INDUSTRIES, LTD, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>The University of Tokyo</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>YOSHIZAKI SATORU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MIZUTANI SEIGO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> YONEDA SATORU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> SEKI TOYOMITSU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> HIGASHI MASAHIRO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="epodoc">
+                            <inventor-name>
+                                <name> KISHIKAWA YOSUKE [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="7" data-format="epodoc">
+                            <inventor-name>
+                                <name> SHIGEMOTO ISAMU [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="8" data-format="epodoc">
+                            <inventor-name>
+                                <name> SAGISAKA SHIGEHITO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="9" data-format="epodoc">
+                            <inventor-name>
+                                <name> SHIOMI JUNICHIRO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="10" data-format="epodoc">
+                            <inventor-name>
+                                <name> OHNISHI MASATO [JP]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>YOSHIZAKI, Satoru, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>MIZUTANI, Seigo, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>YONEDA, Satoru, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>SEKI, Toyomitsu, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>HIGASHI, Masahiro, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="original">
+                            <inventor-name>
+                                <name>KISHIKAWA, Yosuke, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="7" data-format="original">
+                            <inventor-name>
+                                <name>SHIGEMOTO, Isamu, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="8" data-format="original">
+                            <inventor-name>
+                                <name>SAGISAKA, Shigehito, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="9" data-format="original">
+                            <inventor-name>
+                                <name>SHIOMI, Junichiro, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="10" data-format="original">
+                            <inventor-name>
+                                <name>OHNISHI, Masato</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">POLYIMIDHARZ FÜR HOCHFREQUENZSUBSTRATMATERIAL, ZUSAMMENSETZUNG, POLYIMIDFILM, LAMINAT, SUBSTRAT FÜR SCHALTUNG, ANTENNE, POLYAMIDSÄURE FÜR HOCHFREQUENZSUBSTRATMATERIAL UND ZUSAMMENSETZUNG</invention-title>
+                <invention-title lang="fr">RÉSINE POLYIMIDE POUR MATÉRIAU DE SUBSTRAT HAUTE FRÉQUENCE, COMPOSITION, FILM POLYIMIDE, STRATIFIÉ, SUBSTRAT POUR CIRCUIT AINSI QU'ANTENNE, ET ACIDE POLYAMIQUE POUR MATÉRIAU DE SUBSTRAT HAUTE FRÉQUENCE AINSI QUE COMPOSITION</invention-title>
+                <invention-title lang="en">POLYIMIDE RESIN FOR HIGH-FREQUENCY SUBSTRATE MATERIAL, COMPOSITION, POLYIMIDE FILM, LAMINATE, SUBSTRATE FOR CIRCUIT, ANTENNA, POLYAMIC ACID FOR HIGH-FREQUENCY SUBSTRATE MATERIAL, AND COMPOSITION</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2023088880</doc-number>
+                                <date>20230627</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2023088880</doc-number>
+                                <kind>A</kind>
+                                <date>20230627</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>JP2024070589</doc-number>
+                                <date>20240523</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>JP</country>
+                                <doc-number>2024070589</doc-number>
+                                <kind>A</kind>
+                                <date>20240523</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="1">
+                            <text>- X. HEV. H. MANW. YANGT.-S. LEEJ. WANG, "A Fast and High-Quality Charge Model for the next Generation General AMBER Force Field", J. Chem. Phys., (20200000), vol. 153, page 114502</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="2">
+                            <text>- M. P. ALLEND. J. TILDESLEY, Computer Simulation of Liquids, Clarendon Press, (19890000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="3">
+                            <text>- RUIMIN MATENGFEI LUO, J. Chem. Inf. Model., (20200000), vol. 60, page 10</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <nplcit num="4">
+                            <text>- J. TRAGD. ZAHN, "Improved GAFF2 Parameters for Fluorinated Alkanes and Mixed Hydro- and Fluorocarbons", J. Mol. Model., (20190000), vol. 25, page 39</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <nplcit num="5">
+                            <text>- J.O. SIMPSONA.K. ST. CLAIR, Thin Solid Films, (19970000), pages 308 - 309</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A polyimide resin for a high-frequency substrate material includes an acid anhydride and a diamine. The acid anhydride is one or more selected from the group consisting of compounds represented by general formula (A-1) below, and the diamine is one or more selected from the group consisting of compounds represented by general formula (B-1) below and compounds represented by general formula (B-2) below:and</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

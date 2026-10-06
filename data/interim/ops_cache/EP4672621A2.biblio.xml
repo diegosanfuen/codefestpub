@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="89772211" country="EP" doc-number="4672621" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4672621</doc-number>
+                        <kind>A2</kind>
+                        <date>20251231</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4672621</doc-number>
+                        <date>20251231</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04B   1/    18            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>205</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>293</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="640243081">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25215053</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250215053</doc-number>
+                        <date>20240201</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25215053.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202363486848P</doc-number>
+                            <date>20230224</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202363486848 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20240155153</doc-number>
+                            <date>20240201</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>24155153.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>TRON FUTURE TECH INC [TW]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>TRON FUTURE TECH INC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WANG YU-JIU [TW]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SU BOR-CHING [TW]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> WANG CHIEN CHENG [TW]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WANG, Yu-Jiu, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SU, Bor-Ching, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>WANG, Chien Cheng</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">HOCHFREQUENZ (HF)-PHASENGESTEUERTER GRUPPENDETEKTOR</invention-title>
+                <invention-title lang="fr">DÉTECTEUR À RÉSEAU À COMMANDE DE PHASE (RF) RADIOFRÉQUENCE</invention-title>
+                <invention-title lang="en">RADIO FREQUENCY (RF) PHASED-ARRAY DETECTOR</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A radio frequency (RF) phased-array detector includes a vertical antenna array, a horizontal antenna array, a multiplexer module and a processor. The vertical antenna array includes a plurality of vertical antennas, and each of the vertical antennas is configured to obtain a first input signal in response to a wireless signal from a radio-emitting source. The horizontal antenna array includes a plurality of horizontal antennas, and each of the horizontal antennas is configured to obtain a second input signal in response to the wireless signal. The multiplexer module is configured to provide a set of third input signals selected from the first input signals and the second input signals. The processor is configured to obtain azimuth and elevation of the radio-emitting source according to the set of third input signals.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

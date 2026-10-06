@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="73448901" country="EP" doc-number="4292487" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4292487</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4292487</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A47K   5/    12            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>1205</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>1205</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>1217</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>1217</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>J</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>4204</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="601119255">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23207353</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230207353</doc-number>
+                        <date>20201113</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23207353.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201962935809P</doc-number>
+                            <date>20191115</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201962935809 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200207487</doc-number>
+                            <date>20201113</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20207487.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>OP HYGIENE IP GMBH [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>OP-Hygiene IP GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LANG ALBRECHT [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SENN ADRIAN [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> MÜLLER MICHAEL [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LANG, Albrecht, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SENN, Adrian, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>MÜLLER, Michael</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">FLÜSSIGKEITSSPENDER MIT AUFWECKSENSOR</invention-title>
+                <invention-title lang="fr">DISTRIBUTEUR DE FLUIDE AVEC CAPTEUR DE RÉVEIL</invention-title>
+                <invention-title lang="en">FLUID DISPENSER WITH WAKE UP SENSOR</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7748573</doc-number>
+                                <date>20100706</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7748573</doc-number>
+                                <kind>B2</kind>
+                                <date>20100706</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A fluid dispenser with a pump mechanism that dispenses fluid when activated. A light sensor detects light in or around the fluid dispenser, and a controller controls a function of an electronic component of the fluid dispenser based on detection data received from the light sensor.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

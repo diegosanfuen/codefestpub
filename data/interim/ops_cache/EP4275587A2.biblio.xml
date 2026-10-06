@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="66323803" country="EP" doc-number="4275587" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4275587</doc-number>
+                        <kind>A2</kind>
+                        <date>20231115</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4275587</doc-number>
+                        <date>20231115</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61B   3/   103            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>0033</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>103</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>1035</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>V</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>178</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599542886">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23200811</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230200811</doc-number>
+                        <date>20190425</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23200811.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230200811</doc-number>
+                            <date>20190425</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20190382316</doc-number>
+                            <date>20190425</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>19382316.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VISIONAPP SOLUTIONS S L [ES]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Visionapp Solutions S.L</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LÓPEZ GIL NORBERTO [ES]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> JASKULSKI MATEUSZ TOMASZ [ES]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> BRADLEY ARTHUR [ES]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LÓPEZ GIL, Norberto, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>JASKULSKI, Mateusz Tomasz, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>BRADLEY, Arthur</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">COMPUTERIMPLEMENTIERTES VERFAHREN UND SYSTEM ZUR INTERAKTIVEN MESSUNG VON BRECHUNGSFEHLERN DES AUGES, ADDITION UND LEISTUNG VON LESEBRILLEN</invention-title>
+                <invention-title lang="fr">PROCÉDÉ ET SYSTÈME MIS EN UVRE PAR ORDINATEUR POUR MESURER DE MANIÈRE INTERACTIVE DES ERREURS DE RÉFRACTION OCULAIRE, L'AJOUT ET LA PUISSANCE DE LUNETTES DE LECTURE</invention-title>
+                <invention-title lang="en">A COMPUTER-IMPLEMENTED METHOD AND SYSTEM FOR INTERACTIVELY MEASURING OCULAR REFRACTIVE ERRORS, ADDITION AND POWER OF READING GLASSES</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2014195951</doc-number>
+                                <date>20141211</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2014195951</doc-number>
+                                <kind>A1</kind>
+                                <date>20141211</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="1">
+                            <text>- DUANE A, "Studies in Monocular and Binocular Accommodation, with Their Clinical Application", Transactions of the American Ophthalmological Society, (19220000), vol. 20, pages 132 - 57</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="2">
+                            <text>- JACKSON E, "Amplitude of Accommodation at Different Periods of Life", California state journal of medicine, (19070000), vol. 5, no. 7, pages 163 - 6</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="3">
+                            <text>- BORISH IM, Clinical refraction, Professional Press, (19700000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="4">
+                            <text>- BANNON RE, "A study of astigmatism at the near point with special reference to astigmatic accommodation", Am J Optom Arch Am Acad Optom, (19460000), vol. 23, pages 53 - 75</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <nplcit num="5">
+                            <text>- SIVAK JGMANDELMAN T, "Chromatic dispersion of the ocular media", Vision Res, (19820000), vol. 22, doi:10.1016/0042-6989(82)90036-0, pages 997 - 1003, XP025697100</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <nplcit num="6">
+                            <text>- THIBOS LNYE MZHANG XBRADLEY A, "The chromatic eye: a new reduced-eye model of ocular chromatic aberration in humans", Appl Opt, (19920000), vol. 31, doi:10.1364/AO.31.003594, pages 3594 - 3600, XP001206892</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <nplcit num="7">
+                            <text>- CHARMAN WN, "Wavefront aberration of the eye: a review", Optom Vis Sci, (19910000), vol. 68, pages 574 - 583, XP009034665</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <nplcit num="8">
+                            <text>- BULLIMORE, M. A.BOYD, T.MATHER, H. E.GILMARTIN, B., "Near retinoscopy and refractive error", Clinical and Experimental Optometry, (19880000), vol. 71, no. 4, pages 114 - 118</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="9">
+                            <text>- BULLIMORE, M. A.FUSARO, R. E.ADAMS, C. W., "The repeatability of automated and clinician refraction", Optometry and vision science: official publication of the American Academy of Optometry, (19980000), vol. 75, no. 8, pages 617 - 622</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <nplcit num="10">
+                            <text>- LOPEZ-GIL, N., PEIXOTO-DE-MATOS, S. C., THIBOS, L. N., GONZALEZ-MEIJOME, J. M., "Shedding light on night myopia", Journal of Vision, (20120000), vol. 12, no. 5, pages 1 - 9</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <nplcit num="11">
+                            <text>- HEATH G. G., "The influence of visual acuity on accommodative responses of the eye", Am. J. Opt&amp;t. &amp; drchs Am. Acad. Oprom., (19560000), vol. 33, pages 513 - 524</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A system and method for interactively measuring ocular refractive errors, addition and power of reading glasses without the need of an optical component that would change optical vergence of a target. The system can measure the distance from a user's eyes to either or both border of interval of clear vision, for one orientation or two perpendicular orientations. The measurements together with the user's age can be used to estimate sphero-cylindrical refraction, addition and power of reading glasses. The system can use different sizes, directions and colors of targets which can change with said distance or user interaction.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

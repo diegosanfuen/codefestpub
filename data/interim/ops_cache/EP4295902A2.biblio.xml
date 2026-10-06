@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="62200238" country="EP" doc-number="4295902" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4295902</doc-number>
+                        <kind>A2</kind>
+                        <date>20231227</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4295902</doc-number>
+                        <date>20231227</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61P   1/    12            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>741</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>741</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>747</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>38</main-group>
+                        <subgroup>47</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="8">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>N</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>14</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="9">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>N</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>2402</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="10">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>N</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>52</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="11">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Y</subclass>
+                        <main-group>302</main-group>
+                        <subgroup>01018</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="12">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Y</subclass>
+                        <main-group>302</main-group>
+                        <subgroup>01024</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="13">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Y</subclass>
+                        <main-group>302</main-group>
+                        <subgroup>0105</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="14">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Y</subclass>
+                        <main-group>302</main-group>
+                        <subgroup>01052</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="15">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="16">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>183</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="17">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="18">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>A</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600564693">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23205154</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230205154</doc-number>
+                        <date>20190502</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23205154.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180170567</doc-number>
+                            <date>20180503</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18170567</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20190725035</doc-number>
+                            <date>20190502</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>19725035.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2019EP61259</doc-number>
+                            <date>20190502</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>CRIGASSENI AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Crigasseni AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GRAF FEDERICO [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Graf, Federico</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">PROBIOTISCHE BAKTERIENSTÄMME, DIE ANTIMIKROBIELLE PROTEINE PRODUZIEREN UND ZUSAMMENSETZUNGEN DAMIT ZUR BEHANDLUNG EINER CLOSTRIDIUM DIFFICILE INFEKTION</invention-title>
+                <invention-title lang="fr">SOUCHES BACTÉRIENNES PROBIOTIQUES PRODUISANT DES PROTÉINES ANTIMICROBIENNES ET COMPOSITIONS LES COMPRENANT POUR LE TRAITEMENT D'INFECTIONS DE CLOSTRIDIUM DIFFICILE</invention-title>
+                <invention-title lang="en">PROBIOTIC BACTERIAL STRAINS PRODUCING ANTIMICROBIAL PROTEINS AND COMPOSITIONS COMPRISING THESE FOR USE IN THE TREATMENT OF CLOSTRIDIUM DIFFICILE INFECTION</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US60313527P</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>60313527</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="application number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US19490603392P</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>19490603392</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="application number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20010902822</doc-number>
+                                <date>20010711</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>20010902822</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="application number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2001US21860</doc-number>
+                                <date>20010711</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2001US21860</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="1">
+                            <text>- REF. DE VRESE, M. et al., J. Nutr., (20070000), vol. 137, pages 803 - 811</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <nplcit num="2">
+                            <text>- S. GUANDALINI, J Clin Gastroeneterol, (20111100), vol. 45</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <nplcit num="3">
+                            <text>- DE KEERSMAECKER SC et al., FEMS Microbiol Lett., (20060600), vol. 259, no. 1, pages 89 - 96</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <nplcit num="4">
+                            <text>- W.H. LING et al., Microbial Ecology in Health and Disease, (19940000), vol. 7, pages 99 - 104</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <nplcit num="5">
+                            <text>- Therap Adv Gastrenterol., (20120300), vol. 5, no. 2, pages 111 - 125</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="6">
+                            <text>- C. PENNACCHIA et al., "Antagonistic activity of probiotic lactobacilli and bifidobacteria against entero- and uropathogens", Journal of Applied Microbiology, (20060000), vol. 100, pages 1324 - 1332</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <nplcit num="7">
+                            <text>- WALDEMAR VOLLMERBERNARD JORISPAULETTE CHARLIERSIMON FOSTER, FEMS Microbiology Reviews, (20080301), vol. 32, pages 259 - 286</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <nplcit num="8">
+                            <text>- "Peptidoglycan hydrolases", Current Research, Technology and Education Topics in Applied Microbiology and Microbial Biotechnology, pages 463 - 472</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                        <nplcit num="9">
+                            <text>- RODNEY H PEREZTAKESHI ZENDOKENJI SONOMOTO, Microb Cell Fact, (20140000), vol. 13, page S3</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                        <nplcit num="10">
+                            <text>- LAUCHAMBERLAIN, Int J Gen Med., (20160222), vol. 9, pages 27 - 37</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                        <nplcit num="11">
+                            <text>- FATEN N ABERRA, Medscape, (20170406), URL: http://emededicine.medscape.com/article/186458-overview</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="16">
+                        <nplcit num="12">
+                            <text>- ALLEN et al., The Lancet, (20131210), vol. 382, no. 9900, pages 1249 - 1257</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="17">
+                        <nplcit num="13">
+                            <text>- CORR, HILLGAHAN, Adv Food Nutr Res., (20090000), vol. 56, pages 1 - 15</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="18">
+                        <nplcit num="14">
+                            <text>- P. NAABER, Journal of Medical Microbiology, (20040000), vol. 53, pages 551 - 554</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="19">
+                        <nplcit num="15">
+                            <text>- M RATSEP, J. Prob. Health, (20140000), vol. 2, no. 1</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="20">
+                        <nplcit num="16">
+                            <text>- LONNERMARK et al., J Clin Gastroenterol., (20100000), vol. 44, no. 2, pages 106 - 12</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="21">
+                        <nplcit num="17">
+                            <text>- SCHOSTER et al., Anaerobe, (20130400), vol. 20, pages 36 - 41</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="22">
+                        <nplcit num="18">
+                            <text>- LEE et al., Toxicol Res., (20130600), vol. 29, no. 2, pages 99 - 106</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="23">
+                        <nplcit num="19">
+                            <text>- AHMAD et al., The American Journal of Gastroenterology, (20130400), vol. 108, page 625</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="24">
+                        <nplcit num="20">
+                            <text>- LE BLAY et al., Letters in Applied Microbiology, (20070000), vol. 45, pages 252 - 257</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="25">
+                        <nplcit num="21">
+                            <text>- AVILA et al., Int. J Food Microbio., (20140217), vol. Z172, pages 70 - 5</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="26">
+                        <nplcit num="22">
+                            <text>- SCHOSTER et al., Anaerobe, (20130420), pages 36 - 41</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="27">
+                        <nplcit num="23">
+                            <text>- HILL et al., "Expert consensus document. The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic", Nat Rev Gastroenterol Hepatol, (20140000), vol. 11, doi:10.1038/nrgastro.2014.66, pages 506 - 514, XP055447207</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="28">
+                        <nplcit num="24">
+                            <text>- EFSA Journal, (20160700), vol. 14</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="29">
+                        <nplcit num="25">
+                            <text>- Diarrhoeal disease, World Health Organization (WHO, (20170500)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="30">
+                        <nplcit num="26">
+                            <text>- SALMINEN et al., "Demonstration of safety of probiotics -- a review", IntJ Food Microbiol, (19980000), vol. 44, doi:10.1016/S0168-1605(98)00128-7, pages 93 - 106, XP055112542</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="31">
+                        <nplcit num="27">
+                            <text>- DROUAULT et al., Appl Environ Microbiol, (19990000), vol. 65, pages 4881 - 4886</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="32">
+                        <nplcit num="28">
+                            <text>- KIMOTO et al., Can J Microbiol, (20030000), vol. 49, pages 707 - 711</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="33">
+                        <nplcit num="29">
+                            <text>- KONDEPUDI et al., Anaerobe, (20120824), vol. 18, no. 5, pages 489 - 497</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="34">
+                        <nplcit num="30">
+                            <text>- L. DE VUYST, Journal of Applied Bacteriology, (19950000), vol. 78, pages 28 - 33</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="35">
+                        <nplcit num="31">
+                            <text>- ALTSCHUL et al., J. Mol. Biol., (19900000), vol. 215, pages 403 - 410</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="36">
+                        <nplcit num="32">
+                            <text>- CLUSTALWLARKIN MA et al., Bioinformatics, (20070000), vol. 23, pages 2947 - 2948</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="37">
+                        <nplcit num="33">
+                            <text>- KELLEY LA et al., Nature Protocols, (20150000), vol. 10, pages 845 - 858</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="38">
+                        <nplcit num="34">
+                            <text>- Adv. Appl. Math., (19910000), vol. 12, pages 337 - 357</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="39">
+                        <nplcit num="35">
+                            <text>- SIEVERS F et al., Mol. Sys. Bio., (20110000), vol. 7, page 539</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="40">
+                        <nplcit num="36">
+                            <text>- EDGAR, Nucl. Acids Res., (20040000), vol. 32, pages 1792 - 7</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="41">
+                        <nplcit num="37">
+                            <text>- NOTREDAME et al., J of Mol. Bio, (20000000), vol. 302, no. 1, pages 205 - 17</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="42">
+                        <nplcit num="38">
+                            <text>- Methods in Enzymology, (20020000), vol. 350, no. 248</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="43">
+                        <nplcit num="39">
+                            <text>- Applied Microbiology and Biotechnology, (20060000), vol. 72, no. 211</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="44">
+                        <nplcit num="40">
+                            <text>- LAUSUN, Biotechnol Adv., (20090000), vol. 27, pages 1015 - 22</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="45">
+                        <nplcit num="41">
+                            <text>- Clinical Microbiology Reviews, vol. 3, no. 2, pages 153 - 170</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="46">
+                        <nplcit num="42">
+                            <text>- Methods in Enzmology, (20020000), vol. 350, no. 248</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="47">
+                        <nplcit num="43">
+                            <text>- WESTERS et al., Mol. Cell. Res., (20040000), vol. 1694, pages 299 - 310</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="48">
+                        <nplcit num="44">
+                            <text>- LAUSUN, Biotechnol Adv., (20090518)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="49">
+                        <nplcit num="45">
+                            <text>- SAMBROOKRUSSELL, Human Embryonic Kidney 293 cells, (20010000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="50">
+                        <nplcit num="46">
+                            <text>- ANSELPOPOVISHLEAFEBIGER, Pharmaceutical Dosage Forms and Drug Delivery Systems, (19900000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="51">
+                        <nplcit num="47">
+                            <text>- MASARO KAJI et al., Journal of the Japanese Association for Infectious Diseases, (19660000), vol. 40, pages 295 - 309</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="52">
+                        <nplcit num="48">
+                            <text>- A. KUMAR, Trends in Food Science and Technology, (20070505), vol. 18, pages 240 - 251</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="53">
+                        <nplcit num="49">
+                            <text>- W. VOLLMER et al., FEMS Microbiol Rev., (20080300), vol. 32, no. 2, pages 259 - 86</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="54">
+                        <nplcit num="50">
+                            <text>- BERLIN KKOREN SCHIN C-SDRAKE JPLANDOLIN JMPHILLIPPY AM, "Assembling large genomes with single-molecule sequencing and locality-sensitive hashing", Nat Biotechnol., (20150000), vol. 33, doi:10.1038/nbt.3238, pages 623 - 630, XP055660133</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="55">
+                        <nplcit num="51">
+                            <text>- DE JONG AVAN HEEL AJKOK JKUIPERS OP, "BAGEL2: mining for bacteriocins in genomic data", Nucleic Acids Res., (20100000), vol. 38, no. 38, pages 647 - 51</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="56">
+                        <nplcit num="52">
+                            <text>- TRM6I6 ASAMELIS JMONNET CROGELJ IMATIJASIC BB, "Complete nisin A gene cluster from Lactococcus lactis M78 (HM219853) — obtaining the nucleic acid sequence and comparing it to other published nisin sequences", Genes Genom., (20110000), vol. 33, pages 217 - 21</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="57">
+                        <nplcit num="53">
+                            <text>- REF LAUERECKHARDOTTO KANDLER, "Lactobacillus gasserisp. nov., a new species of the subgenus Thermobacterium.", Zentralblatt für Bakteriologie: I. Abt. Originale C: Allgemeine, angewandte und okologische Mikrobiologie, (19800000), vol. 1, no. 1, pages 75 - 78</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="58">
+                        <nplcit num="54">
+                            <text>- ALATOSSOVA, T.MUNRO, KNG, J.TANNOCK, G. W.TILSALA-TIMISJARVI, A., "Identification of Lactobacillus Isolates from the Gastrointestinal Tract, Silage, and Yoghurt by 16S-23S rRNA Gene Intergenic Spacer Region Sequence Comparisons.", Applied and Enviromental Microbiology., (19990000), vol. 65, no. 9, pages 4364 - 4267, XP007906489</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="59">
+                        <nplcit num="55">
+                            <text>- FALSEN, EPASCUAL, CSJODEN, BOHLEN, MCOLLINS, MD., "Phenotypic and phylogenetic characterization of a novel Lactobacillus species from human sources: description of Lactobacillus iners sp.", Nov. Int J Syst Bacteriol., (19990000), vol. 49, pages 217 - 221, XP008019383</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="60">
+                        <nplcit num="56">
+                            <text>- MITSUOKA, T., "The human gastrointestinal tract.", In, The Lactic Acid Bacteria, (19920000), vol. 1</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="61">
+                        <nplcit num="57">
+                            <text>- KULLEN, M.J.R.B. SANOZKY_DAWESD.C. CROWELLT.R. KLAENHAMMER., "Use of DNA sequence of variable regions of the 16SrRNA gene for rapid and accurate identification of bacteria in the Lactobacillus acidophilus complex.", J. Appl. Microbiol., (20000000), vol. 89, pages 511 - 518</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="62">
+                        <nplcit num="58">
+                            <text>- ALATOSSOVA et al., "The complete genome of the type strain", L. gasseri ATCC, page 33323</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="63">
+                        <nplcit num="59">
+                            <text>- SEDDIK HABENDALI FGANCEL FFLISS ISPANO GDRIDER D, "Lactobacillus plantarum and Its Probiotic and Food Potentialities", Probiotics Antimicrob Proteins., (20170000), vol. 9, no. 2, pages 111 - 22</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="64">
+                        <nplcit num="60">
+                            <text>- SIEZEN, R.J.BAYJANOV, JRENCKENS, B.WELS, M.VAN HIJUM, S.A.MOLENAAR, D.VAN HYLCKAMA VLIEG, J.E., "Complete genome sequence of Lactococcus lactis subsp. lactis KF147, a plant-associated lactic acid bacterium", J Bacteriol, (20100000), vol. 192, doi:10.1128/JB.00276-10, pages 2649 - 2650, XP055660134</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="65">
+                        <nplcit num="61">
+                            <text>- PETROVA MLLIEVENS EMALIK SIMHOLZ NLEBEER S, "Lactobacillus species as biomarkers and agents that can promote various aspects of vaginal health", Front Physiol., (20150325), vol. 6, no. 81</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="66">
+                        <nplcit num="62">
+                            <text>- OJALA TKUPARINEN VKOSKINEN JPALATALO EHOLM LAUVINEN PEDELMAN SWESTERLUND-WIKSTR6M BKORHONEN TKPAULIN L, J Bacteriol., (20100700), vol. 192, no. 13, pages 3547 - 8</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="67">
+                        <nplcit num="63">
+                            <text>- RAVEL JGAJER PABDO ZSCHNEIDER GMKOENIG SSMCCULLE SLKARLEBACH SGORLE RTACKET COBROTMAN RM, "Vaginal microbiome of reproductive-age women", Proc Natl Acad Sci USA., (20110315), vol. 108, no. 1, doi:10.1073/pnas.1002611107, pages 4680 - 7, XP055083668</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="68">
+                        <nplcit num="64">
+                            <text>- SIROLI LPATRIGNANI FSERRAZANETTI DIPAROLIN CNAHUI PALOMINO RAVITALI BLANCIOTTI R, "Determination of Antibacterial and Technological Properties of Vaginal Lactobacilli for Their Potential Application in Dairy Products.", Front Microbiol., (20170207), vol. 8, page 166</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="69">
+                        <nplcit num="65">
+                            <text>- HYATT DCHEN G-LLOCASCIO PFLAND MLLARIMER FWHAUSER LJ., "Prodigal: prokaryotic gene recognition and translation initiation site identification", BMC Bioinformatics., (20100000), vol. 11, no. 119</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="70">
+                        <nplcit num="66">
+                            <text>- SUN, Z. et al., "Comparative genomic analysis of 45 type strains of the genus Bifidobacterium: a snapshot of its genetic diversity and evolution", PLoS One, (20150000), vol. 10, no. 2, page 0117912</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="71">
+                        <nplcit num="67">
+                            <text>- CHRISTINE SM LAURONALD S CHAMBERLAIN, "Probiotics are effective at preventing Clostridium difficile-associated diarrhea: a systematic review and meta-analysis", IntJ Gen Med., (20160000), vol. 9, pages 27 - 37</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="72">
+                        <nplcit num="68">
+                            <text>- BERLIN KKOREN SCHIN C-SDRAKE JPLANDOLIN JMPHILLIPPY AM, "Assembling large genomes with single-molecule sequencing and locality-sensitive hashing.", Nat Biotechnol., (20150000), vol. 33, doi:10.1038/nbt.3238, pages 623 - 630, XP055660133</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="73">
+                        <nplcit num="69">
+                            <text>- SWIDSINSKI et al., Am J Obstet Gynecol., (20071119), vol. 198, no. 1, pages 1 - 6</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present invention is directed to a bacterial, preferably probiotic bacterial peptidoglycan hydrolase (PGH), a peptidoglycan hydrolase (PGH)-comprising bacterial, preferably probiotic bacterial strain or a peptidoglycan hydrolase (PGH)-comprising composition for use in the therapeutic or prophylactic treatment of a bacterial infection, preferably for the treatment of a bacterial infection resulting in diarrhea. Further aspects of the present invention relate to corresponding methods for preparing a medicament and to a corresponding method of treatment.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="76844939" country="EP" doc-number="4278927" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4278927</doc-number>
+                        <kind>A2</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4278927</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A47B  88/   925            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>B</subclass>
+                        <main-group>88</main-group>
+                        <subgroup>925</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>AT</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>B</subclass>
+                        <main-group>88</main-group>
+                        <subgroup>925</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>B</subclass>
+                        <main-group>88</main-group>
+                        <subgroup>925</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>B</subclass>
+                        <main-group>2088</main-group>
+                        <subgroup>902</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>B</subclass>
+                        <main-group>2088</main-group>
+                        <subgroup>952</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599762948">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23201844</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230201844</doc-number>
+                        <date>20210622</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23201844.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>AT20200050577</doc-number>
+                            <date>20200706</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210739531</doc-number>
+                            <date>20210622</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21739531.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021AT60217</doc-number>
+                            <date>20210622</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="national">
+                        <document-id document-id-type="original">
+                            <doc-number>505772020</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>BLUM GMBH JULIUS [AT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Julius Blum GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LEITNER MARCEL [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> RIEZLER MARKUS [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> KAMPL MARKUS [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> MADLENER MARCEL [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LEITNER, Marcel, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>RIEZLER, Markus, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>KAMPL, Markus, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>MADLENER, Marcel</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SCHUBLADE MIT EINER HALTEVORRICHTUNG ZUR HALTERUNG EINER AUF DER SCHUBLADENSEITENWAND AUFSETZBAREN DEKORPLATTE</invention-title>
+                <invention-title lang="fr">TIROIR AVEC DISPOSITIF DE MAINTIEN D'UN PANNEAU DÉCORATIF POUVANT ÊTRE PLACÉ SUR LA PAROI LATÉRALE DE TIROIR</invention-title>
+                <invention-title lang="en">DRAWER WITH A HOLDING DEVICE FOR HOLDING A DECORATIVE PANEL WHICH CAN BE PLACED ONTO THE SIDE WALL OF THE DRAWER</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP2398350</doc-number>
+                                <date>20111228</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>2398350</doc-number>
+                                <kind>A1</kind>
+                                <date>20111228</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP2637524</doc-number>
+                                <date>20130918</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>2637524</doc-number>
+                                <kind>A1</kind>
+                                <date>20130918</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2015192154</doc-number>
+                                <date>20151223</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2015192154</doc-number>
+                                <kind>A1</kind>
+                                <date>20151223</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP3009040</doc-number>
+                                <date>20160420</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>3009040</doc-number>
+                                <kind>A1</kind>
+                                <date>20160420</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2016131579</doc-number>
+                                <date>20160825</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2016131579</doc-number>
+                                <kind>A1</kind>
+                                <date>20160825</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Haltevorrichtung (7a, 7b) zur Halterung einer auf eine Schubladenseitenwand (2a, 2b) aufsetzbaren Dekorplatte (6), insbesondere einer Glasplatte, umfassend:- eine Befestigungsvorrichtung (8a, 8b) zur Befestigung der Haltevorrichtung (7a, 7b) an einer Frontblende (3) oder an einer Schubladenrückwand (4),- wenigstens zwei voneinander beabstandete Halteschenkel (12a, 12b), zwischen denen die Dekorplatte (6) abschnittsweise aufnehmbar ist,- wobei die wenigstens zwei Halteschenkel (12a, 12b) Teil einer Klemmvorrichtung (15) sind, durch welche eine Klemmkraft in einer Richtung quer zu einer Längserstreckung (L) der Dekorplatte (6) auf die zwischen den wenigstens zwei Halteschenkeln (12a, 12b) aufgenommene Dekorplatte (6) ausübbar ist,wobei die Klemmvorrichtung (15) wenigstens eine Einstellvorrichtung (16) umfasst, durch welche die zwischen den wenigstens zwei Halteschenkeln (12a, 12b) auf die Dekorplatte (6) ausübbare Klemmkraft einstellbar ist.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

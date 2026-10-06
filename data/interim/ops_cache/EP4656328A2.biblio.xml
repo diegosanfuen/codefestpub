@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97302911" country="EP" doc-number="4656328" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4656328</doc-number>
+                        <kind>A2</kind>
+                        <date>20251203</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4656328</doc-number>
+                        <date>20251203</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B23Q   1/    52            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>B23Q   1/    54            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="3">
+                        <text>B23Q  11/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>23</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>525</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>23</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>5406</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>23</class>
+                        <subclass>Q</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>0032</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>23</class>
+                        <subclass>Q</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>0035</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>23</class>
+                        <subclass>Q</subclass>
+                        <main-group>2220</main-group>
+                        <subgroup>004</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638838543">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25208606</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250208606</doc-number>
+                        <date>20251014</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25208606.1</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250208606</doc-number>
+                            <date>20251014</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>MASCHF BERTHOLD HERMLE AG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Maschinenfabrik Berthold Hermle AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SCHWARZWÄLDER BENJAMIN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> MATTES WILFRIED [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> BERNHARD FRANZ-XAVER [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Schwarzwälder, Benjamin, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Mattes, Wilfried, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>Bernhard, Franz-Xaver</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">WERKSTÜCKTISCH UND VERFAHREN ZUR SCHWINGUNGSDÄMPFUNG FÜR EINEN WERKSTÜCKTISCH</invention-title>
+                <invention-title lang="fr">TABLE PORTE-PIÈCE ET PROCÉDÉ D'AMORTISSEMENT DES VIBRATIONS POUR UNE TABLE PORTE-PIÈCE</invention-title>
+                <invention-title lang="en">WORKPIECE TABLE AND METHOD FOR DAMPING VIBRATIONS FOR A WORKPIECE TABLE</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE69807529T</doc-number>
+                                <date>20030116</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>69807529</doc-number>
+                                <kind>T2</kind>
+                                <date>20030116</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die Erfindung betrifft einen Werkstücktisch (1) für eine Werkzeugmaschine, mit einem Grundträger (11), der eine Maschinenschnittstelle (15, 16) aufweist, die für eine Kopplung mit einem Maschinengestell einer Werkzeugmaschine ausgebildet ist, und der eine Trägeraufnahme (19) zur Kopplung mit einem Werkstückträger (51) aufweist, sowie mit einem Werkstückträger (51), der einen Trägerkörper (52), eine Hilfsmasse (53) und ein Zugstück (54) aufweist, wobei der Trägerkörper (52) an einer Oberseite (71) mit einer Werkstückaufnahme (56) zur Aufspannung eines Werkstücks versehen ist und an einer Unterseite einen Kupplungsabschnitt (59) zur Kopplung mit der Trägeraufnahme (19) aufweist, wobei die Hilfsmasse (53) linearbeweglich auf einer Berührfläche (61) des Trägerkörpers (52) gelagert ist und wobei das Zugstück (54) für eine Normalkraftübertragung zwischen Trägerkörper (52) und Hilfsmasse (53) ausgebildet ist, wobei die Hilfsmasse (53) einen größenveränderlichen Kontaktbereich (62; 74) mit der Berührfläche (61) bestimmt, so dass die Hilfsmasse (53) und die Berührfläche (61) einen Hilfsmassendämpfer mit einstellbarer Dämpfungswirkung bilden.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

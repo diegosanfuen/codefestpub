@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="57471904" country="EP" doc-number="4292760" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4292760</doc-number>
+                        <kind>A2</kind>
+                        <date>20231220</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4292760</doc-number>
+                        <date>20231220</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B24B  47/    26            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>24</class>
+                        <subclass>B</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>03</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>24</class>
+                        <subclass>B</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>24</class>
+                        <subclass>B</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>26</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599317903">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23200233</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230200233</doc-number>
+                        <date>20161205</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23200233.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE201510121305</doc-number>
+                            <date>20151208</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102015121305</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20160805468</doc-number>
+                            <date>20161205</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>16805468.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2016EP79745</doc-number>
+                            <date>20161205</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>FESTOOL GMBH [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Festool GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HIGELIN MICHAEL [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Higelin, Michael</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">HAND-WERKZEUGMASCHINE</invention-title>
+                <invention-title lang="fr">MACHINE-OUTIL À MAIN</invention-title>
+                <invention-title lang="en">HAND-HELD POWER TOOL</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE102010012025</doc-number>
+                                <date>20110922</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>102010012025</doc-number>
+                                <kind>A1</kind>
+                                <date>20110922</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die Erfindung betrifft eine Hand-Werkzeugmaschine, insbesondere eine Schleifmaschine (10), mit einem in einem Maschinengehäuse (11) angeordneten Exzentergetriebe (40) und einem elektrischen oder pneumatischen Antriebsmotor (30) zum rotatorischen Antreiben einer Antriebswelle (35) des Exzentergetriebes (40) um eine Antriebsachse (A), wobei das Exzentergetriebe (40) eine Werkzeugwelle (50) aufweist, die zur Durchführung von Exzenterbewegungen anhand mindestens eines Werkzeugwellenlagers (42, 44) an der Antriebswelle (35) exzentrisch drehbar gelagert ist und eine Werkzeugaufnahme (51) für ein Teller-Werkzeug (14) aufweist, wobei eine Zwangsrotationsführung (54) vorgesehen ist, die in einem Zwangsrotation-Exzentermodus der Werkzeugwelle (50) Rotationsbewegungen bezüglich des Maschinengehäuses (11) aufzwingt, indem sich ein Wälzkörper (55) der Zwangsrotationsführung (54) an einem anderen Wälzkörper (57) der Zwangsrotationsführung (54) abwälzt, wobei ein Wälzkörper (57) am Maschinengehäuse (11) und der andere Wälzkörper (55) an der Werkzeugwelle (50) abgestützt ist. Zwischen mindestens einem der Wälzkörper (57) und der Werkzeugwelle (50) oder dem Maschinengehäuse (11) ist eine Freilaufeinrichtung (62) vorgesehen, die den mindestens einen Wälzkörper (57) mit dem Maschinengehäuse (11) oder der Werkzeugwelle (50) in einer ersten Drehrichtung der Werkzeugwelle (50), die einer Sperrrichtung der Freilaufeinrichtung (62) entspricht, drehfest koppelt, so dass sich der eine, an der Werkzeugwelle (50) abgestützte Wälzkörper (55) an dem anderen, am Maschinengehäuse (11) abgestützten Wälzkörper (57) abwälzen kann, und in einer zweiten Drehrichtung der Werkzeugwelle (50), die einer Freilaufrichtung der Freilaufeinrichtung (62) entspricht, drehbar freigibt, so dass die Werkzeugwelle (50) ohne relative Drehung der Wälzkörper (55, 57) aneinander bezüglich des Maschinengehäuses (11) drehbar ist.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

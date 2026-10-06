@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="67809642" country="EP" doc-number="4268726" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4268726</doc-number>
+                        <kind>A2</kind>
+                        <date>20231101</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4268726</doc-number>
+                        <date>20231101</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61B   6/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>6</main-group>
+                        <subgroup>107</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>B</subclass>
+                        <main-group>6</main-group>
+                        <subgroup>107</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>21</class>
+                        <subclass>F</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>N</subclass>
+                        <main-group>2005</main-group>
+                        <subgroup>1094</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598508878">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23196608</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230196608</doc-number>
+                        <date>20180810</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23196608.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201762544468P</doc-number>
+                            <date>20170811</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201762544468 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180908271</doc-number>
+                            <date>20180810</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18908271.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2018US46318</doc-number>
+                            <date>20180810</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>RAMPART IC LLC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Rampart IC, LLC</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>FOSTER ROBERT [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> COOPER LLOYD [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIVINGSTONE WILLIAM [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> PHILLIPS FOSTER [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>FOSTER, Robert, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>COOPER, Lloyd, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LIVINGSTONE, William, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>PHILLIPS, Foster</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">STRAHLUNGSABSCHIRMUNGSSYSTEM</invention-title>
+                <invention-title lang="fr">SYSTÈME DE PROTECTION CONTRE LES RAYONNEMENTS</invention-title>
+                <invention-title lang="en">RADIATION SHIELDING SYSTEM</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <nplcit num="1">
+                            <text>- ASTM INTERNATIONAL, "Standard Test Method for Determining Protection Provided by X-ray Shielding Garments Used in Medical X-ray Fluoroscopy from Sources of Scattered X-Rays", ASTM Volume 11.03 Occupational Health and Safety; Protective Clothing, (20170000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="2">
+                            <text>- INTERNATIONAL ELECTROTECHNICAL COMMISSION, Protective devices against diagnostic medical X-radiation - Part 1: Determination of attenuation properties of materials, (20140000), URL: https://webstore.iec.ch/publication/5289</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A radiation shield assembly is described, configured to block radiation emanating from a radiation source from reaching a user. Two shields are supported by a support arm, and are configured to rotate and translate relative to one another about the support arm's longitudinal axis. This allows the shield to be easily configured and reconfigured as necessary to visualize various parts of a patient's body via radiography.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

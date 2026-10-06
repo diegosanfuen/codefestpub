@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="75108406" country="EP" doc-number="4282276" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4282276</doc-number>
+                        <kind>A2</kind>
+                        <date>20231129</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4282276</doc-number>
+                        <date>20231129</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A23K  50/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>23</class>
+                        <subclass>K</subclass>
+                        <main-group>10</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>23</class>
+                        <subclass>K</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>23</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>P</subclass>
+                        <main-group>60</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>P</subclass>
+                        <main-group>60</main-group>
+                        <subgroup>87</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598649439">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23194879</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230194879</doc-number>
+                        <date>20211112</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23194879.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>FR20200011670</doc-number>
+                            <date>20201113</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>2011670</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210207886</doc-number>
+                            <date>20211112</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21207886.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>TEREOS FRANCE [FR]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Tereos France</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BERGOUG HAKIM [FR]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>BERGOUG, Hakim</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">METHODE UND FUTTERZUSAMMENSETZUNG ZUR VERRINGERUNG DER METHANPRODUKTION BEI WIEDERKÄUERN</invention-title>
+                <invention-title lang="fr">MÉTHODE ET COMPOSITION ALIMENTAIRE POUR RÉDUIRE LA PRODUCTION DE MÉTHANE CHEZ LES RUMINANTS</invention-title>
+                <invention-title lang="en">METHOD AND FOOD COMPOSITION FOR REDUCING THE PRODUCTION OF METHANE IN RUMINANTS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <nplcit num="1">
+                            <text>- BEAUCHEMIN et al., Australian Journal of Experimental Agriculture, (20080000), vol. 48, pages 21 - 27</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="2">
+                            <text>- MARTIN et al., Animal, (20100000), vol. 4, no. 3, pages 351 - 365</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="fr">
+                <p>La présente invention concerne une méthode pour réduire la production de méthane par des ruminants laitiers, comprenant leur alimentation avec une composition alimentaire ensilée. Elle concerne également une composition alimentaire ensilée.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

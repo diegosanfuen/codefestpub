@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../style/legal.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:patent-family legal="true" total-result-count="30">
+        <ops:publication-reference>
+            <document-id document-id-type="docdb">
+                <country>EP</country>
+                <doc-number>4671882</doc-number>
+                <kind>A2</kind>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="62528829">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>4671882</doc-number>
+                    <kind>A2</kind>
+                    <date>20251231</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP4671882</doc-number>
+                    <date>20251231</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="640345885">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>25215555</doc-number>
+                    <kind>A</kind>
+                    <date>20180503</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201762536541</doc-number>
+                    <kind>P</kind>
+                    <date>20170725</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="2" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>18729226</doc-number>
+                    <kind>A</kind>
+                    <date>20180503</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201762501976</doc-number>
+                    <kind>P</kind>
+                    <date>20170505</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="4" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>21203483</doc-number>
+                    <kind>A</kind>
+                    <date>20180503</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="5" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>23205754</doc-number>
+                    <kind>A</kind>
+                    <date>20180503</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="6" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2018030771</doc-number>
+                    <kind>W</kind>
+                    <date>20180503</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

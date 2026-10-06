@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="70228797" country="EP" doc-number="4671992" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4671992</doc-number>
+                        <kind>A2</kind>
+                        <date>20251231</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4671992</doc-number>
+                        <date>20251231</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F   9/    52            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>52</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>52</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>362</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>362</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638490168">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207261</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207261</doc-number>
+                        <date>20200311</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207261.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201916401104</doc-number>
+                            <date>20190501</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201916401104</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200718015</doc-number>
+                            <date>20200311</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20718015.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020US22035</doc-number>
+                            <date>20200311</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>XILINX INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Xilinx, Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>JAIN SUNITA [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> RAO SWEATHA [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>JAIN, Sunita, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>RAO, Sweatha</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SPERRSCHALTUNG FÜR KONKURRIERENDE KERNEL IN EINEM HARDWAREBESCHLEUNIGER</invention-title>
+                <invention-title lang="fr">CIRCUIT DE VERROUILLAGE POUR NOYAUX CONCURRENTS DANS UN ACCÉLÉRATEUR MATÉRIEL</invention-title>
+                <invention-title lang="en">LOCK CIRCUIT FOR COMPETING KERNELS IN A HARDWARE ACCELERATOR</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A computing system (102), comprises a system memory (116) including a lock array (204), a processor (112) coupled to the system memory (116), a peripheral bus (115) coupled to the system memory (116), and a hardware accelerator (122). The hardware accelerator (102) comprises a bus interface (141) coupled to the peripheral bus (115), a lock circuit (140) coupled to the bus interface (141), and a plurality of kernel circuits (138) coupled to the lock circuit (140) and the bus interface (141). The plurality of kernel circuits (138) provide lock requests to the lock circuit (140), the lock requests for data (202) stored in system memory (116) of the computing system (102). The lock circuit (140) is configured to process the lock requests from the plurality of kernel circuits (138) and to issue atomic transactions over the peripheral bus (115) through the bus interface (141) based on the lock requests. The lock circuit (140) is further configured to issue atomic transactions in competition with competing threads (139) executed by the processor (112) to check the lock array (204) in the system memory (116) for exclusive access to the data (202). The lock array (204) is indexed by identifiers for certain portions of the data (202) stored in the system memory (116). The lock circuit (140) provides a single source of atomic transactions over the bus interface (141) and maintains a kernel lock array (206) indexed by identifiers for the data (202) stored in the system memory (116).</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

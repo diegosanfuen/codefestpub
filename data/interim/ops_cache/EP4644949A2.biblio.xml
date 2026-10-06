@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="83903434" country="EP" doc-number="4644949" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4644949</doc-number>
+                        <kind>A2</kind>
+                        <date>20251105</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4644949</doc-number>
+                        <date>20251105</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01S   7/   481            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>S</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>4808</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>S</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>4816</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>S</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>4913</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>S</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>S</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637344731">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25202212</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250202212</doc-number>
+                        <date>20221021</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25202212.4</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202111236151</doc-number>
+                            <date>20211022</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202111236151</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220202936</doc-number>
+                            <date>20221021</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22202936.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SUTENG INNOVATION TECH CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Suteng Innovation Technology Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GONG CHANGSHENG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SONG YAN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> YANG KEQIN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GONG, Changsheng, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SONG, Yan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>YANG, Keqin</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">RADARDATENVERARBEITUNGSVERFAHREN, ENDGERÄTEVORRICHTUNG UND COMPUTERLESBARES SPEICHERMEDIUM</invention-title>
+                <invention-title lang="fr">PROCÉDÉ DE TRAITEMENT DE DONNÉES RADAR, DISPOSITIF TERMINAL ET SUPPORT DE STOCKAGE LISIBLE PAR ORDINATEUR</invention-title>
+                <invention-title lang="en">RADAR DATA PROCESSING METHOD, TERMINAL DEVICE, AND COMPUTER-READABLE STORAGE MEDIUM</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>This application is applicable to the field of radar technologies, and provides a radar data processing method, a terminal device and a computer-readable storage medium. The method includes: obtaining a target receiving unit group corresponding to an emission unit; obtaining echo data received by the target receiving unit group; converging the echo data to obtain a convergence result; and determining a distance of a target object based on the convergence result. A target receiving unit with mapping offset is covered, to receive the echo data, and then a plurality pieces of received echo data is converged, to ensure complete reception of an echo signal. Then, ranging is performed based on converged data, to accurately obtain a position of a target object, thereby solving a problem that a receiving unit in existing LiDAR cannot effectively receive an echo and the target object cannot be detected due to a corresponding transceiving relationship.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

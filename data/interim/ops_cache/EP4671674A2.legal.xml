@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../style/legal.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ops:patent-family legal="true" total-result-count="27">
+        <ops:publication-reference>
+            <document-id document-id-type="docdb">
+                <country>EP</country>
+                <doc-number>4671674</doc-number>
+                <kind>A2</kind>
+            </document-id>
+        </ops:publication-reference>
+        <ops:family-member family-id="61562710">
+            <publication-reference>
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>4671674</doc-number>
+                    <kind>A2</kind>
+                    <date>20251231</date>
+                </document-id>
+                <document-id document-id-type="epodoc">
+                    <doc-number>EP4671674</doc-number>
+                    <date>20251231</date>
+                </document-id>
+            </publication-reference>
+            <application-reference doc-id="640290996">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>25215347</doc-number>
+                    <kind>A</kind>
+                    <date>20170905</date>
+                </document-id>
+            </application-reference>
+            <priority-claim sequence="1" kind="regional">
+                <document-id document-id-type="docdb">
+                    <country>EP</country>
+                    <doc-number>17849399</doc-number>
+                    <kind>A</kind>
+                    <date>20170905</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>3</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="2" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201662384820</doc-number>
+                    <kind>P</kind>
+                    <date>20160908</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="3" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>2017050117</doc-number>
+                    <kind>W</kind>
+                    <date>20170905</date>
+                </document-id>
+                <priority-active-indicator>NO</priority-active-indicator>
+                <priority-linkage-type>W</priority-linkage-type>
+            </priority-claim>
+            <priority-claim sequence="4" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201762468835</doc-number>
+                    <kind>P</kind>
+                    <date>20170308</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+            <priority-claim sequence="5" kind="national">
+                <document-id document-id-type="docdb">
+                    <country>US</country>
+                    <doc-number>201762501362</doc-number>
+                    <kind>P</kind>
+                    <date>20170504</date>
+                </document-id>
+                <priority-active-indicator>YES</priority-active-indicator>
+            </priority-claim>
+        </ops:family-member>
+    </ops:patent-family>
+</ops:world-patent-data>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="83193227" country="EP" doc-number="4654674" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4654674</doc-number>
+                        <kind>A2</kind>
+                        <date>20251126</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4654674</doc-number>
+                        <date>20251126</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  48/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>0619</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>0619</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>088</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>48</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>0453</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638510055">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207507</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207507</doc-number>
+                        <date>20220905</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207507.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202163261070P</doc-number>
+                            <date>20210910</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202163261070 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202217823636</doc-number>
+                            <date>20220831</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202217823636</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220193854</doc-number>
+                            <date>20220905</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22193854.1</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VIAVI SOLUTIONS INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Viavi Solutions Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KALATZIS CHARALAMPOS [GB]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KALATZIS, Charalampos</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ZELLULARES NETZWERK ÜBER FUNKBENUTZERGERÄTESTRAHLVERWALTUNGSEMULATION UND -PRÜFUNG</invention-title>
+                <invention-title lang="fr">RÉSEAU CELLULAIRE SUR L'ÉMULATION ET LE TEST DE GESTION DE FAISCEAU D'ÉQUIPEMENT UTILISATEUR AÉRIEN</invention-title>
+                <invention-title lang="en">CELLULAR NETWORK OVER THE AIR USER EQUIPMENT BEAM MANAGEMENT EMULATION AND TESTING</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A device may receive configuration data identifying bands and frequencies utilized by a plurality of user equipments and may generate a user equipment broad beam based on the configuration data. The device may transmit the user equipment broad beam towards a base station with a single user equipment fixed broad beam antenna of the device and may receive, from the base station, feedback data associated with the user equipment broad beam transmitted towards the base station. The device may determine whether the feedback data identifies one or more errors at the base station for one or more of the plurality of user equipments and may perform one or more actions based on determining whether the feedback data identifies the one or more errors at the base station for one or more of the plurality of user equipments.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

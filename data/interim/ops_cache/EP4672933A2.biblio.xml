@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="78049190" country="EP" doc-number="4672933" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4672933</doc-number>
+                        <kind>A2</kind>
+                        <date>20251231</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4672933</doc-number>
+                        <date>20251231</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H10K  50/    11            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>11</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>11</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>11</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>50</main-group>
+                        <subgroup>805</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="8">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>59</main-group>
+                        <subgroup>126</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="9">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>71</main-group>
+                        <subgroup>164</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="10">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>346</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="11">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>622</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="12">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>626</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="13">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>653</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="14">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>655</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="15">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>6572</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="16">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>6574</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="17">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>658</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="18">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>658</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="19">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>B</subclass>
+                        <main-group>2200</main-group>
+                        <subgroup>05</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="20">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1003</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="21">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1007</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="22">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1011</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="23">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1018</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="24">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1029</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="25">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1048</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="26">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1059</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="27">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>1074</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="28">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>09</class>
+                        <subclass>K</subclass>
+                        <main-group>2211</main-group>
+                        <subgroup>185</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="29">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>342</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="30">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>40</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="31">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>60</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="32">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>615</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="33">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>633</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="34">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>636</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="35">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>654</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="36">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>85</main-group>
+                        <subgroup>657</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="37">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="38">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="39">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="40">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>20</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="41">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>20</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="42">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>25</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="43">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>27</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="44">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>27</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="45">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="46">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="47">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>40</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="48">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>10</class>
+                        <subclass>K</subclass>
+                        <main-group>2101</main-group>
+                        <subgroup>60</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="640150857">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25214737</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250214737</doc-number>
+                        <date>20210917</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25214737.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197072</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197072</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197076</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197076</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197075</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197075</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197074</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197074</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="5" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197073</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197073</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="6" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197071</doc-number>
+                            <date>20200918</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197071</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="7" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197589</doc-number>
+                            <date>20200922</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197589</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="8" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200197588</doc-number>
+                            <date>20200922</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20197588</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="9" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200217041</doc-number>
+                            <date>20201223</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20217041</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="10" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210170783</doc-number>
+                            <date>20210427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21170783</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="11" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210170775</doc-number>
+                            <date>20210427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21170775</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="12" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210170776</doc-number>
+                            <date>20210427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21170776</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="13" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210170779</doc-number>
+                            <date>20210427</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21170779</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="14" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210184616</doc-number>
+                            <date>20210708</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21184616</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="15" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210184619</doc-number>
+                            <date>20210708</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21184619</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="16" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210185402</doc-number>
+                            <date>20210713</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21185402</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="17" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210186615</doc-number>
+                            <date>20210720</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21186615</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="18" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210785777</doc-number>
+                            <date>20210917</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21785777.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="19" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP75633</doc-number>
+                            <date>20210917</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SAMSUNG DISPLAY CO LTD [KR]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Samsung Display Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SHARIFIDEHSARI HAMED [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIAPTSIS GEORGIOS [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> CARBALLO JAIME LEGANÉS [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> JOLY DAMIEN [FR]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Sharifidehsari, Hamed, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Liaptsis, Georgios, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>Carballo, Jaime Leganés, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>Joly, Damien</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ORGANISCHE ELEKTROLUMINESZENTE VORRICHTUNG</invention-title>
+                <invention-title lang="fr">DISPOSITIF ÉLECTROLUMINESCENT ORGANIQUE</invention-title>
+                <invention-title lang="en">ORGANIC ELECTROLUMINESCENT DEVICE</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present invention relates to a an organic electroluminescent device comprising at least one light-emitting layer B composed of one or more sublayers, wherein the one or more sublayers of the light-emitting layer B as a whole comprise at least one host material H&amp;lt;sup&amp;gt;B&amp;lt;/sup&amp;gt;, at least one phosphorescence material P&amp;lt;sup&amp;gt;B&amp;lt;/sup&amp;gt;, at least one small FWHM emitter S&amp;lt;sup&amp;gt;B&amp;lt;/sup&amp;gt;, and optionally at least one TADF material E&amp;lt;sup&amp;gt;B&amp;lt;/sup&amp;gt;, wherein S&amp;lt;sup&amp;gt;B&amp;lt;/sup&amp;gt; is a boron-containing emitter and/or comprises a pyrene core structure.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

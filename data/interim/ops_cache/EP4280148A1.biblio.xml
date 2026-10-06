@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="88204343" country="EP" doc-number="4280148" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4280148</doc-number>
+                        <kind>A1</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4280148</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06Q  30/    06            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>G06Q  30/  0601            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>Q</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>0631</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599314579">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23199881</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230199881</doc-number>
+                        <date>20230926</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23199881.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230199881</doc-number>
+                            <date>20230926</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>LEMON INC [KY]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> BEIJING YOUZHUJU NETWORK TECH CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Lemon Inc, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>BEIJING YOUZHUJU NETWORK TECHNOLOGY CO. LTD</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>TON JEAN-FRANCOIS [GB]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KLOCHKOV YEGOR [GB]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIU YANG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> LI HANG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>TON, Jean-Francois, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>KLOCHKOV, Yegor, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LIU, Yang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>LI, Hang</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VERFAHREN, COMPUTERLESBARES MEDIUM, EMPFEHLUNGSSYSTEM, ELEKTRONISCHE VORRICHTUNG ZUR ERKLÄRUNG VON EMPFEHLUNGEN</invention-title>
+                <invention-title lang="fr">D&amp;#201</invention-title>
+                <invention-title lang="en">METHOD, COMPUTER READABLE MEDIUM, RECOMMENDATION SYSTEM, ELECTRONIC DEVICE FOR EXPLAINING RECOMMENDATIONS</invention-title>
+                <references-cited>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <nplcit num="1">
+                            <text>- TAN JUNTAO JUNTAO TAN@RUTGERS EDU ET AL, "Counterfactual Explainable Recommendation", PROCEEDINGS OF THE 11TH ACM SIGPLAN INTERNATIONAL CONFERENCE ON CERTIFIED PROGRAMS AND PROOFS, ACMPUB27, NEW YORK, NY, USA, (20211026), doi:10.1145/3459637.3482420, ISBN 978-1-4503-9223-5, pages 1784 - 1793, XP058903541</text>
+                        </nplcit>
+                        <category>I</category>
+                        <rel-claims>1,8-13</rel-claims>
+                        <category>Y</category>
+                        <rel-claims>2-7</rel-claims>
+                        <rel-passage>
+                            <passage>* abstract *</passage>
+                            <passage>* section 1 *</passage>
+                            <passage>* section 2.2 *</passage>
+                            <passage>* sections 3.1 - 3.3 *</passage>
+                            <passage>* sections 4.1 - 4.2 *</passage>
+                            <passage>* section 6.2 *</passage>
+                            <passage>* section 7 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <nplcit num="2">
+                            <text>- GHAZIMATIN AZIN AGHAZIMA@MPI-INF MPG DE ET AL, "PRINCE Provider-side Interpretability with Counterfactual Explanations in Recommender Systems", PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION &amp; KNOWLEDGE MANAGEMENT, ACMPUB27, NEW YORK, NY, USA, (20200120), doi:10.1145/3336191.3371824, ISBN 978-1-4503-6859-9, pages 196 - 204, XP058708062</text>
+                        </nplcit>
+                        <category>Y</category>
+                        <rel-claims>2-7</rel-claims>
+                        <rel-passage>
+                            <passage>* section 2 *</passage>
+                            <passage>* section 3 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="3">
+                            <text>- HONGWEI WANG ET AL, "RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems", ARXIV.ORG, CORNELL UNIVERSITY LIBRARY, 201 OLIN LIBRARY CORNELL UNIVERSITY ITHACA, NY 14853, (20180309), doi:10.1145/3269206.3271739, XP081177466</text>
+                        </nplcit>
+                        <category>Y</category>
+                        <rel-claims>5</rel-claims>
+                        <rel-passage>
+                            <passage>* section 3.3 *</passage>
+                            <passage>* figure 2 *</passage>
+                        </rel-passage>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method of explaining why an item has been recommended to a user comprises determining a value for the preference of the user for the recommended item based on data relating to the user and the item. This may be in the form of an interaction score. The user data is then modified to reduce the determined preference value such that the recommended item would not be recommended to the user. The modified user data is then used to determine preference values for items with which the user has interacted. These will be different from previously determined preference values based on the unmodified user data. From these preference values it is then possible to identify one or more items with which the user has interacted, for which the determined preference values differ most from previously determined preference values. It can be concluded that the interaction of the user with these identified item(s) is the antecedent for the recommended item being recommended.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

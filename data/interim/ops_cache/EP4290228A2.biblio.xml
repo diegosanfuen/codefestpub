@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="50028569" country="EP" doc-number="4290228" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290228</doc-number>
+                        <kind>A2</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290228</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01N  27/    26            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>6869</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>12</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>6869</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <combination-set sequence="1">
+                        <group-number>1</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q1/6869</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q2523/31</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>3</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q2565/631</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                    <combination-set sequence="2">
+                        <group-number>2</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q1/6869</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>US</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q2523/31</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>US</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>3</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>C12Q2565/631</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>US</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                </patent-classifications>
+                <application-reference doc-id="599949300">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202951</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202951</doc-number>
+                        <date>20130802</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202951.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201261679623P</doc-number>
+                            <date>20120803</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201261679623 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180213233</doc-number>
+                            <date>20130802</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18213233.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20130825899</doc-number>
+                            <date>20130802</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>13825899.1</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2013US53476</doc-number>
+                            <date>20130802</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>UNIV WASHINGTON THROUGH ITS CENTER FOR COMMERCIALIZATION [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>University of Washington through its Center for Commercialization</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>GUNDLACH JENS H [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LASZLO ANDREW [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>GUNDLACH, Jens, H, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LASZLO, Andrew</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ZUSAMMENSETZUNGEN UND VERFAHREN ZUR VERBESSERUNG EINER NANOPORENSEQUENZIERUNG</invention-title>
+                <invention-title lang="fr">COMPOSITIONS ET PROCÉDÉS POUR AMÉLIORER LE SÉQUENÇAGE DES NANOPORES</invention-title>
+                <invention-title lang="en">COMPOSITIONS AND METHODS FOR IMPROVING NANOPORE SEQUENCING</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7189503</doc-number>
+                                <date>20070313</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7189503</doc-number>
+                                <kind>B2</kind>
+                                <date>20070313</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7258838</doc-number>
+                                <date>20070821</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7258838</doc-number>
+                                <kind>B2</kind>
+                                <date>20070821</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7504058</doc-number>
+                                <date>20090317</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7504058</doc-number>
+                                <kind>B1</kind>
+                                <date>20090317</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011106459</doc-number>
+                                <date>20110901</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011106459</doc-number>
+                                <kind>A2</kind>
+                                <date>20110901</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2011106456</doc-number>
+                                <date>20110901</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2011106456</doc-number>
+                                <kind>A2</kind>
+                                <date>20110901</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2012055792</doc-number>
+                                <date>20120308</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2012055792</doc-number>
+                                <kind>A1</kind>
+                                <date>20120308</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <patcit dnum-type="publication number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2013083983</doc-number>
+                                <date>20130613</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2013083983</doc-number>
+                                <kind>A1</kind>
+                                <date>20130613</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <nplcit num="1">
+                            <text>- WILLIAMS et al., Mol. Cell. Biol., (19890000), vol. 9, page 2574</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <nplcit num="2">
+                            <text>- EVANS et al., J. Amer. Chem. Soc., (19900000), vol. 112, pages 4011 - 4030</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="3">
+                            <text>- WILLIAMS et al., J. Amer. Chem. Soc., (19910000), vol. 113, pages 9276 - 9286</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <nplcit num="4">
+                            <text>- CHERF, G.M. et al., "Automated forward and reverse ratcheting of DNA in a nanopore at 5-A precision", Nat. Biotechnol., (20120000), vol. 30, doi:10.1038/nbt.2147, pages 344 - 348, XP002750350</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <nplcit num="5">
+                            <text>- MANRAO et al., "Reading DNA at single-nucleotide resolution with a mutant MspA nanopore and phi29 DNA polymerase", Nat. Biotechnol., (20120000), vol. 30, doi:10.1038/nbt.2171, pages 349 - 353, XP055028414</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                        <nplcit num="6">
+                            <text>- BUTLER, T.Z.PAVLENOK, M.DERRINGTON, I.M.NIEDERWEIS, M.GUNDLACH, J.H., "Single-molecule DNA detection with an engineered MspA protein nanopore", Proc. Natl. Acad. Sci. USA, (20080000), vol. 105, doi:10.1073/pnas.0807514106, pages 20647 - 20652, XP007920663</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                        <nplcit num="7">
+                            <text>- BUTLER, T.Z. et al., Proc. Natl. Acad. Sci. USA, (20080000), vol. 105, pages 20647 - 20652</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                        <nplcit num="8">
+                            <text>- MANRAO et al., "Reading DNA at single-nucleotide resolution with a mutant MspA nanopore and phi29 DNA polymerase", Nature Biotechnology, (20120000), vol. 30, doi:10.1038/nbt.2171, pages 349 - 353, XP055028414</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure provides methods and reagents for improving nanopore- based analyses of polymers. Specifically, the disclosure provides a method of analyzing a polymer that includes a polymer analyte that contains an end domain that has at least one charged moiety. The disclosure also provides a method of increasing the interaction rate between a polymer analyte and a nanopore, wherein the polymer analyte contains an end domain that has at least one charged moiety. The disclosure also provide compositions for use with the described methods, including adapter compositions that contain charged moieties, such as phosphate or sulfate groups, and that are configured to being linked to an polymer analyte domain.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

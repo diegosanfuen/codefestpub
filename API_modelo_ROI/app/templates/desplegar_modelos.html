@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Management for the EPO CodeFest 2026 REST API Project</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+    <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+    <script>
+        document.getElementById("FormDespliegue").onsubmit = function() {
+          var campoValor = document.getElementById("contexto").value.trim();
+          var expresionRegular = /^[a-zA-Z0-9]+$/;
+          if (!expresionRegular.test(campoValor)) {
+              alert("Por favor, ingrese solo letras y números.");
+              return false;
+          }
+          return true;
+        };
+    </script>
+</head>
+<body>
+    <div class="container" width=800px>
+    <h2>Model Management for the EPO CodeFest 2026 REST API Project</h2>
+    <body>    
+        <h3>Register Model — EPO CodeFest API</h3>
+        <form action="/backendAdmin/upload" method="post" onsubmit="return validarFormulario()" enctype="multipart/form-data"  autocomplete="off"  id="FormDespliegue">
+            <input type="text" width="600px"  name="modelo" placeholder="Model name" autofocus required>
+            <input type="text" id="contexto" name="contexto"  width="600px"  placeholder="Model context" required>
+            <input type="file" accept=".pkl" width="600px" name="archivo" id="archivo" required><br>
+            <input  class="boton" type="submit" value="Register Model">
+        </form>   
+    </body>
+    </div>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>
+
+

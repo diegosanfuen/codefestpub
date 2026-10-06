@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="93087344" country="EP" doc-number="4661227" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4661227</doc-number>
+                        <kind>A1</kind>
+                        <date>20251210</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4661227</doc-number>
+                        <date>20251210</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H02G   5/    08            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>639</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>13</main-group>
+                        <subgroup>639</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>25</main-group>
+                        <subgroup>162</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>25</main-group>
+                        <subgroup>162</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>005</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>007</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>02</class>
+                        <subclass>G</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>KR</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="636911888">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25760210</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250760210</doc-number>
+                        <date>20250226</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25760210.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202420389091U</doc-number>
+                            <date>20240229</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202420389091 U</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2025CN79343</doc-number>
+                            <date>20250226</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CN2025079343</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SCHNEIDER ELECTRIC IND SAS [FR]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>SCHNEIDER ELECTRIC INDUSTRIES SAS</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HUANG JIANLIANG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> HUANG JIANYUAN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> HUANG FA [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIN TIANWEN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HUANG, Jianliang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>HUANG, Jianyuan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>HUANG, Fa, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>LIN, Tianwen</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SAMMELSCHIENENVERBINDUNGSANORDNUNG ZUM VERBINDEN VON SAMMELSCHIENEN, SAMMELSCHIENENANORDNUNG UND BUSBAHNGEHÄUSEANORDNUNG</invention-title>
+                <invention-title lang="fr">ENSEMBLE DE CONNEXION DE BARRE OMNIBUS POUR CONNECTER DES BARRES OMNIBUS, ENSEMBLE BARRE OMNIBUS ET ENSEMBLE ENCEINTE DE BARRE BLINDÉE</invention-title>
+                <invention-title lang="en">BUSBAR CONNECTING ASSEMBLY FOR CONNECTING BUSBARS, BUSBAR ASSEMBLY, AND BUSWAY ENCLOSURE ASSEMBLY</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>Embodiments of the present disclosure provide a busbar connection assembly, a busbar assembly and a busbar box assembly for connecting busbars, the busbar connection assembly comprising: a pair of conductive plates adapted to clamp and connect a first busbar and a second busbar separated from each other and extending in a same extending direction, each of the pair of conductive plates comprising: a body; a pair of coupling portions arranged at least at ends of the body in an extending direction, the pair of coupling portions being respectively coupled to the body through solid-liquid coupling or solid-solid coupling by using a same material as surfaces of the connecting portions of the first busbar and the second busbar; and a positioning hole formed in a middle portion of the body in the extending direction; and a locking member coupled in the positioning hole to lock and electrically connect the first busbar and the second busbar by pressing the pair of coupling portions respectively to the surfaces of the connecting portions of the first busbar and the second busbar. Therefore, the contact resistance of the busbar's electrical contact can be reduced, and the stability of electrical contact can be improved.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

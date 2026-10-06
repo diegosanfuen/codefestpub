@@ -1,0 +1,450 @@
+body {
+    overflow-x: hidden; /* Oculta el desplazamiento horizontal */
+}
+.menu-lateral {
+    width: 250px;
+    height: 100%;
+    background-color: #FFF;
+    color: #000;
+    padding-top: 20px;
+}
+
+.menu-lateral a {
+    padding: 10px;
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+.menu-lateral a:hover {
+    background-color: #F8BC76;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+tr:hover {
+    background-color: #ddd;
+}    
+.anchura-fecha {
+   width: 100px; /* puedes ajustar este valor según tus necesidades */
+}
+
+.anchura-modelo {
+   width: 200px; /* puedes ajustar este valor según tus necesidades */
+}
+
+.anchura-contexto {
+   width: 200px; /* puedes ajustar este valor según tus necesidades */
+}
+
+.anchura-checksum {
+   width: 100px; /* puedes ajustar este valor según tus necesidades */
+}
+
+ .anchura-ruta {
+   width: 300px; /* puedes ajustar este valor según tus necesidades */
+}
+
+.anchura-buttons {
+   width: 50px; /* puedes ajustar este valor según tus necesidades */
+}
+
+.contenido {
+    margin-left: 250px; /* Ancho del menú lateral */
+    padding: 20px;
+}
+
+.boton {
+        background-color: #4CAF50; /* Color de fondo del botón */
+        border: none; /* Quitamos el borde predeterminado */
+        color: white; /* Color del texto del botón */
+        padding: 15px 25px; /* Espacio alrededor del texto dentro del botón */
+        text-align: center; /* Centramos el texto */
+        text-decoration: none; /* Quitamos la subraya de los enlaces */
+        display: inline-block; /* Hace que el botón se comporte como un elemento en línea */
+        font-size: 16px; /* Tamaño de la fuente */
+        margin: 4px 2px; /* Margen entre botones */
+        cursor: pointer; /* Cambiamos el cursor al pasar sobre el botón */
+        border-radius: 12px; /* Agregamos bordes redondeados */
+        border: 2px solid #4CAF50; /* Añadimos un borde con un color verde similar al fondo */
+        transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Transición suave para los cambios */
+    }
+
+#error-image {
+     width: 300px;
+            height: auto;
+        }
+
+.contenedor_error
+{
+    width: 80%; /* Puedes ajustar el ancho según tus necesidades */
+    margin: 0 auto; /* Esto centra el contenedor */
+    background-color: #FFFFFF
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* Cambiar el color del texto a gris */
+.readonly {
+  color: #888;
+}
+
+/* Estilo para el mensaje indicativo */
+.indicativo {
+  font-size: 12px;
+  color: #888;
+}
+
+#mensaje {
+    display: none; /* Inicialmente oculto */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #f5c6cb;
+    z-index: 9999;
+}
+
+/* ===== FORCE BACKGROUND THEME (wins against old CSS) ===== */
+html, body {
+  background:
+    radial-gradient(1200px 800px at 20% 10%, rgba(124,92,255,.35), transparent 60%),
+    radial-gradient(1000px 700px at 90% 20%, rgba(46,233,166,.18), transparent 55%),
+    radial-gradient(900px 700px at 50% 90%, rgba(255,92,122,.12), transparent 55%),
+    #0b1020 !important;
+
+  color: #e8ecff;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+               Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  overflow-x: hidden;
+}
+
+/* ===== Make the form card match the theme ===== */
+.container {
+  background: rgba(17,26,51,.72) !important;
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 18px;
+  box-shadow: 0 12px 40px rgba(0,0,0,.35);
+  backdrop-filter: blur(10px);
+
+  /* center nicely */
+  margin: 48px auto !important;
+  padding: 28px 26px !important;
+  width: min(700px, calc(100% - 32px)) !important;
+}
+
+/* Headings */
+.container h2, .container h3 {
+  color: #e8ecff !important;
+}
+
+/* Inputs */
+.container input[type="text"],
+.container input[type="file"]{
+  width: 100% !important;
+  padding: 12px 14px;
+  margin: 10px 0;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(11,15,30,.55);
+  color: #e8ecff;
+  outline: none;
+}
+
+.container input[type="text"]::placeholder{
+  color: rgba(169,179,214,.85);
+}
+
+/* Button */
+.container .boton,
+.container input[type="submit"]{
+  width: 100% !important;
+  margin-top: 12px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(124,92,255,.45);
+  background: rgba(124,92,255,.18);
+  color: #e8ecff;
+  cursor: pointer;
+  transition: background .15s ease, border-color .15s ease;
+}
+
+.container .boton:hover,
+.container input[type="submit"]:hover{
+  background: rgba(124,92,255,.28);
+  border-color: rgba(124,92,255,.65);
+}
+
+/* ===== Centered page + card ===== */
+.page{
+  min-height: 100vh;
+  padding: 28px 18px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.card{
+  width: min(1200px, calc(100% - 0px));
+  background: rgba(17,26,51,.72);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 18px;
+  box-shadow: 0 12px 40px rgba(0,0,0,.35);
+  backdrop-filter: blur(10px);
+  padding: 20px 18px;
+}
+
+.card h2, .card h3{
+  margin: 0 0 14px 0;
+  color: #e8ecff;
+}
+.card h3{ margin-top: 6px; color: rgba(232,236,255,.92); }
+
+/* ===== Table wrapper (no page horizontal scroll) ===== */
+.table-wrap{
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(11,15,30,.40);
+}
+
+/* ===== Table styling ===== */
+.models-table{
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  min-width: 980px; /* fuerza scroll interno en pantallas pequeñas */
+}
+
+.models-table thead th{
+  text-align: left;
+  font-size: 13px;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  color: rgba(232,236,255,.95);
+  background: rgba(255,255,255,.05);
+  padding: 14px 12px;
+  border-bottom: 1px solid rgba(255,255,255,.10);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Backups page: Bootstrap pisa el color, lo forzamos */
+html, body { color: #e8ecff !important; }
+
+h1 { color: #e8ecff !important; }
+
+/* Si quieres que la lista encaje con el tema oscuro */
+.list-group-item{
+  background: rgba(17,26,51,.72) !important;
+  color: #e8ecff !important;
+  border-color: rgba(255,255,255,.12) !important;
+}
+.list-group-item a{
+  color: rgba(124,92,255,.95) !important;
+}
+.list-group-item a:hover{
+  color: rgba(46,233,166,.95) !important;
+}
+
+/* Backups: que el contenido no se salga del recuadro */
+.list-group-item{
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  overflow: hidden;
+}
+
+/* La fecha en una línea */
+.list-group-item .backup-date{
+  font-weight: 600;
+}
+
+/* El enlace puede partir palabras largas */
+.list-group-item a.file-link{
+  display: block;
+  overflow-wrap: anywhere;   /* corta incluso sin espacios */
+  word-break: break-word;    /* fallback */
+  white-space: normal;
+}
+
+/* =========================================================
+   FIX FINAL (DEJAR AL FINAL DEL CSS) – TABLA MODELOS
+   ========================================================= */
+
+/* El hover global viejo NO debe afectar a la cabecera */
+.models-table thead tr:hover th,
+.models-table thead th:hover{
+  background: rgba(255,255,255,.06) !important;
+  color: rgba(232,236,255,.95) !important;
+}
+
+/* Wrapper: scroll interno si hace falta, pero sin destrozar el layout */
+.table-wrap{
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(11,15,30,.40);
+}
+
+/* Tabla: vuelve a un comportamiento “normal” y controlado */
+.models-table{
+  width: 100% !important;
+  min-width: 1100px;              /* si pantalla pequeña, scroll dentro */
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  table-layout: auto !important;  /* <-- clave: evita columnas “aplasta-texto” */
+}
+
+/* Celdas: tema oscuro consistente (anula el modo claro viejo) */
+.models-table th,
+.models-table td{
+  background: rgba(0,0,0,.10) !important;
+  color: rgba(232,236,255,.95) !important;
+  border: 1px solid rgba(255,255,255,.10) !important;
+  padding: 14px 12px !important;
+  vertical-align: middle !important;
+}
+
+/* Cabecera */
+.models-table thead th{
+  background: rgba(255,255,255,.06) !important;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  font-size: 13px;
+}
+
+/* Zebra + hover SOLO en tbody */
+.models-table tbody tr:nth-child(even) td{ background: rgba(255,255,255,.03) !important; }
+.models-table tbody tr:hover td{ background: rgba(124,92,255,.12) !important; }
+
+/* Anchos razonables (en px) para que no se apilen palabras */
+.models-table .anchura-fecha{ width: 170px !important; white-space: nowrap; }
+.models-table .anchura-modelo{ width: 220px !important; white-space: nowrap; }
+.models-table .anchura-contexto{ width: 160px !important; white-space: nowrap; }
+.models-table .anchura-ruta{ width: auto !important; }
+
+/* Ruta: 1 línea con “…” para que no empuje el resto */
+.models-table td.anchura-ruta{
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  max-width: 1px; /* truco: obliga al ellipsis en tablas */
+}
+
+/* Botones: columnas estables */
+.models-table .anchura-buttons{ width: 170px !important; white-space: nowrap; }
+.models-table td.anchura-buttons form{
+  margin: 0 !important;
+  display: flex;
+  justify-content: center;
+}
+.models-table .boton{
+  min-width: 140px;
+  white-space: nowrap;
+}
+
+.byline{
+  margin-top: -0.4rem;
+  margin-bottom: 1.2rem;
+  font-size: 0.95rem;
+  opacity: 0.75;
+}
+
+.app-footer {
+  margin-top: 4rem;           /* aire real */
+  padding-bottom: 1.5rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.35);
+  letter-spacing: 0.03em;
+}
+
+.signature{
+  position: fixed;
+  bottom: 10px;
+  left: 14px;
+
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  color: rgba(255,255,255,0.45);
+
+  pointer-events: none; /* no interfiere */
+  user-select: none;
+  z-index: 0;           /* queda “detrás” visualmente */
+}

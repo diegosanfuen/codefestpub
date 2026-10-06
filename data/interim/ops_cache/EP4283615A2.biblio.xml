@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="76920774" country="EP" doc-number="4283615" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4283615</doc-number>
+                        <kind>A2</kind>
+                        <date>20231129</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4283615</doc-number>
+                        <date>20231129</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G10L  19/    18            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>008</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>012</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>012</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>008</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>10</class>
+                        <subclass>L</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>Y</section>
+                        <class>02</class>
+                        <subclass>D</subclass>
+                        <main-group>30</main-group>
+                        <subgroup>70</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599799953">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23202112</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230202112</doc-number>
+                        <date>20210706</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23202112.1</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202063048875P</doc-number>
+                            <date>20200707</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202063048875 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210742090</doc-number>
+                            <date>20210706</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21742090.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP68565</doc-number>
+                            <date>20210706</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ERICSSON TELEFON AB L M [SE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Telefonaktiebolaget LM Ericsson (publ)</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>JANSSON TOFTGÅRD TOMAS [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KINUTHIA CHARLES [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> JANSSON FREDRIK [SE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Jansson Toftgård, Tomas, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Kinuthia, Charles, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>Jansson, Fredrik</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KOMFORTRAUSCHERZEUGUNG FÜR RÄUMLICHE MULTIMODALE AUDIOCODIERUNG</invention-title>
+                <invention-title lang="fr">GÉNÉRATION DE BRUIT DE CONFORT POUR CODAGE AUDIO SPATIAL MULTIMODE</invention-title>
+                <invention-title lang="en">COMFORT NOISE GENERATION FOR MULTI-MODE SPATIAL AUDIO CODING</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A decoder for generating comfort noise is provided. The decoder is configured to provide a first set of background noise parameters Ni for at least one audio signal in a first spatial audio coding mode and a second set of background noise parameters N2 for the at least one audio signal in a second spatial audio coding mode. The first spatial audio coding mode is used for active segments; the second spatial audio coding mode is used for inactive segments. The decoder is further configured to adapt the first set of background noise parameters Ni to the second spatial audio coding mode, thereby providing a first set of adapted background noise parameters N̂1. The decoder is further configured to generate comfort noise parameters by combining N̂1 and N2 over a transition period, and to generate comfort noise based on the comfort noise parameters.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

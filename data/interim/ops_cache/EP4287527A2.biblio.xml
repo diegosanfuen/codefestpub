@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="73699436" country="EP" doc-number="4287527" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4287527</doc-number>
+                        <kind>A2</kind>
+                        <date>20231206</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4287527</doc-number>
+                        <date>20231206</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04B   7/   185            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>043</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>0617</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>18508</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>18508</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="600479737">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23205031</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230205031</doc-number>
+                        <date>20201109</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23205031.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201962934128P</doc-number>
+                            <date>20191112</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201962934128 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200819967</doc-number>
+                            <date>20201109</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20819967.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020US59725</doc-number>
+                            <date>20201109</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VIASAT INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>ViaSat, Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MERRELL DOUGLAS J [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MERRELL, Douglas J</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">KOMPENSATION DER GIERDRIFT BEIM AUSRICHTEN EINER ANTENNE</invention-title>
+                <invention-title lang="fr">COMPENSATION DE DÉRIVE DE LACET POUR POINTER UNE ANTENNE</invention-title>
+                <invention-title lang="en">YAW DRIFT COMPENSATION FOR POINTING AN ANTENNA</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A method is provided for executing a signal tracking operation with an antenna system. The method comprises: setting an antenna of the antenna system to an initial angular position towards a target, the initial angular position being defined in a local tangent plane relative to the antenna system and the target; adjusting a pointing direction of the antenna from the initial angular position to a plurality of angular positions in a sweep operation; measuring a signal metric of signals communicated between the antenna and the target at each of the plurality of angular positions of the sweep operation; recording a number of times the sweep operation has been executed; determining whether a yaw rate measured by an inertial navigation system, INS, satisfies a threshold yaw rate level; determining whether the number of times the sweep operation was executed satisfies a threshold operation level; and selecting a scan offset angle based on the measured signal metrics. An apparatus is provided for performing the method.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97234368" country="EP" doc-number="4660702" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4660702</doc-number>
+                        <kind>A2</kind>
+                        <date>20251210</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4660702</doc-number>
+                        <date>20251210</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G03F   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>70766</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>70775</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>708</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638545245">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25207681</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250207681</doc-number>
+                        <date>20251009</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25207681.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250207681</doc-number>
+                            <date>20251009</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ASML NETHERLANDS BV [NL]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>ASML Netherlands B.V</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>HEMSCHOOTE DRIES VAAST PAUL [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> FISCHER OLOF MARTINUS JOSEPHUS [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> VAN ADRICHEM THOMAS PAULUS CORNELIS [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>HEMSCHOOTE, Dries, Vaast, Paul, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>FISCHER, Olof, Martinus, Josephus, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>VAN ADRICHEM, Thomas, Paulus, Cornelis</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">POSITIONSMESSSYSTEM UND -VERFAHREN, SUBSTRATSTUFENSYSTEM UND BELICHTUNGSVORRICHTUNG</invention-title>
+                <invention-title lang="fr">SYSTÈME ET PROCÉDÉ DE MESURE DE POSITION, SYSTÈME D'ÉTAGE DE SUBSTRAT ET APPAREIL D'EXPOSITION</invention-title>
+                <invention-title lang="en">POSITION MEASUREMENT SYSTEM AND METHOD, SUBSTRATE STAGE SYSTEM, AND EXPOSURE APPARATUS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2014204358</doc-number>
+                                <date>20140724</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2014204358</doc-number>
+                                <kind>A1</kind>
+                                <date>20140724</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2018335705</doc-number>
+                                <date>20181122</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2018335705</doc-number>
+                                <kind>A1</kind>
+                                <date>20181122</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2024168393</doc-number>
+                                <date>20240523</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2024168393</doc-number>
+                                <kind>A1</kind>
+                                <date>20240523</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure provides an object stage system, comprising: a balance mass having a top surface, a bottom surface, and one or more side surfaces; at least one object table movable with respect to said top surface; at least one object table follower movable with respect to a side of the balance mass and supporting a cable slab connected to a corresponding object table; a first position measurement system for measuring a first position of the at least one object table relative to the top surface in six degrees of freedom, and a second position measurement system for measuring a second position of the object table follower relative to the balance mass in six degrees of freedom.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

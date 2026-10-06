@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="80785235" country="EP" doc-number="4290189" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290189</doc-number>
+                        <kind>A2</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290189</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01D   5/    14            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>11</class>
+                        <subclass>C</subclass>
+                        <main-group>19</main-group>
+                        <subgroup>0808</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>145</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599304569">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23199586</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230199586</doc-number>
+                        <date>20220214</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23199586.1</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE202110205136</doc-number>
+                            <date>20210520</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102021205136</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220156469</doc-number>
+                            <date>20220214</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22156469.3</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>HEIDENHAIN GMBH DR JOHANNES [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>DR. JOHANNES HEIDENHAIN GmbH, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>Dr. Johannes Heidenhain GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SCHNEIDER JOHANNES [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Schneider, Johannes</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SPEICHERSYSTEM MIT EINEM SENSORELEMENT ZUR SPEICHERUNG VON UMDREHUNGS- ODER POSITIONSINFORMATIONEN</invention-title>
+                <invention-title lang="fr">SYSTÈME DE STOCKAGE COMPRENANT UN ÉLÉMENT DE DÉTECTION POUR STOCKER DES INFORMATIONS DE ROTATION OU DE POSITION</invention-title>
+                <invention-title lang="en">STORAGE SYSTEM INCLUDING A SENSOR ELEMENT FOR STORING ROTATION OR POSITION INFORMATION</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US4157591</doc-number>
+                                <date>19790605</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>4157591</doc-number>
+                                <kind>A</kind>
+                                <date>19790605</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>EP1740909</doc-number>
+                                <date>20070606</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>EP</country>
+                                <doc-number>1740909</doc-number>
+                                <kind>B1</kind>
+                                <date>20070606</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2010301842</doc-number>
+                                <date>20101202</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2010301842</doc-number>
+                                <kind>A1</kind>
+                                <date>20101202</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die Erfindung betrifft ein Speichersystem mit einem Sensorelement (1; 1') zur Speicherung von Umdrehungs- oder Positionsinformationen umfassend einen Domänenwandleiter (1.1; 1.1'), der auf einem Substrat (1.2) angeordnet ist. Der Verlauf des Domänenwandleiters (1.1; 1.1') ist kreuzungsfrei ausgestaltet und der Domänenwandleiter (1.1; 1.1') weist einen ersten Bereich (A) mit einer positiven Krümmung und einen zweiten Bereich (B) mit einer negativen Krümmung auf. Weiterhin umfasst das Speichersystem ein Bauelement (2) mit einer Magnetanordnung (1.3), welches in einer ersten Richtung (x) relativ zum Domänenwandleiter (1.1; 1.1') bewegbar ist. Schließlich umfasst das Speichersystem einen Stützmagnet (1.6), der relativ zum Sensorelement (1; 1') unbeweglich angeordnet ist. Das Sensorelement (1; 1') ist zwischen der Magnetanordnung (1.3) und dem Stützmagnet (1.6) angeordnet. (Figur 6)</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

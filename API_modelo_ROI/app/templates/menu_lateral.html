@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menú Lateral</title>
+
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics_menu.css') }}">
+
+  <!-- JS de tu app -->
+  <script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+</head>
+
+<body>
+  <script src="{{ url_for('static', filename='jquery-1.6.2.js') }}"></script>
+
+  <aside class="menu-lateral" aria-label="Main navigation">
+    <!-- Header del menú (solo visual) -->
+    <div class="menu-header">
+      <div class="menu-logo" aria-hidden="true"></div>
+      <div class="menu-title">
+        <div class="menu-name">Console</div>
+        <div class="menu-subtitle">Admin Panel</div>
+      </div>
+    </div>
+
+    <nav class="menu-items">
+      <div class="itemMenu" id="1" onmouseover="mouseOver(this.id)" onmouseout="mouseOut(this.id)">
+        <a href="/backendAdmin/estados" target="mainFrame">Models</a>
+      </div>
+
+      <div class="itemMenu" id="2" onmouseover="mouseOver(this.id)" onmouseout="mouseOut(this.id)">
+        <a href="/backendAdmin/deploy" target="mainFrame">Deployment</a>
+      </div>
+
+      <div class="itemMenu" id="3" onmouseover="mouseOver(this.id)" onmouseout="mouseOut(this.id)">
+        <a href="/backendAdmin/gestion_backups" target="mainFrame">Backups</a>
+      </div>
+
+      <div class="itemMenu" id="4" onmouseover="mouseOver(this.id)" onmouseout="mouseOut(this.id)">
+        <a href="/api/health" target="mainFrame">Monitoring</a>
+      </div>
+
+      <div class="itemMenu" id="5" onmouseover="mouseOver(this.id)" onmouseout="mouseOut(this.id)">
+        <a href="documentacion" target="mainFrame" aria-current="page">Document</a>
+      </div>
+    </nav>
+  </aside>
+</body>
+</html>

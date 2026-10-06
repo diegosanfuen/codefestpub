@@ -1,0 +1,19 @@
+# User / system
+.cache/
+.local/
+.npm/
+.jupyter/
+.ipython/
+.jlab_bookmarks/
+.ipynb_checkpoints/
+.ssh/
+.gitconfig
+.viminfo
+.ipynb_checkpoints/
+./data/interim/ops_cache/
+./scripts/__pycache__/
+
+# Python
+__pycache__/
+*.pyc
+

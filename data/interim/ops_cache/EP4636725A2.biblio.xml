@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="77924338" country="EP" doc-number="4636725" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4636725</doc-number>
+                        <kind>A2</kind>
+                        <date>20251022</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4636725</doc-number>
+                        <date>20251022</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G08B  29/    18            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>08</class>
+                        <subclass>B</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>08</class>
+                        <subclass>B</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>08</class>
+                        <subclass>B</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="636932431">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25200585</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250200585</doc-number>
+                        <date>20210908</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25200585.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE202010212573</doc-number>
+                            <date>20201006</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102020212573</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210777957</doc-number>
+                            <date>20210908</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21777957.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP74641</doc-number>
+                            <date>20210908</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SIEMENS SCHWEIZ AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Siemens Schweiz AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KLEIN KONSTANTIN [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> KUNZE AXEL [CH]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Klein, Konstantin, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Kunze, Axel</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BRANDMELDEZENTRALE</invention-title>
+                <invention-title lang="fr">CENTRALE DE DÉTECTION D'INCENDIE</invention-title>
+                <invention-title lang="en">FIRE ALARM SYSTEM</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2015097664</doc-number>
+                                <date>20150409</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2015097664</doc-number>
+                                <kind>A1</kind>
+                                <date>20150409</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2016196730</doc-number>
+                                <date>20160707</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2016196730</doc-number>
+                                <kind>A1</kind>
+                                <date>20160707</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2016337720</doc-number>
+                                <date>20161117</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2016337720</doc-number>
+                                <kind>A1</kind>
+                                <date>20161117</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2020123417</doc-number>
+                                <date>20200618</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2020123417</doc-number>
+                                <kind>A2</kind>
+                                <date>20200618</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US10750321</doc-number>
+                                <date>20200818</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>10750321</doc-number>
+                                <kind>B1</kind>
+                                <date>20200818</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die Erfindung betrifft eine Brandmeldezentrale zum Anschluss einer Melderlinie mit einer Mehrzahl von daran angeschlossenen Meldern, wobei die Brandmeldezentrale für die Installation und/oder Inbetriebsetzung der Melder in einem Installationsmodus betreibbar ist, wobei die Brandmeldezentrale im Installationsmodus mit einem mobilen Kommunikationsendgerät eines Nutzers (z.B. Inbetriebsetzer) in einer Kommunikationsverbindung steht, wobei die Brandmeldezentrale im Falle eines erkannten Installationsfehlers dem entsprechenden Melder (d.h. dem Melder, der vom Installationsfehler betroffen ist) eine entsprechende Fehlermeldung zur Ausgabe auf einer Ausgabevorrichtung (z.B. Display, Audio, LED) sendet und wobei gegebenenfalls die Brandmeldezentrale dem mobilen Kommunikationsendgerät zusätzlich eine entsprechende Fehlermeldung zur Ausgabe auf einer Ausgabevorrichtung (z.B. Display, Audio) des mobilen Kommunikationsendgerätes sendet. Es sind eine oder mehrere Überwachungseinheit(en) zum Überprüfen der elektrischen Eigenschaften der Melderlinie in der Brandmeldezentrale und/oder in den jeweiligen Meldern angebracht.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

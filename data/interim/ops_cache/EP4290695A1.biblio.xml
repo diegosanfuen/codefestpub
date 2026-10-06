@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="82172583" country="EP" doc-number="4290695" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4290695</doc-number>
+                        <kind>A1</kind>
+                        <date>20231213</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4290695</doc-number>
+                        <date>20231213</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H01Q   3/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>246</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>246</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>01</class>
+                        <subclass>Q</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>32</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598240508">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>22929203</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20220929203</doc-number>
+                        <date>20220701</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>22929203.2</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202210345298</doc-number>
+                            <date>20220331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202210345298</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2022CN103263</doc-number>
+                            <date>20220701</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CN2022103263</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>CICT MOBILE COMMUNICATION TECH CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>CICT Mobile Communication Technology Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>WU HAN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> WU WEIHUA [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>WU, Han, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>WU, Weihua</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">GANGSCHALTUNGSEINSTELLVORRICHTUNG UND BASISSTATIONSANTENNE</invention-title>
+                <invention-title lang="fr">DISPOSITIF DE RÉGLAGE DE CHANGEMENT DE VITESSE ET ANTENNE DE STATION DE BASE</invention-title>
+                <invention-title lang="en">GEAR SHIFT ADJUSTMENT DEVICE AND BASE STATION ANTENNA</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present application provides a shift regulation apparatus and a base station antenna, the shift regulation apparatus includes: a mounting base, where the mounting base is provided with a mounting cavity; a gear transmission portion, including at least one transmission portion provided in the mounting cavity, where the transmission portion includes a plurality of output members, and each of the output members corresponds to one antenna; a gear shift switching unit, including a selection driver portion provided in the mounting cavity and a selection portion corresponding to the transmission portion, where the selection driver portion is drivingly connected to the selection portion, and the selection portion selects the corresponding output member in the transmission portion; and a shift drive unit, including a drive portion provided on the mounting base and corresponding to the transmission portion, where the drive portion is configured to drive a corresponding selection portion to drive the corresponding output member.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

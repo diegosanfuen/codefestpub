@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="77338902" country="EP" doc-number="4647737" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4647737</doc-number>
+                        <kind>A2</kind>
+                        <date>20251112</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4647737</doc-number>
+                        <date>20251112</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01M   3/    16            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>M</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>16</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>M</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637867193">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25204657</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250204657</doc-number>
+                        <date>20210723</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25204657.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202063114197P</doc-number>
+                            <date>20201116</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202063114197 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210755257</doc-number>
+                            <date>20210723</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21755257.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021US42891</doc-number>
+                            <date>20210723</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>PARKER HANNIFIN CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Parker-Hannifin Corporation</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>RAPIN DANIEL P [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> STOWELL MATTHEW A [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>RAPIN, Daniel P, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>STOWELL, Matthew A</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">LECKDETEKTION VON FLUIDVORRICHTUNGEN MITTELS SENSORTECHNOLOGIE</invention-title>
+                <invention-title lang="fr">DÉTECTION DE FUITE DE DISPOSITIFS À FLUIDE À L'AIDE D'UNE TECHNOLOGIE DE CAPTEUR</invention-title>
+                <invention-title lang="en">LEAK DETECTION OF FLUID DEVICES USING SENSOR TECHNOLOGY</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A capacitive fluid detection sensor, including a polymer base layer, a plurality of electrically conductive traces overlying the polymer base layer, and a ground layer underlying the polymer base layer, wherein the plurality of electrically conducive traces includes a first set of traces extending parallel to each other and being laterally spaced apart, and a second set of traces extending parallel to each other and to the first set of traces, the second set of traces being interlaced among the first set of traces, and the second set of traces being electrically coupled to the ground layer via respective electrically conductive interconnects, and wherein the plurality of electrically conductive traces form a capacitive sensing portion of the capacitive fluid detection sensor.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

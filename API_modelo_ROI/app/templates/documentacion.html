@@ -1,0 +1,737 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>API_EPO_CODEFEST Documentation</title>
+
+  <style>
+    :root{
+      --bg:#0b1020;
+      --card:#111a33;
+      --card2:#0f1730;
+      --text:#e8ecff;
+      --muted:#a9b3d6;
+      --accent:#7c5cff;
+      --accent2:#2ee9a6;
+      --warn:#ffcc66;
+      --bad:#ff5c7a;
+      --good:#2ee9a6;
+      --border:rgba(255,255,255,.10);
+      --shadow:0 12px 40px rgba(0,0,0,.35);
+      --code:#0b0f1e;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    }
+
+    /* ====== GLOBAL ANTI-HORIZONTAL-SCROLL RULES ====== */
+    html, body { width: 100%; overflow-x: hidden; }
+    * { box-sizing: border-box; }
+    img, svg, video, canvas { max-width: 100%; height: auto; }
+    /* Make grid children shrink correctly (common cause of overflow) */
+    .grid, nav, main, .card, .cols > div { min-width: 0; }
+    /* Break long tokens like URLs */
+    .tag, .pill, .status, p, li { overflow-wrap: anywhere; word-break: break-word; }
+
+    body{
+      margin:0;
+      font-family:var(--sans);
+      color:var(--text);
+      background:
+        radial-gradient(1200px 800px at 20% 10%, rgba(124,92,255,.35), transparent 60%),
+        radial-gradient(1000px 700px at 90% 20%, rgba(46,233,166,.18), transparent 55%),
+        radial-gradient(900px 700px at 50% 90%, rgba(255,92,122,.12), transparent 55%),
+        var(--bg);
+      line-height:1.55;
+    }
+
+    a{ color:inherit; }
+
+    .container{
+      max-width:1100px;
+      width:100%;
+      padding:32px 20px 60px;
+      margin:0 auto;
+    }
+
+    header{
+      display:flex;
+      gap:18px;
+      align-items:flex-start;
+      justify-content:space-between;
+      margin-bottom:22px;
+    }
+
+    .brand{ display:flex; gap:14px; align-items:center; }
+
+    .logo{
+      width:44px;height:44px;border-radius:14px;
+      background: linear-gradient(145deg, rgba(124,92,255,1), rgba(46,233,166,1));
+      box-shadow: var(--shadow);
+      position:relative;
+      flex:none;
+    }
+    .logo:after{
+      content:"";
+      position:absolute; inset:10px;
+      border-radius:10px;
+      background:rgba(11,16,32,.7);
+      border:1px solid rgba(255,255,255,.12);
+    }
+
+    h1{ font-size:28px; margin:0; }
+    .subtitle{ color:var(--muted); margin-top:6px; max-width:70ch; }
+
+    .pillbar{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      justify-content:flex-end;
+      max-width: 100%;
+    }
+
+    .pill{
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      padding:8px 10px;
+      border-radius:999px;
+      color:var(--muted);
+      font-size:12px;
+      backdrop-filter: blur(6px);
+      max-width: 100%;
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns: 300px 1fr;
+      gap:18px;
+      margin-top:18px;
+      max-width: 100%;
+    }
+
+    nav{
+      position:sticky;
+      top:18px;
+      align-self:start;
+      border:1px solid var(--border);
+      background: rgba(17,26,51,.75);
+      backdrop-filter: blur(10px);
+      border-radius:18px;
+      padding:14px;
+      box-shadow: var(--shadow);
+      max-width: 100%;
+    }
+
+    nav .navtitle{
+      font-size:13px;
+      color:var(--muted);
+      margin-bottom:10px;
+      letter-spacing:.04em;
+      text-transform:uppercase;
+    }
+
+    nav a{
+      display:block;
+      padding:10px 10px;
+      text-decoration:none;
+      border-radius:12px;
+      color:var(--text);
+      border:1px solid transparent;
+    }
+
+    nav a:hover{
+      border-color: rgba(124,92,255,.35);
+      background: rgba(124,92,255,.10);
+    }
+
+    .card{
+      border:1px solid var(--border);
+      background: rgba(17,26,51,.65);
+      backdrop-filter: blur(10px);
+      border-radius:18px;
+      padding:18px;
+      box-shadow: var(--shadow);
+      max-width: 100%;
+    }
+    .card + .card{ margin-top:18px; }
+    .card h2{ margin:0 0 8px; font-size:18px; }
+    .card p{ margin:10px 0; color:var(--muted); }
+
+    .row{
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
+      margin:12px 0 0;
+      max-width: 100%;
+    }
+
+    .tag{
+      font-family: var(--mono);
+      font-size:12px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.05);
+      color: var(--text);
+      max-width: 100%;
+    }
+    .tag.method{ border-color: rgba(46,233,166,.35); color: rgba(46,233,166,1); }
+    .tag.path{ border-color: rgba(124,92,255,.35); color: rgba(124,92,255,1); }
+    .tag.ct{ border-color: rgba(255,204,102,.35); color: rgba(255,204,102,1); }
+
+    code, pre{ font-family:var(--mono); }
+
+    /* Code blocks: keep layout stable (no page horizontal scroll).
+       We allow internal horizontal scroll if needed, but we also break long tokens safely. */
+    pre{
+      margin:12px 0 0;
+      background: rgba(11,15,30,.85);
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:14px;
+      padding:14px;
+      max-width:100%;
+      overflow-x:auto;                 /* scroll inside the block, not the whole page */
+      -webkit-overflow-scrolling: touch;
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,.03);
+      white-space: pre;               /* preserve formatting */
+    }
+    /* Break super-long tokens (like giant URLs) even inside pre when needed */
+    pre code{
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    .callout{
+      border:1px solid rgba(124,92,255,.25);
+      background: rgba(124,92,255,.10);
+      padding:12px 14px;
+      border-radius:14px;
+      color:var(--text);
+      margin-top:12px;
+      max-width: 100%;
+    }
+    .callout strong{ color:#fff; }
+
+    .cols{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:14px;
+      margin-top:12px;
+      max-width: 100%;
+    }
+
+    /* Tables: wrap them in a scroll container so the page never scrolls sideways */
+    .table-wrap{
+      overflow-x:auto;
+      max-width:100%;
+      -webkit-overflow-scrolling: touch;
+      border-radius:14px;
+      margin-top:12px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(15,23,48,.55);
+    }
+    table{
+      width:100%;
+      border-collapse:separate;
+      border-spacing:0;
+      min-width: 720px; /* makes table readable; container scrolls internally on small screens */
+    }
+    th, td{
+      padding:12px 12px;
+      vertical-align:top;
+      border-bottom:1px solid rgba(255,255,255,.08);
+      color:var(--muted);
+      font-size:14px;
+    }
+    th{
+      text-align:left;
+      color:var(--text);
+      background: rgba(255,255,255,.05);
+      font-size:13px;
+      letter-spacing:.02em;
+      text-transform:uppercase;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    tr:last-child td{ border-bottom:none; }
+
+    /* ===== TABLE FIX: prevent vertical-letter wrap ===== */
+    table { table-layout: auto; }     /* let browser size columns naturally */
+    
+    th, td{
+      overflow-wrap: normal;          /* stop breaking anywhere */
+      word-break: normal;            /* stop breaking words mid-letter */
+      hyphens: auto;
+    }
+    
+    /* Give the table room; wrapper will scroll on small screens */
+    .table-wrap table{ min-width: 920px; }
+    
+    /* Optional: keep Status readable */
+    .table-wrap table td:first-child,
+    .table-wrap table th:first-child{ width: 160px; }
+    
+    /* Optional: keep "When it happens" readable */
+    .table-wrap table td:nth-child(2),
+    .table-wrap table th:nth-child(2){ width: 320px; }
+
+
+    .status{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      font-family:var(--mono);
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(255,255,255,.05);
+      color: var(--text);
+      font-size:12px;
+      white-space:nowrap;
+      max-width: 100%;
+    }
+    .dot{ width:8px;height:8px;border-radius:50%; }
+    .s200 .dot{ background:var(--good); }
+    .s400 .dot{ background:var(--warn); }
+    .s404 .dot{ background:var(--warn); }
+    .s500 .dot{ background:var(--bad); }
+
+    footer{
+      margin-top:22px;
+      color:rgba(169,179,214,.75);
+      font-size:12px;
+      text-align:center;
+    }
+
+    .kbd{
+      font-family:var(--mono);
+      font-size:12px;
+      padding:2px 6px;
+      border:1px solid rgba(255,255,255,.14);
+      border-bottom-color: rgba(255,255,255,.22);
+      border-radius:8px;
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      display:inline-block;
+      max-width: 100%;
+    }
+
+    /* ====== RESPONSIVE ====== */
+    @media (max-width: 980px){
+      .grid{ grid-template-columns: 1fr; }
+      nav{ position: relative; top: 0; }
+      header{ flex-direction: column; align-items: stretch; }
+      .pillbar{ justify-content:flex-start; }
+      .container{ padding: 22px 14px 48px; }
+      .cols{ grid-template-columns: 1fr; }
+      h1{ font-size:24px; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <h1>API_H7 — Usage Documentation</h1>
+          <div class="subtitle">
+            This document describes how to call the <span class="kbd">/api_h7/&lt;context&gt;</span> endpoint,
+            expected request body, typical responses, and recommended client-side handling for robust integrations.
+          </div>
+        </div>
+      </div>
+      <div class="pillbar">
+        <div class="pill">Protocol: HTTPS recommended</div>
+        <div class="pill">Format: JSON</div>
+        <div class="pill">Method: POST</div>
+        <div class="pill">Endpoint: /api_h7/&lt;context&gt;</div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <nav aria-label="Table of contents">
+        <div class="navtitle">Contents</div>
+        <a href="#overview">Overview</a>
+        <a href="#endpoint">Endpoint</a>
+        <a href="#request">Request</a>
+        <a href="#responses">Responses & Status Codes</a>
+        <a href="#examples">Examples</a>
+        <a href="#errors">Error Handling</a>
+        <a href="#versioning">Versioning & Contracts</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+
+      <main>
+        <section id="overview" class="card">
+          <h2>Overview</h2>
+          <p>
+            <strong>API_H7</strong> serves model-based predictions (or dynamic results) based on a
+            <strong>context</strong> identifier. Each context is associated with a persisted model file.
+          </p>
+
+          <div class="row">
+            <span class="tag method">POST</span>
+            <span class="tag path">/api_h7/&lt;context&gt;</span>
+            <span class="tag ct">Content-Type: application/json</span>
+          </div>
+
+          <div class="callout">
+            <strong>Key idea:</strong> the server first validates that the requested <em>context</em> exists
+            and that its model can be loaded. Then it validates and processes a JSON payload to compute a result.
+          </div>
+        </section>
+
+        <section id="endpoint" class="card">
+          <h2>Endpoint</h2>
+          <p>
+            Use this endpoint to request a prediction/result for the given model context.
+          </p>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Field</th>
+                  <th>Description</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>URL</strong></td>
+                  <td><code>/api_h7/&lt;context&gt;</code></td>
+                </tr>
+                <tr>
+                  <td><strong>Method</strong></td>
+                  <td><code>POST</code></td>
+                </tr>
+                <tr>
+                  <td><strong>Path Parameter</strong></td>
+                  <td>
+                    <code>context</code> — string identifier that maps to a stored model route/path.
+                  </td>
+                </tr>
+                <tr>
+                  <td><strong>Request Body</strong></td>
+                  <td>JSON payload (see <a href="#request">Request</a>).</td>
+                </tr>
+                <tr>
+                  <td><strong>Response</strong></td>
+                  <td>JSON (result or error object).</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section id="request" class="card">
+          <h2>Request</h2>
+          <p>
+            Send a JSON body containing the features/inputs required by the model for that <code>context</code>.
+            Your service should validate:
+          </p>
+          <ul style="color:var(--muted); margin: 10px 0 0;">
+            <li>Content-Type is <code>application/json</code></li>
+            <li>JSON is parseable (reject invalid JSON)</li>
+            <li>Required fields exist and types are correct</li>
+            <li>No unexpected fields (optional, but recommended for robustness)</li>
+          </ul>
+
+          <div class="cols">
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">Example payload (generic)</h3>
+              <pre><code>{
+  "inputs": {
+    "feature_1": 123,
+    "feature_2": "abc",
+    "feature_3": 45.67
+  },
+}</code></pre>
+              <p>
+                Adjust the schema to match your model’s required input features. If you maintain a per-context schema,
+                expose it in a “contract/manifest” (see <a href="#versioning">Versioning &amp; Contracts</a>).
+              </p>
+            </div>
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">Recommended headers</h3>
+              <pre><code>Content-Type: application/json
+Accept: application/json
+Authorization: Bearer &lt;token&gt;   // if applicable</code></pre>
+              <div class="callout">
+                <strong>Tip:</strong> If you call this endpoint from a browser, enable CORS safely
+                and restrict origins.
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="responses" class="card">
+          <h2>Responses &amp; Status Codes</h2>
+          <p>
+            The endpoint returns JSON. Below are the key response scenarios reflected by your current server logic.
+          </p>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Status</th>
+                  <th>When it happens</th>
+                  <th>Body shape (example)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><span class="status s200"><span class="dot"></span>200 OK</span></td>
+                  <td>Context exists, model loaded, JSON validated, inference succeeded.</td>
+                  <td>
+                    <pre><code>{
+  "context": "my_context",
+  "result": {
+    "prediction": 0.8123,
+    "label": "HIGH"
+  },
+  "meta": {
+    "model_version": "2026-01-30",
+    "latency_ms": 23
+  }
+}</code></pre>
+                  </td>
+                </tr>
+                <tr>
+                  <td><span class="status s404"><span class="dot"></span>404 Not Found</span></td>
+                  <td>The provided <code>context</code> does not exist in the registry/database.</td>
+                  <td>
+                    <pre><code>{
+  "error": "No model associated with this context"
+}</code></pre>
+                  </td>
+                </tr>
+                <tr>
+                  <td><span class="status s500"><span class="dot"></span>500 Internal Server Error</span></td>
+                  <td>Model cannot be loaded (invalid file, incompatible version, corrupted artifact, etc.).</td>
+                  <td>
+                    <pre><code>{
+  "ERROR": "Invalid model"
+}</code></pre>
+                  </td>
+                </tr>
+                <tr>
+                  <td><span class="status s400"><span class="dot"></span>400 Bad Request</span></td>
+                  <td>Invalid JSON or schema validation fails (recommended). If not implemented yet, you should add it.</td>
+                  <td>
+                    <pre><code>{
+  "error": "Invalid JSON payload",
+  "details": "Missing required field: inputs.feature_1"
+}</code></pre>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="callout">
+            <strong>Recommendation:</strong> Standardize error keys (e.g., always use <code>error</code>)
+            and include a stable <code>code</code> for client-side logic.
+          </div>
+        </section>
+
+        <section id="examples" class="card">
+          <h2>Examples</h2>
+          <div class="cols">
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">cURL</h3>
+              <pre><code>curl -X POST "http://&lt;host&gt;:&lt;port&gt;/api_h7/&lt;context&gt;t" \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json" \
+  -H "Authorization: Bearer <token>" \
+  -d '{
+    "inputs": {
+      "is_active_recent": 1,
+      "log_legal_events_count": 2.5649,
+      "log_family_size": 1.3863,
+      "novelty_x_breadth": 0.3150,
+      "novelty_x_family": 0.9704,
+      "log_priority_count": 1.7918,
+	   "log_priority_count": 1.0986,
+    },
+  }'</code></pre>
+            </div>
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">JavaScript (fetch)</h3>
+              <pre><code>async function callApiH7(context, payload) {
+  const res = await fetch(`/api_h7/${encodeURIComponent(context)}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "Authorization": "Bearer YOUR_TOKEN"
+    },
+    body: JSON.stringify(payload)
+  });
+
+  if (res.status === 404) {
+    const err = await res.json();
+    throw new Error(`Unknown context: ${err.error ?? "Not found"}`);
+  }
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.error ?? err.ERROR ?? `Request failed (${res.status})`);
+  }
+
+  return res.json();
+}</code></pre>
+            </div>
+          </div>
+
+          <div class="cols">
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">Python (requests)</h3>
+              <pre><code>import requests
+
+url = "http://&lt;host&gt;:&lt;port&gt;/api_h7/&lt;context&gt;"
+
+payload = {
+    "is_active_recent": [1],              # 0/1
+    "log_legal_events_count": [2.5649],    # log1p(12) aprox
+    "log_family_size": [1.3863],          # log1p(3) aprox
+    "novelty_x_breadth": [0.3150],         # ejemplo: novelty(0.7) * breadth(0.45)
+    "novelty_x_family": [0.9704],          # ejemplo: novelty(0.7) * log_family_size(1.3863)
+    "log_priority_count": [1.7918],        # log1p(5) aprox
+    "log_party_applicant_count": [1.0986]  # log1p(2) aprox
+}
+
+r = requests.post(url, json=payload)
+print(r.status_code)
+print(r.json())</code></pre>
+            </div>
+            <div>
+              <h3 style="margin:10px 0 0; font-size:14px; color:var(--text)">Typical success response</h3>
+              <pre><code>200
+{'context': 'epo_roi', 'dropped_extra_features': [], 'model_sha256': 'ae6e7ca910d3da5af399af5146be4175efd7f307aef1093362eeae58fe7f7661', 'n_rows': 1, 'pred': [3.0191523728380747]}</code></pre>
+              <p>
+                Keep <code>meta</code> stable across contexts to simplify monitoring and client logic.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section id="errors" class="card">
+          <h2>Error Handling</h2>
+          <p>
+            For a robust product, clients should handle errors by status code and by structured error payload.
+          </p>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Client action</th>
+                  <th>Why</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Retry only on transient failures</strong> (e.g., 502/503/504)</td>
+                  <td>Prevents retry storms and avoids repeating invalid requests.</td>
+                </tr>
+                <tr>
+                  <td><strong>Do not retry 404</strong></td>
+                  <td>It indicates an invalid context; retrying won’t fix it.</td>
+                </tr>
+                <tr>
+                  <td><strong>Log correlation IDs</strong> (if you add them)</td>
+                  <td>Enables fast debugging from client logs to server traces.</td>
+                </tr>
+                <tr>
+                  <td><strong>Surface validation details on 400</strong></td>
+                  <td>Helps users fix payload issues quickly.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="callout">
+            <strong>Recommended error shape:</strong>
+            <code>{ "error": "...", "code": "INVALID_PAYLOAD", "details": {...} }</code>
+          </div>
+        </section>
+
+        <section id="versioning" class="card">
+          <h2>Versioning &amp; Contracts</h2>
+          <p>
+            In production, each <code>context</code> should have a stable, explicit contract describing:
+          </p>
+          <ul style="color:var(--muted); margin: 10px 0 0;">
+            <li>Required input fields and types</li>
+            <li>Optional fields and defaults</li>
+            <li>Output schema</li>
+            <li>Model version / training data version / feature order</li>
+          </ul>
+
+          <div class="callout">
+            <strong>Best practice:</strong> generate a “manifest” (contract) during the model pipeline,
+            store it alongside the model artifact (or in DB), and load it at runtime for validation and documentation.
+          </div>
+
+          <h3 style="margin:14px 0 0; font-size:14px; color:var(--text)">Example manifest (conceptual)</h3>
+          <pre><code>{
+  "context": "my_context",
+  "model_artifact": "models/my_context/model.pkl",
+  "model_version": "2026-01-30",
+  "schema": {
+    "inputs": {
+      "feature_1": "int",
+      "feature_2": "string",
+      "feature_3": "float"
+    },
+    "options": {
+      "return_proba": "bool"
+    }
+  },
+  "output": {
+    "prediction": "float",
+    "label": "string"
+  }
+}</code></pre>
+        </section>
+
+        <section id="faq" class="card">
+          <h2>FAQ</h2>
+
+          <h3 style="margin:12px 0 0; font-size:14px; color:var(--text)">What does “context” represent?</h3>
+          <p>A routing key used to select a specific model (or configuration) from your registry/database.</p>
+
+          <h3 style="margin:12px 0 0; font-size:14px; color:var(--text)">What should I send in the JSON?</h3>
+          <p>
+            The feature set expected by the model for that context. If you maintain a contract/manifest,
+            you can validate the payload and show precise errors.
+          </p>
+
+          <h3 style="margin:12px 0 0; font-size:14px; color:var(--text)">Why do I get 500 “Invalid model”?</h3>
+          <p>
+            The server failed to load the model artifact. Common causes include an invalid path, corrupted file,
+            or dependency mismatch (e.g., scikit-learn version incompatibility).
+          </p>
+
+          <h3 style="margin:12px 0 0; font-size:14px; color:var(--text)">How do I make the API more stable?</h3>
+          <p>
+            Add a manifest-based schema validator, unify error shapes, and include metadata such as
+            <code>model_version</code> and <code>request_id</code> in every response.
+          </p>
+        </section>
+
+        <footer>
+          © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+        </footer>
+      </main>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="61618947" country="EP" doc-number="4667012" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4667012</doc-number>
+                        <kind>A2</kind>
+                        <date>20251224</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4667012</doc-number>
+                        <date>20251224</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61K  38/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>38</main-group>
+                        <subgroup>177</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>39</main-group>
+                        <subgroup>39541</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>39</main-group>
+                        <subgroup>39541</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>39</main-group>
+                        <subgroup>3955</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>47</main-group>
+                        <subgroup>6811</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>29</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="7">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="8">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="9">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>35</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="10">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>37</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="11">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>37</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="12">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>37</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="13">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>14</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="14">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>14</main-group>
+                        <subgroup>70596</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="15">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>14</main-group>
+                        <subgroup>70596</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="16">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>2818</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="17">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>2818</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="18">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>2827</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="19">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>38</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="20">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>38</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="21">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>2039</main-group>
+                        <subgroup>507</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="22">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>2039</main-group>
+                        <subgroup>507</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="23">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>24</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="24">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>24</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="25">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>34</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="26">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>34</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="27">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>76</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="28">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2317</main-group>
+                        <subgroup>76</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="29">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2319</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="30">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>K</subclass>
+                        <main-group>2319</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <combination-set sequence="1">
+                        <group-number>1</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K38/177</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>CN</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K2300/00</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>CN</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                    <combination-set sequence="2">
+                        <group-number>2</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K39/39541</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K2300/00</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>EP</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                    <combination-set sequence="3">
+                        <group-number>3</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K39/39541</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>US</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K2300/00</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>US</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                    <combination-set sequence="4">
+                        <group-number>4</group-number>
+                        <combination-rank>
+                            <rank-number>1</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K39/3955</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>CN</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                        <combination-rank>
+                            <rank-number>2</rank-number>
+                            <patent-classification>
+                                <classification-scheme office="EP" scheme="CPCI"/>
+                                <classification-symbol>A61K2300/00</classification-symbol>
+                                <classification-value>I</classification-value>
+                                <generating-office>CN</generating-office>
+                            </patent-classification>
+                        </combination-rank>
+                    </combination-set>
+                </patent-classifications>
+                <application-reference doc-id="639866143">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25213139</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250213139</doc-number>
+                        <date>20170919</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25213139.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201662396667P</doc-number>
+                            <date>20160919</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201662396667 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20170851784</doc-number>
+                            <date>20170919</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>17851784.3</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2017US52264</doc-number>
+                            <date>20170919</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ONCOC4 INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="epodoc">
+                            <applicant-name>
+                                <name> CHILDRENS RES INSTITUTE CHILDRENS NATIONAL MEDICAL CENTER [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>OncoC4, Inc, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>Children's Research Institute, Children's National Medical Center</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>LIU YANG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> DEVENPORT MARTIN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> ZHENG PAN [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> WU WEI [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="epodoc">
+                            <inventor-name>
+                                <name> DU XUEXIANG [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIU MINGYUE [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="7" data-format="epodoc">
+                            <inventor-name>
+                                <name> TANG FEI [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>LIU, Yang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>DEVENPORT, Martin, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>ZHENG, Pan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>WU, Wei, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="5" data-format="original">
+                            <inventor-name>
+                                <name>DU, Xuexiang, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="6" data-format="original">
+                            <inventor-name>
+                                <name>LIU, Mingyue, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="7" data-format="original">
+                            <inventor-name>
+                                <name>TANG, Fei</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">CD80 UND CD86 BINDENDE PROTEINZUSAMMENSETZUNGEN UND DEREN VERWENDUNGEN</invention-title>
+                <invention-title lang="fr">COMPOSITIONS DE PROTÉINES DE LIAISON À CD80 ET CD86 ET LEURS UTILISATIONS</invention-title>
+                <invention-title lang="en">CD80 AND CD86 BINDING PROTEIN COMPOSITIONS AND USES THEREOF</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US4554101</doc-number>
+                                <date>19851119</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>4554101</doc-number>
+                                <kind>A</kind>
+                                <date>19851119</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6984720</doc-number>
+                                <date>20060110</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6984720</doc-number>
+                                <kind>B1</kind>
+                                <date>20060110</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="1">
+                            <text>- WILSON, I. A. et al., "The Structure Of An Antigenic Determinant In A Protein", Cell, (19840000), vol. 37, pages 767 - 778</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="2">
+                            <text>- KNAPPIK, A. et al., "An Improved Affinity Tag Based On The FLAG Peptide For The Detection And Purification Of Recombinant Antibody Fragments", Biotechniques, (19940000), vol. 17, no. 4, pages 754 - 761</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="3">
+                            <text>- KYTE et al., J. Mol. Biol., (19820000), vol. 157, pages 105 - 132</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <nplcit num="4">
+                            <text>- SCHWARTZ et al., Nature Immunol., (20020000), vol. 3, pages 427 - 434</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <nplcit num="5">
+                            <text>- SCHWARTZ et al., Nature, (20010000), vol. 410, pages 608 - 611</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <nplcit num="6">
+                            <text>- LEACH DRKRUMMEL MFALLISON JP, "Enhancement of antitumor immunity by CTLA-4 blockade [see comments", Science, (19960000), vol. 271, no. 5256, pages 1734 - 6</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <nplcit num="7">
+                            <text>- GUINAN, E. C. et al., "Transplantation of anergic histoincompatible bone marrow allografts.", N. Engl. J. Med., (19990000), vol. 340, pages 1704 - 1714</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="8">
+                            <text>- MAGISTRELLI, G. et al., "A soluble form of CTLA-4 generated by alternative splicing is expressed by nonstimulated human T cells", Eur. J. Immunol., (19990000), vol. 29, pages 3596 - 3602</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="11">
+                        <nplcit num="9">
+                            <text>- UEDA, H. et al., "Association of the T-cell regulatory gene CTLA-4 with susceptibility to autoimmune disease", Nature, (20030000), vol. 423, pages 506 - 511</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="12">
+                        <nplcit num="10">
+                            <text>- KREMER, J. M. et al., "Treatment of rheumatoid arthritis by selective inhibition of T-cell activation with fusion protein CTLA-4Ig", N. Engl. J. Med., (20030000), vol. 349, pages 1907 - 1915</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="13">
+                        <nplcit num="11">
+                            <text>- ABRAMS, J. R. et al., "CTLA-4Ig-mediated blockade of T-cell costimulation in patients with psoriasis vulgaris", J. Clin. Invest., (19990000), vol. 103, pages 1243 - 1252</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="14">
+                        <nplcit num="12">
+                            <text>- GEROLD, K. D. et al., "The soluble CTLA-4 splice variant protects from type 1 diabetes and potentiates regulatory T-cell function", Diabetes, vol. 60, pages 1955 - 1963</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="15">
+                        <nplcit num="13">
+                            <text>- PEACH, R. J. et al., "Complementarity determining region 1 (CDR1)- and CDR3-analogous regions in CTLA-4 and CD28 determine the binding to B7-1", J. Exp. Med., (19940000), vol. 180, pages 2049 - 2058</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="16">
+                        <nplcit num="14">
+                            <text>- TOWNSEND ARMTOTHBARD JGOTCH FMBAHADUR GWRAITH DMCMICHAEL AJ., "The epitope of influenza nucleoprotein recognized by cytotoxic lymphocytes can be defined with short synthetic peptides", Cell, (19860000), vol. 44, pages 959 - 68</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="17">
+                        <nplcit num="15">
+                            <text>- ZINKERNAGEL RMDOHERTY PC., "Restriction of in vitro T cell-mediated cytotoxicity in lymphocytic choriomeningitis within a syngeneic or semiallogeneic system", Nature, (19740000), vol. 248, pages 701 - 2</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="18">
+                        <nplcit num="16">
+                            <text>- LAFFERTY KJPROWSE SJSIMEONOVIC CJWARREN HS., "Immunobiology of tissue transplantation: a return to the passenger leukocyte concept.", Annu Rev Immunol., (19830000), vol. 1, pages 143 - 73</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="19">
+                        <nplcit num="17">
+                            <text>- LIU YLINSLEY PS., "Costimulation of T-cell growth.", Curr Opin Immunol., (19920000), vol. 4, no. 3, pages 265 - 70</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="20">
+                        <nplcit num="18">
+                            <text>- SCHWARTZ RH., "Costimulation of T lymphocytes: the role of CD28, CTLA-4, and B7/BB1 in interleukin-2 production and immunotherapy", Cell, (19920000), vol. 71, no. 7, pages 1065 - 8</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="21">
+                        <nplcit num="19">
+                            <text>- FREEMAN GJFREEDMAN ASSEGIL JMLEE GWHITMAN JFNADLER LM, "B7, a new member of the Ig superfamily with unique expression on activated and neoplastic B cells", J Immunol., (19890000), vol. 143, no. 8, pages 2714 - 22</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="22">
+                        <nplcit num="20">
+                            <text>- FREEMAN GJGRIBBEN JGBOUSSIOTIS VANG JWRESTIVO VA, JR.LOMBARD LA et al., "Cloning of B7-2: a CTLA-4 counter-receptor that costimulates human T cell proliferation [see comments", Science, (19930000), vol. 262, no. 5135, pages 909 - 11</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="23">
+                        <nplcit num="21">
+                            <text>- HATHCOCK KSLASZLO GDICKLER HBBRADSHAW JLINSLEY PHODES RJ., "Identification of an alternative CTLA-4 ligand costimulatory for T cell activation [see comments].", Science, (19930000), vol. 262, no. 5135, pages 905 - 7</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="24">
+                        <nplcit num="22">
+                            <text>- WU YGUO YLIU Y., "A major costimulatory molecule on antigen-presenting cells, CTLA-4 ligand A, is distinct from B7", J Exp Med., (19930000), vol. 178, no. 5, pages 1789 - 93</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="25">
+                        <nplcit num="23">
+                            <text>- LINSLEY PSBRADY WURNES MGROSMAIRE LSDAMLE NKLEDBETTER JA., "CTLA-4 is a second receptor for the B cell activation antigen B7", J Exp Med., (19910000), vol. 174, no. 3, pages 561 - 9</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="26">
+                        <nplcit num="24">
+                            <text>- LINSLEY PSCLARK EALEDBETTER JA., "T-cell antigen CD28 mediates adhesion with B cells by interacting with activation antigen B7/BB-1", Proc Natl Acad Sci U S A., (19900000), vol. 87, no. 13, pages 5031 - 5</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="27">
+                        <nplcit num="25">
+                            <text>- MAY KFROYCHOWDHURY SBHATT DKOCAK EBAI XFLIU JQ et al., "Anti-human CTLA-4 monoclonal antibody promotes T cell expansion and immunity in a hu-PBL-SCID model: a new method for preclinical screening of costimulatory monoclonal antibodies.", Blood., (20050000), vol. 105, pages 1114 - 20</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="28">
+                        <nplcit num="26">
+                            <text>- LUTE KDMAY KFLU PZHANG HKOCAK EMOSINGER B et al., "Human CTLA-4-knock-in mice unravel the quantitative link between tumor immunity and autoimmunity induced by anti-CTLA-4 antibodies.", Blood., (20050000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="29">
+                        <nplcit num="27">
+                            <text>- KELER, T. et al., "Activity and safety of CTLA-4 blockade combined with vaccines in cynomolgus macaques", J. Immunol., (20030000), vol. 171, pages 6251 - 6259</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="30">
+                        <nplcit num="28">
+                            <text>- WING, K. et al., "CTLA-4 control over Foxp3+ regulatory T cell function", Science, (20080000), vol. 322, pages 271 - 275</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="31">
+                        <nplcit num="29">
+                            <text>- QURESHI, O. S. et al., "Trans-endocytosis of CD80 and CD86: a molecular basis for the cell-extrinsic function of CTLA-4", Science, (20110000), vol. 332, pages 600 - 603</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="32">
+                        <nplcit num="30">
+                            <text>- WALUNAS, T.L. et al., "CTLA-4 can function as a negative regulator of T cell activation.", Immunity, (19940000), vol. 1, no. 5, pages 405 - 13</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="33">
+                        <nplcit num="31">
+                            <text>- KRUMMEL, M.F.J.P. ALLISON, "CD28 and CTLA-4 have opposing effects on the response of T cells to stimulation", J Exp Med, (19950000), vol. 182, no. 2, pages 459 - 65</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="34">
+                        <nplcit num="32">
+                            <text>- SIMPSON, T. R. et al., "Fc-dependent depletion of tumor-infiltrating regulatory T cells co-defines the efficacy of anti-CTLA-4 therapy against melanoma", J. Exp. Med., (20130000), vol. 210, pages 1695 - 1710</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="35">
+                        <nplcit num="33">
+                            <text>- KORMAN, A. J.PEGGS, K. S.ALLISON, J. P, "Checkpoint blockade in cancer immunotherapy.", Adv. Immunol., (20060000), vol. 90, pages 297 - 339</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="36">
+                        <nplcit num="34">
+                            <text>- RIBAS, A. et al., "Tremelimumab (CP-675,206), a cytotoxic T lymphocyte associated antigen 4 blocking monoclonal antibody in clinical development for patients with cancer.", Oncologist, (20070000), vol. 12, pages 873 - 883</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="37">
+                        <nplcit num="35">
+                            <text>- RIBAS, A. et al., "Phase III randomized clinical trial comparing tremelimumab with standard-of-care chemotherapy in patients with advanced melanoma", J. Clin. Oncol., (20130000), vol. 31, pages 616 - 622</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="38">
+                        <nplcit num="36">
+                            <text>- LEE, K. M. et al., "Molecular basis of T cell inactivation by CTLA-4 [In Process Citation", Science, (19980000), vol. 282, pages 2263 - 2266</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="39">
+                        <nplcit num="37">
+                            <text>- MARENGERE, L. E. et al., "Regulation of T cell receptor signaling by tyrosine phosphatase SYP association with CTLA-4 [published errata appear", Science, (19961206), vol. 274, no. 5293, page 1597</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="40">
+                        <nplcit num="38">
+                            <text>- Science, (19960000), vol. 272, pages 1170 - 1173</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="41">
+                        <nplcit num="39">
+                            <text>- LIU, Y., "Is CTLA-4 a negative regulator for T-cell activation?", Immunol. Today, (19970000), vol. 18, pages 569 - 572</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="42">
+                        <nplcit num="40">
+                            <text>- TIVOL, E. A. et al., "Loss of CTLA-4 leads to massive lymphoproliferation and fatal multi organ tissue destruction, revealing a critical negative regulatory role of CTLA-4.", Immunity, (19950000), vol. 3, pages 541 - 547</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="43">
+                        <nplcit num="41">
+                            <text>- WATERHOUSE, P. et al., "Lymphoproliferative disorders with early lethality in mice deficient in CTLA-4 [see comments", Science, (19950000), vol. 270, pages 985 - 988</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="44">
+                        <nplcit num="42">
+                            <text>- BACHMANN, M. F.KOHLER, GECABERT, B.MAK, T. W.KOPF, M., "Cutting edge: lymphoproliferative disease in the absence of CTLA-4 is not T cell autonomous", J. Immunol., (19990000), vol. 163, pages 1128 - 1131</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="45">
+                        <nplcit num="43">
+                            <text>- BACHMANN, M. F. et al., "Normal pathogen-specific immune responses mounted by CTLA-4-deficient T cells: a paradigm reconsidered.", Eur. J. Immunol., (20010000), vol. 31, pages 450 - 458</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="46">
+                        <nplcit num="44">
+                            <text>- NGUYEN, T. V.KE, Y.ZHANG, E. E.FENG, G. S., "Conditional deletion of Shp2 tyrosine phosphatase in thymocytes suppresses both pre-TCR and TCR signals", J. Immunol., (20060000), vol. 177, pages 5990 - 5996</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="47">
+                        <nplcit num="45">
+                            <text>- PEACH RJBAJORATH JBRADY WLEYTZE GGREENE JNAEMURA J et al., "Complementarity determining region 1 (CDR1)- and CDR3-analogous regions in CTLA-4 and CD28 determine the binding to B7-1", J Exp Med., (19940000), vol. 180, no. 6, pages 2049 - 58</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="48">
+                        <nplcit num="46">
+                            <text>- PROIETTO ALLLAHOUD MHWU L., "Distinct functional capacities of mouse thymic and splenic dendritic cell populations.", Immunol Cell Biol., (20080909), vol. 86, no. 8, pages 700 - 8</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>This invention relates to CTLA-4 protein compositions and their use in the mitigation of autoimmune adverse events associated with cancer immunotherapy.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

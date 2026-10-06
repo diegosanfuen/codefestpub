@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="85571202" country="EP" doc-number="4636634" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4636634</doc-number>
+                        <kind>A2</kind>
+                        <date>20251022</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4636634</doc-number>
+                        <date>20251022</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F  21/    86            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>86</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>0204</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>05</class>
+                        <subclass>K</subclass>
+                        <main-group>5</main-group>
+                        <subgroup>0221</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637104952">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25201136</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250201136</doc-number>
+                        <date>20230309</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25201136.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20220030439</doc-number>
+                            <date>20220311</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20220030439</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>KR20230029140</doc-number>
+                            <date>20230306</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20230029140</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20230161020</doc-number>
+                            <date>20230309</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>23161020.5</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SUPREMA INC [KR]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Suprema Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>YEOM JUNSUN [KR]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> LEE TAEHOON [KR]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>YEOM, Junsun, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>LEE, Taehoon</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">ENDGERÄTEVORRICHTUNGSANORDNUNG UND ENDGERÄTEAUSRÜSTUNG DAMIT</invention-title>
+                <invention-title lang="fr">ENSEMBLE APPAREIL TERMINAL ET ÉQUIPEMENT TERMINAL LE COMPRENANT</invention-title>
+                <invention-title lang="en">TERMINAL APPARATUS ASSEMBLY AND TERMINAL EQUIPMENT INCLUDING SAME</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A terminal apparatus assembly include: a terminal configured to be selectively fastened to a bracket; and a locking unit including an inner locking part configured to be movable with respect to the bracket such that the terminal and the bracket are fastened to or separated from each other. The inner locking part is configured to move in one direction toward the bracket or the terminal when at least a portion is pressed by an external force and to move in a direction opposite to the one direction by a restoring force when the pressing is released.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

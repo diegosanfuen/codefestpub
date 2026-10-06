@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estado Servicio de Modelos via API REST</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='jquery-ui.css') }}">
+<script src="{{ url_for('static', filename='h7_statics.js') }}"></script>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='h7_statics.css') }}">
+</head>
+<body>    
+<h2>Information on the Selected Model</h2>
+<h3>Selected Models</h3>
+<table>
+  <thead>
+    <tr>
+      <th class="anchura-fecha">Date:</th>
+      <th class="anchura-modelo">Model:</th>
+      <th class="anchura-contexto">Context:</th>            
+      <th class="anchura-checksum">Checksum:</th>
+      <th class="anchura-ruta">Ruta:</th>      
+    </tr>
+  </thead>
+  <tbody>
+      {% for dato in datos_tabla['tabla'] %}
+    <tr>
+      <td class="anchura-fecha">{{ dato['fecha'] }}</td>
+      <td class="anchura-modelo">{{ dato['modelo'] }}</td>
+      <td class="anchura-contexto">{{ dato['contexto'] }}</td>           
+      <td class="anchura-checksum">{{ dato['checksum'] }}</td>
+      <td class="anchura-ruta">{{ dato['ruta']}}</td>
+       
+
+    </tr>
+      {% endfor %}
+    <!-- Agrega más filas según sea necesario -->
+  </tbody>
+</table>
+<footer class="signature">
+  © <span id="year"></span> API_H7_EPO:CODEFEST • by Diego Sánchez de la Fuente
+</footer>
+</body>
+</html>
+

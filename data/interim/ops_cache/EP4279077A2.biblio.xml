@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="57960417" country="EP" doc-number="4279077" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4279077</doc-number>
+                        <kind>A2</kind>
+                        <date>20231122</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4279077</doc-number>
+                        <date>20231122</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A61K  31/   721            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>K</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>721</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>61</class>
+                        <subclass>P</subclass>
+                        <main-group>31</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599709599">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23201690</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230201690</doc-number>
+                        <date>20170126</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23201690.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE201610101448</doc-number>
+                            <date>20160127</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102016101448</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20170702813</doc-number>
+                            <date>20170126</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>17702813.1</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2017EP51683</doc-number>
+                            <date>20170126</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>STRATHMANN GMBH &amp; CO KG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Strathmann GmbH &amp; Co. Kg, </name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="2" data-format="original">
+                            <applicant-name>
+                                <name>Strathmann GmbH &amp; Co. KG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BEHNKE BERT [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> PESCHEL CLAUDIA [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Behnke, Bert, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>Peschel, Claudia</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">IMMUNPROPHYLAXE BEI REZIDIVIERENDEN BAKTERIELLEN INFEKTIONEN</invention-title>
+                <invention-title lang="fr">IMMUNOPROPHYLAXIE POUR INFECTIONS BACTÉRIENNES RÉCIDIVANTES</invention-title>
+                <invention-title lang="en">IMMUNOPROPHYLAXIS IN RECURRENT BACTERIAL INFECTIONS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6287568</doc-number>
+                                <date>20010911</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6287568</doc-number>
+                                <kind>B1</kind>
+                                <date>20010911</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2006019926</doc-number>
+                                <date>20060126</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2006019926</doc-number>
+                                <kind>A1</kind>
+                                <date>20060126</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="1">
+                            <text>- Expert. Rev. Vaccines, (20110000), vol. 10, no. 4, pages 523 - 537</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="2">
+                            <text>- Proc. Natl. Acad. Sci. USA, (19940000), vol. 91, pages 2502 - 2506</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="3">
+                            <text>- International Immunology, (19980000), vol. 10, no. 7, pages 851 - 859</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                        <nplcit num="1">
+                            <text>- Wikipedia, "Angeborene Immunantwort", (20200101), URL: https://de.wikipedia.org/wiki/Angeborene_Immunantwort, (20210113), XP055764821</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                        <nplcit num="2">
+                            <text>- Wikipedia, "Impfstoff", (20180101), URL: https://de.wikipedia.org/wiki/Impfstoff, (20210113), XP055764825</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="3">
+                        <nplcit num="3">
+                            <text>- Wikipedia, "Untereinheitenimpfstoff", (20180101), URL: https://de.wikipedia.org/wiki/Untereinheitenimpfstoff, (20210113), XP055764829</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="4">
+                        <nplcit num="4">
+                            <text>- VAHLENSIECK W ET AL, "Prevention and alternative methods for prophylaxis of recurrent urinary tract infections in women", DER UROLOGE, AUSGABE A ; ZEITSCHRIFT FÜR KLINISCHE UND PRAKTISCHE UROLOGIE ORGAN DER DEUTSCHEN GESELLSCHAFT FÜR UROLOGIE, SPRINGER, BERLIN, DE, (20060401), vol. 45, no. 4, doi:10.1007/S00120-006-1013-Y, ISSN 1433-0563, pages 443 - 450, XP019321748</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="5">
+                        <nplcit num="5">
+                            <text>- Pschyrembel, "Klinisches Wörterbuch", Klinisches Wörterbuch, (19940101), XP055764827</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die vorliegende Erfindung betrifft die Verwendung von Dextran als Impfstoff, insbesondere zur prophylaktischen Behandlung von rezidivierenden Infektionen bakterieller Herkunft. Außerdem betrifft die vorliegende Erfindung eine Impfstoffzusammensetzung, die Dextran als einzigen Impfstoff und ein Adjuvans, vorzugsweise eine Aluminiumverbindung, enthält sowie einen Arzneimittel-Kit zur Herstellung der Impfstoffzusammensetzung.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

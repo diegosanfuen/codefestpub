@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="63244974" country="EP" doc-number="4270796" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4270796</doc-number>
+                        <kind>A2</kind>
+                        <date>20231101</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4270796</doc-number>
+                        <date>20231101</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04B   1/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>8</main-group>
+                        <subgroup>65</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>8</main-group>
+                        <subgroup>65</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0003</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>L</subclass>
+                        <main-group>67</main-group>
+                        <subgroup>34</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>M</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>72406</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>0003</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598649419">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23197242</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230197242</doc-number>
+                        <date>20180717</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23197242.3</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201762535581P</doc-number>
+                            <date>20170721</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201762535581 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180755973</doc-number>
+                            <date>20180717</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18755973.7</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2018US42520</doc-number>
+                            <date>20180717</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>APPLE INC [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Apple Inc</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MUECK MARKUS DOMINIK [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MUECK, Markus Dominik</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">MEHRFUNKSCHNITTSTELLE ZUR SOFTWAREREKONFIGURATION</invention-title>
+                <invention-title lang="fr">INTERFACE MULTIRADIO POUR RECONFIGURATION LOGICIELLE</invention-title>
+                <invention-title lang="en">MULTIRADIO INTERFACE FOR SOFTWARE RECONFIGURATION</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>There is provided an apparatus of an autonomous vehicle, comprising: a memory to store a Unified Radio Application and to store one or more configuration parameters for the Unified Radio Application; and one or more field-programmable gate arrays, FPGAs, to receive a radio application update from a remote server, and to update the Unified Radio Application via a Multiradio Interface, MURI, "updateRadioApps" operation with the received radio application update, wherein the "updateRadioApps" operation is handled by an Administrative Services function of the MURI and comprises: transmitting, from a communication service layer, CSL, to a radio control framework, RCF, a request of updating an instance of the Unified Radio Application: replacing the instance of the Unified Radio Application, wherein during the replacement process, the one or more configuration parameters for the Unified Radio Application are maintained; and transmitting, from the RCF to the CSL, a confirmation of the updating of the instance of the Unified Radio Application.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

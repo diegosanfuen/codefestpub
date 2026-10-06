@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="63169727" country="EP" doc-number="4295938" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4295938</doc-number>
+                        <kind>A1</kind>
+                        <date>20231227</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4295938</doc-number>
+                        <date>20231227</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B01D  39/    14            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>B01D  46/    52            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>39</main-group>
+                        <subgroup>1623</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>46</main-group>
+                        <subgroup>0001</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>46</main-group>
+                        <subgroup>521</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>01</class>
+                        <subclass>D</subclass>
+                        <main-group>46</main-group>
+                        <subgroup>525</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598262694">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23195260</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230195260</doc-number>
+                        <date>20180213</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23195260.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US201762459990P</doc-number>
+                            <date>20170216</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201762459990 P</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180754068</doc-number>
+                            <date>20180213</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18754068.7</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2018US17952</doc-number>
+                            <date>20180213</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>PARKER HANNIFIN CORP [US]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Parker Hannifin Corp</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>TATE JASON LAMARR [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> CALCATERRA FARRELL F [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> GREEN THOMAS B [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="epodoc">
+                            <inventor-name>
+                                <name> WICK CHARLES R [US]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>TATE, Jason LaMarr, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>CALCATERRA, Farrell F, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>GREEN, Thomas B, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="4" data-format="original">
+                            <inventor-name>
+                                <name>WICK, Charles R</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">FILTERMEDIENPACKUNGEN, VERFAHREN ZUR HERSTELLUNG UND ULTRASCHALLSCHNEIDEN ODER -SCHWEISSEN</invention-title>
+                <invention-title lang="fr">PAQUETS DE MILIEU FILTRANT, PROCÉDÉS DE FABRICATION, ET DÉCOUPE OU SOUDAGE PAR ULTRASONS</invention-title>
+                <invention-title lang="en">FILTER MEDIA PACKS, METHODS OF MAKING, AND ULTRASONIC CUTTING OR WELDING</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="application number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US20000622061P</doc-number>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>20000622061</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="application number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US201562243740P</doc-number>
+                                <date>20151020</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>201562243740</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="application number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2016US47283</doc-number>
+                                <date>20160817</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2016US47283</doc-number>
+                                <kind/>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US4268290</doc-number>
+                                <date>19810519</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>4268290</doc-number>
+                                <kind>A</kind>
+                                <date>19810519</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6780217</doc-number>
+                                <date>20040824</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6780217</doc-number>
+                                <kind>B1</kind>
+                                <date>20040824</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2006151383</doc-number>
+                                <date>20060713</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2006151383</doc-number>
+                                <kind>A1</kind>
+                                <date>20060713</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <patcit dnum-type="publication number" num="7">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7122068</doc-number>
+                                <date>20061017</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7122068</doc-number>
+                                <kind>B2</kind>
+                                <date>20061017</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <patcit dnum-type="publication number" num="8">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US7318851</doc-number>
+                                <date>20080115</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>7318851</doc-number>
+                                <kind>B2</kind>
+                                <date>20080115</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <patcit dnum-type="publication number" num="9">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2014260139</doc-number>
+                                <date>20140918</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2014260139</doc-number>
+                                <kind>A1</kind>
+                                <date>20140918</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE4039286</doc-number>
+                                <name>KNECHT FILTERWERKE GMBH [DE]</name>
+                                <date>19920611</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>4039286</doc-number>
+                                <kind>A1</kind>
+                                <name>KNECHT FILTERWERKE GMBH [DE]</name>
+                                <date>19920611</date>
+                            </document-id>
+                        </patcit>
+                        <category>X</category>
+                        <rel-claims>1,5,12</rel-claims>
+                        <rel-passage>
+                            <passage>* column  1, line  44  - column  2, line  11; figure 1; claim 1 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5167740</doc-number>
+                                <name>MICHAELIS UDO [DE], et al</name>
+                                <date>19921201</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5167740</doc-number>
+                                <kind>A</kind>
+                                <name>MICHAELIS UDO [DE], et al</name>
+                                <date>19921201</date>
+                            </document-id>
+                        </patcit>
+                        <category>X</category>
+                        <rel-claims>1,2</rel-claims>
+                        <rel-passage>
+                            <passage>* column  2, line  26  - column  4, line  51; claim 1 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5376218</doc-number>
+                                <name>MITO MASAYUKI [JP], et al</name>
+                                <date>19941227</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5376218</doc-number>
+                                <kind>A</kind>
+                                <name>MITO MASAYUKI [JP], et al</name>
+                                <date>19941227</date>
+                            </document-id>
+                        </patcit>
+                        <category>A</category>
+                        <rel-claims>1-15</rel-claims>
+                        <rel-passage>
+                            <passage>* the whole document *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6428594</doc-number>
+                                <name>HINTENLANG DIETER [DE], et al</name>
+                                <date>20020806</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6428594</doc-number>
+                                <kind>B1</kind>
+                                <name>HINTENLANG DIETER [DE], et al</name>
+                                <date>20020806</date>
+                            </document-id>
+                        </patcit>
+                        <category>X</category>
+                        <rel-claims>1,2,12</rel-claims>
+                        <rel-passage>
+                            <passage>* figure 5 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO03049838</doc-number>
+                                <name>KODAKA SANGYO KAISHA LTD [JP], et al</name>
+                                <date>20030619</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>03049838</doc-number>
+                                <kind>A1</kind>
+                                <name>KODAKA SANGYO KAISHA LTD [JP], et al</name>
+                                <date>20030619</date>
+                            </document-id>
+                        </patcit>
+                        <category>X</category>
+                        <rel-claims>1,2,12</rel-claims>
+                        <rel-passage>
+                            <passage>* paragraphs  [0064] - [0069]; figure 14 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US6932850</doc-number>
+                                <name>WELCH THOMAS C [US], et al</name>
+                                <date>20050823</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>6932850</doc-number>
+                                <kind>B1</kind>
+                                <name>WELCH THOMAS C [US], et al</name>
+                                <date>20050823</date>
+                            </document-id>
+                        </patcit>
+                        <category>X</category>
+                        <rel-claims>1,2,12</rel-claims>
+                        <category>I</category>
+                        <rel-claims>10</rel-claims>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure is directed toward assembly of pleat packs using a welder and an anvil that can push adjacent pleat panels together along a crease. Other aspects are directed to welding pocket pleats and welded pocket pleats formed thereby that are suitable for filter fluid and ultrasonically cutting and sealing seams into filter media using a welding assembly such as an ultrasonic sonotrode and an anvil.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

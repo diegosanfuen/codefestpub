@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="63442589" country="EP" doc-number="4262295" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4262295</doc-number>
+                        <kind>A2</kind>
+                        <date>20231018</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4262295</doc-number>
+                        <date>20231018</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  60/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>4</main-group>
+                        <subgroup>50</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>4</main-group>
+                        <subgroup>70</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>4</main-group>
+                        <subgroup>70</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>8</main-group>
+                        <subgroup>22</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>48</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>60</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="598287105">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23195684</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230195684</doc-number>
+                        <date>20190812</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23195684.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20180382609</doc-number>
+                            <date>20180813</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>18382609</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20190773541</doc-number>
+                            <date>20190812</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>19773541.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2019IB56850</doc-number>
+                            <date>20190812</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ERICSSON TELEFON AB L M [SE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Telefonaktiebolaget LM Ericsson (publ)</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>MERINO VAZQUEZ EMILIANO [ES]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> ALMAREZ VALDES LUIS MIGUEL [ES]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>MERINO VAZQUEZ, Emiliano, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>ALMAREZ VALDES, Luis Miguel</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VERFAHREN UND VORRICHTUNG ZUR VERWALTUNG VON MASCHINENKOMMUNIKATIONSVORRICHTUNGEN IN EINEM ZUGANGSNETZWERK</invention-title>
+                <invention-title lang="fr">PROCÉDÉ ET APPAREIL DE GESTION DE DISPOSITIFS DE COMMUNICATION DE TYPE MACHINE DANS UN RÉSEAU D'ACCÈS</invention-title>
+                <invention-title lang="en">METHOD AND APPARATUS FOR MANAGING MACHINE TYPE COMMUNICATION DEVICES IN AN ACCESS NETWORK</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <nplcit num="1">
+                            <text>- "Service Requirements for Machine Type Communications (MTC); Stage 1", 3GPP Technical Specification (TS) TS 22.368</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="2">
+                            <text>- "Technical Specification Group Services and System Aspects; Architecture enhancements to facilitate communications with packet data networks and applications", 3GPP TS 23.682</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A wireless communication device, WCD (12), is associated with multiple Machine Type Communication (MTC) applications (14), each application (14) corresponding to a respective MTC Service Provider (SP) network (16) that identifies it using a corresponding "external identifier". The involved MTC SP networks (16) use the same common identifier to request a wireless communication network, WCN (18), used to access the WCD (12) to undertake certain configuration actions with respect to the WCD (12). The WCD (12) may belong to a group of WCDs (12), in which case the common identifier is an external group identifier. The WCN (18) advantageously determines which MTC SP network (16) is the "requesting provider" for a given requested configuration action, and it restricts the configuration action within the WCN (18) to the requesting provider.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

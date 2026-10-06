@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="73544135" country="EP" doc-number="4648459" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4648459</doc-number>
+                        <kind>A2</kind>
+                        <date>20251112</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4648459</doc-number>
+                        <date>20251112</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>H04W  16/    18            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>0446</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>0453</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>52</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>16</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="6">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>W</subclass>
+                        <main-group>72</main-group>
+                        <subgroup>542</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637136060">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25201455</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250201455</doc-number>
+                        <date>20201112</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25201455.0</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250201455</doc-number>
+                            <date>20201112</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200811542</doc-number>
+                            <date>20201112</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20811542.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2020EP81976</doc-number>
+                            <date>20201112</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VUSIONGROUP GMBH [AT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>VusionGroup GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>RÖSSL ANDREAS [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Rössl, Andreas</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VERFAHREN ZUR FUNK-KANALZUWEISUNG IN EINEM ELEKTRONISCHEN ANZEIGE-SYSTEM</invention-title>
+                <invention-title lang="fr">PROCÉDÉ POUR L'ATTRIBUTION DE CANAL RADIO DANS UN SYSTÈME D'AFFICHAGE ÉLECTRONIQUE</invention-title>
+                <invention-title lang="en">METHOD FOR RADIO CHANNEL ASSIGNMENT IN AN ELECTRONIC DISPLAY SYSTEM</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>KR20140014540</doc-number>
+                                <date>20140206</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>KR</country>
+                                <doc-number>20140014540</doc-number>
+                                <kind>A</kind>
+                                <date>20140206</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Verfahren zur Funk-Kanalzuweisung in einem System (9) elektronischer Anzeigen (100 - 699), wobei das System (9) eine Datenverarbeitungseinrichtung (8), Kommunikationsstationen (1 - 6) und elektronische Anzeigen (100 - 699) aufweist und jede Kommunikationsstation (1 - 6) zur Nutzung eines durch die Datenverarbeitungseinrichtung (8) definierten Funkkanals (80 - 90) für eine Funkkommunikation mit ihr zugeordneten elektronischen Anzeigen (100 - 699) ausgebildet ist, wobei das Verfahren die folgenden Verfahrensschritte aufweist, nämlich: Definieren des zu nutzenden Funkkanals auf Grundlage von durch die Kommunikationsstation (1 - 6) an die Datenverarbeitungseinrichtung (8) übermittelter Funkkanal-Aktivität-Daten, welche eine erfasste Funk-Aktivität im jeweiligen Funkkanal (80 - 90) beschreiben, dadurch gegenzeichnet, dass die Übermittlung der Funkkanal-Aktivität-Daten durch die Kommunikationsstation (1 - 6) zu einem Zeitpunkt erfolgt, nachdem die jeweilige Kommunikationsstation (1 - 6) durch Nutzung eines Funkkanals einen erstmaligen Verbindungsaufbau mit zumindest einer der elektronischen Anzeigen (100 - 699) durchgeführt hat, wobei die Funkkanal-Aktivität-Daten eine erfasste Funk-Aktivität nach besagtem erstmaligem Verbindungsaufbau beschreiben.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

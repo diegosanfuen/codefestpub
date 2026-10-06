@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="75108319" country="EP" doc-number="4657136" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4657136</doc-number>
+                        <kind>A2</kind>
+                        <date>20251203</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4657136</doc-number>
+                        <date>20251203</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G02B  21/    36            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>02</class>
+                        <subclass>B</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>0004</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>02</class>
+                        <subclass>B</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>365</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>02</class>
+                        <subclass>B</subclass>
+                        <main-group>21</main-group>
+                        <subgroup>367</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="4">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>V</subclass>
+                        <main-group>40</main-group>
+                        <subgroup>12</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="5">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>N</subclass>
+                        <main-group>2035</main-group>
+                        <subgroup>00821</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639135254">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25209822</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250209822</doc-number>
+                        <date>20210315</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25209822.3</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE202010203290</doc-number>
+                            <date>20200313</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102020203290</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210712983</doc-number>
+                            <date>20210315</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21712983.2</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP56547</doc-number>
+                            <date>20210315</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>LEICA MICROSYSTEMS [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Leica Microsystems CMS GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>SCHLAUDRAFF FALK [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>SCHLAUDRAFF, Falk</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">VERFAHREN UND VORRICHTUNG ZUR UNTERSUCHUNG VON MIKROSKOPPROBEN UNTER VERWENDUNG OPTISCHER MARKER</invention-title>
+                <invention-title lang="fr">PROCÉDÉ ET APPAREIL D'EXAMEN D'ÉCHANTILLONS DE MICROSCOPE À L'AIDE DE MARQUEURS OPTIQUES</invention-title>
+                <invention-title lang="en">METHOD AND APPARATUS FOR EXAMINING MICROSCOPE SPECIMENS USING OPTICAL MARKERS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE102014202860</doc-number>
+                                <date>20150820</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>102014202860</doc-number>
+                                <kind>A1</kind>
+                                <date>20150820</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="1">
+                            <text>- GEE, J.C.REIVICH, M.BAJCSY, R., "Elastically deforming a three-dimensional atlas to match an atomical brain images", IRCS Technical Reports Series, (19930000), page 192</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="2">
+                            <text>- ROUCHDY, Y.COHN, L., A geodesic voting method for the segmentation of tubular tree and center lines, (20110000), pages 979 - 983</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="3">
+                            <text>- SURI, J., Angiography andplaque imaging: Advanced segmentation techniques, CRC Press, (20030000)</text>
+                        </nplcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Die Erfindung betrifft ein Mikroskopierverfahren sowie eine Vorrichtung (100) zur Untersuchung von Mikroskopproben (102). Eine Mikroskopprobe (102) weist ein zu mikroskopierendes Objekt (104) und einen das Objekt (104) haltenden Probenträger (106) auf. Um die Untersuchung, insbesondere die Identifikation von Mikroskopproben (102) zu vereinfachen, ist die Vorrichtung (100) ausgestaltet, eine digitale Identifikationskennung (108) der Mikroskopprobe (102) durch Fingerprinting (110) der Mikroskopprobe (102) unter Verwendung wenigstens eines optischen Markers (112) in wenigstens einem digitalen Abbild (114) zumindest eines Teils des Objekts (104) zu berechnen. Mithilfe der digitalen Identifikationskennung (108) kann die Mikroskopprobe (102) wiedererkannt werden.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

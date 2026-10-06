@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="80735830" country="EP" doc-number="4659583" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4659583</doc-number>
+                        <kind>A2</kind>
+                        <date>20251210</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4659583</doc-number>
+                        <date>20251210</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A21C   9/    08            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>21</class>
+                        <subclass>C</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>21</class>
+                        <subclass>C</subclass>
+                        <main-group>3</main-group>
+                        <subgroup>08</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>21</class>
+                        <subclass>C</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>085</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="639353506">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25210951</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250210951</doc-number>
+                        <date>20220311</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25210951.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>DE202110108139</doc-number>
+                            <date>20210331</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>102021108139</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20220161537</doc-number>
+                            <date>20220311</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>22161537.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>FRITSCH BAKERY TECHNOLOGIES GMBH &amp; CO KG [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Fritsch Bakery Technologies GmbH &amp; Co. KG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>BERNHARDT UDO [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>BERNHARDT, Udo</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">TEIGVERARBEITUNGSVORRICHTUNG</invention-title>
+                <invention-title lang="fr">APPAREIL DE TRAITEMENT DE PÂTE</invention-title>
+                <invention-title lang="en">DOUGH PROCESSING APPARATUS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE102008036624</doc-number>
+                                <date>20141009</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>102008036624</doc-number>
+                                <kind>B4</kind>
+                                <date>20141009</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE102018004351</doc-number>
+                                <date>20190425</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>102018004351</doc-number>
+                                <kind>B3</kind>
+                                <date>20190425</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="de">
+                <p>Eine Teigverarbeitungsvorrichtung (1), umfasst eine erste Förderanordnung (4), die zum Fördern von Teigstücken (2) entlang eines Produktionspfads (P) konfiguriert ist, eine zweite Förderanordnung (8), die zum Fördern der Teigstücke (2) entlang des Produktionspfads (P) konfiguriert ist, und eine Ausrichteinheit (7), die entlang des Produktionspfads (P) zwischen der ersten Förderanordnung (4) und der zweiten Förderanordnung (8) angeordnet und dazu konfiguriert ist, die Teigstücke (2) von der ersten Förderanordnung (4) aufzunehmen, quer zu dem Produktionspfad (P) zu bewegen und an die zweite Förderanordnung (8) zu übergeben. Die Teigverarbeitungsvorrichtung zeichnet sich durch eine Sensoranordnung (14) aus, die dazu konfiguriert ist, eine Ausdehnung und/oder eine Positionierung der auf der ersten Förderanordnung (4) angeordneten Teigstücke (2) in einer Messrichtung (M) zu bestimmen, wobei die Messrichtung (M) quer, insbesondere senkrecht, zu dem Produktionspfad (P) orientiert ist.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

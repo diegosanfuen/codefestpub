@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="68653513" country="EP" doc-number="4276399" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4276399</doc-number>
+                        <kind>A2</kind>
+                        <date>20231115</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4276399</doc-number>
+                        <date>20231115</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>F26B  23/    10            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>26</class>
+                        <subclass>B</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>10</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>26</class>
+                        <subclass>B</subclass>
+                        <main-group>2200</main-group>
+                        <subgroup>00</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>26</class>
+                        <subclass>B</subclass>
+                        <main-group>2200</main-group>
+                        <subgroup>18</subgroup>
+                        <classification-value>A</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="599691044">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>23198320</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20230198320</doc-number>
+                        <date>20200713</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>23198320.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>IT20190012672</doc-number>
+                            <date>20190723</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>201900012672</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200185522</doc-number>
+                            <date>20200713</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20185522.8</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>VALLECAUDINA ENERGIE RINNOVABILI S R L [IT]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Vallecaudina Energie Rinnovabili S.r.l</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>RIVA GIOVANNI LUCA [IT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>RIVA, Giovanni Luca</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">TROCKNUNGSANLAGE ZUR DURCHFÜHRUNG EINES VERFAHRENS VON KLÄRSCHLAMM</invention-title>
+                <invention-title lang="fr">INSTALLATION DE SÉCHAGE POUR LA MISE EN OEUVRE D'UN PROCÉDÉ DE BOUES D'ÉPURATION</invention-title>
+                <invention-title lang="en">DRYING PLANT FOR IMPLEMENTING A PROCESS OF SEWAGE SLUDGE</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5228211</doc-number>
+                                <date>19930720</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5228211</doc-number>
+                                <kind>A</kind>
+                                <date>19930720</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US5711086</doc-number>
+                                <date>19980127</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>5711086</doc-number>
+                                <kind>A</kind>
+                                <date>19980127</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <patcit dnum-type="publication number" num="3">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE19644465</doc-number>
+                                <date>19980305</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>19644465</doc-number>
+                                <kind>A1</kind>
+                                <date>19980305</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <patcit dnum-type="publication number" num="4">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>KR20120020709</doc-number>
+                                <date>20120308</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>KR</country>
+                                <doc-number>20120020709</doc-number>
+                                <kind>A</kind>
+                                <date>20120308</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <patcit dnum-type="publication number" num="5">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>US2013014678</doc-number>
+                                <date>20130117</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>US</country>
+                                <doc-number>2013014678</doc-number>
+                                <kind>A1</kind>
+                                <date>20130117</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <patcit dnum-type="publication number" num="6">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>KR101565315B</doc-number>
+                                <date>20151104</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>KR</country>
+                                <doc-number>101565315</doc-number>
+                                <kind>B1</kind>
+                                <date>20151104</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>DE19644465</doc-number>
+                                <date>19980305</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>DE</country>
+                                <doc-number>19644465</doc-number>
+                                <kind>A1</kind>
+                                <date>19980305</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                    <citation cited-phase="national-examination" cited-by="unknown" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>KR20120020709</doc-number>
+                                <date>20120308</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>KR</country>
+                                <doc-number>20120020709</doc-number>
+                                <kind>A</kind>
+                                <date>20120308</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A plant for the implementation of a process of sewage sludge is disclosed, of the type which performs the drying using superheated steam and wherein the sludge is placed to dry as extruded products on sliding shelves is disclosed.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

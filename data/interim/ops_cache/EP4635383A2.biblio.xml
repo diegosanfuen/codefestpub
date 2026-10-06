@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="75562702" country="EP" doc-number="4635383" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4635383</doc-number>
+                        <kind>A2</kind>
+                        <date>20251022</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4635383</doc-number>
+                        <date>20251022</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>A47J  43/    07            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>J</subclass>
+                        <main-group>43</main-group>
+                        <subgroup>0711</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>A</section>
+                        <class>47</class>
+                        <subclass>J</subclass>
+                        <main-group>43</main-group>
+                        <subgroup>0722</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="636931861">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25200645</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250200645</doc-number>
+                        <date>20210326</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25200645.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>GB20200004417</doc-number>
+                            <date>20200326</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202004417</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>LU20200101765</doc-number>
+                            <date>20200505</date>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210719542</doc-number>
+                            <date>20210326</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21719542.9</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="4" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP58003</doc-number>
+                            <date>20210326</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>DELONGHI BRAUN HOUSEHOLD GMBH [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>De'Longhi Braun Household GmbH</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>KLEEMAN CHRISTOF [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> WOHLFAHRT PASCAL [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> DEXHEIMER CHRISTIAN [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>KLEEMAN, Christof, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>WOHLFAHRT, Pascal, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>DEXHEIMER, Christian</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">WERKZEUG ZUR LEBENSMITTELVERARBEITUNG</invention-title>
+                <invention-title lang="fr">OUTIL DE TRAITEMENT D'ALIMENTS</invention-title>
+                <invention-title lang="en">FOOD PROCESSING TOOL</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>GB2469639</doc-number>
+                                <date>20101027</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>GB</country>
+                                <doc-number>2469639</doc-number>
+                                <kind>A</kind>
+                                <date>20101027</date>
+                            </document-id>
+                        </patcit>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>There is provided a rotary blade assembly (100) for a food processing appliance, comprising: a hub (140) configured to rotate in use about axis of rotation, and a plurality of blades (110, 120, 130) extending away from said hub, wherein at least two angles about the axis of rotation separating the blades differ.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

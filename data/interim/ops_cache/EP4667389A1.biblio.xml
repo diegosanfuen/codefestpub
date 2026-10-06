@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97520704" country="EP" doc-number="4667389" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4667389</doc-number>
+                        <kind>A1</kind>
+                        <date>20251224</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4667389</doc-number>
+                        <date>20251224</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>B65G   1/    04            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>B65G   1/    06            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>65</class>
+                        <subclass>G</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>B</section>
+                        <class>65</class>
+                        <subclass>G</subclass>
+                        <main-group>1</main-group>
+                        <subgroup>06</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637487289">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25764867</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250764867</doc-number>
+                        <date>20250418</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25764867.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202420951136U</doc-number>
+                            <date>20240428</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202420951136 U</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202422293232U</doc-number>
+                            <date>20240919</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202422293232 U</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2025CN89971</doc-number>
+                            <date>20250418</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CN2025089971</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>HAI ROBOTICS CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Hai Robotics Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>YANG CHENGLONG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> SHAN MINGMING [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>YANG, Chenglong, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>SHAN, Mingming</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">LAGERROBOTER UND WARENAUFNAHME- UND -ABGABEVORRICHTUNG</invention-title>
+                <invention-title lang="fr">ROBOT D'ENTREPOSAGE ET APPAREIL DE PRÉLÈVEMENT ET DE PLACEMENT DE MARCHANDISES</invention-title>
+                <invention-title lang="en">WAREHOUSING ROBOT AND GOODS PICKING AND PLACING APPARATUS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>This application provides a warehousing robot, and relates to the field of warehousing and logistics technologies. The warehousing robot includes a lifting assembly, a bearing assembly, and a connecting assembly. The lifting assembly is configured to drive the bearing assembly to move up or down. The bearing assembly is configured to bear a material container. The connecting assembly is disposed on one of the lifting assembly and the bearing assembly. A first mounting portion adapted to the connecting assembly is disposed on the other of the lifting assembly and the bearing assembly. The first mounting portion has an opening facing the connecting assembly. The connecting assembly is hooked to or detaches from the first mounting portion through the opening. In the warehousing robot provided in this application, the bearing assembly can be connected to the lifting assembly by only moving the bearing assembly and the lifting assembly close to each other, to drive the connecting assembly to be hooked to the first mounting portion through the opening. The bearing assembly does not need to be supported for a long time during operation. This is easy to operate, and is convenient and quick.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

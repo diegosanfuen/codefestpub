@@ -1,0 +1,17 @@
+ssl_verify: true
+channels:
+  - conda-forge
+
+auto_update_conda: false
+show_channel_urls: true
+
+# https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-channels.html
+channel_priority: disabled
+
+# add user env dir with bash command
+envs_dirs:
+  - /home/jovyan/.conda/envs
+
+# in shared drive for efficiency
+pkgs_dirs:
+  - /tmp/conda/pkgs

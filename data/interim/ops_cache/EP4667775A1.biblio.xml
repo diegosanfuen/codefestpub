@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="94836003" country="EP" doc-number="4667775" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4667775</doc-number>
+                        <kind>A1</kind>
+                        <date>20251224</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4667775</doc-number>
+                        <date>20251224</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>F16F  15/    02            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>C</subclass>
+                        <main-group>11</main-group>
+                        <subgroup>04</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>F</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>03</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>CN</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>F</section>
+                        <class>16</class>
+                        <subclass>F</subclass>
+                        <main-group>15</main-group>
+                        <subgroup>03</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637340088">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25764396</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250764396</doc-number>
+                        <date>20250304</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25764396.5</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202510135402</doc-number>
+                            <date>20250207</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202510135402</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2025CN80432</doc-number>
+                            <date>20250304</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>CN2025080432</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>SHENZHEN LOYAL ELECTRONICS CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Shenzhen Loyal Electronics Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>CHEN SHAOJUAN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> JU QIAOLONG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="epodoc">
+                            <inventor-name>
+                                <name> LIU JUNLIANG [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>CHEN, Shaojuan, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>JU, Qiaolong, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="3" data-format="original">
+                            <inventor-name>
+                                <name>LIU, Junliang</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">DREHSTRUKTUR MIT MAGNETISCHER DÄMPFUNG UND VERFAHREN ZUR ERZEUGUNG VON MAGNETISCHER DÄMPFUNG</invention-title>
+                <invention-title lang="fr">STRUCTURE ROTATIVE D'AMORTISSEMENT MAGNÉTIQUE ET PROCÉDÉ DE GÉNÉRATION D'AMORTISSEMENT MAGNÉTIQUE</invention-title>
+                <invention-title lang="en">MAGNETIC DAMPING ROTARY STRUCTURE AND MAGNETIC DAMPING GENERATION METHOD</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure relates to the technical field of of electronic components. A magnetic damping rotational structure and a magnetic damping generation method are provided. The structure includes: a mounting base; a first annular magnetic bearing, fixed at the mounting base, where at least one side surface of the first annular magnetic bearing is uniformly arranged with a plurality of first grooves, and a first magnetic protrusion is formed between adjacent two first grooves; and at least one second annular magnetic bearing, rotatably arranged at the mounting base, where the second annular magnetic bearing and the first annular magnetic bearing are coaxially arranged together, a plurality of second grooves are uniformly arranged at a surface of one side of the second annular magnetic bearing facing the first magnetic protrusion, and a second magnetic protrusion is formed between adjacent two second grooves. A gap is formed between the first magnetic protrusion and the second magnetic protrusion, and the first magnetic protrusion and the second magnetic protrusion are arranged in one-to-one correspondence and generate attraction magnetic forces. When the second annular magnetic bearing rotates slowly, the damping value changes due to the attraction between the first annular magnetic bearing and the second annular magnetic bearing, resulting in a notched feedback of hand-feel weight. This effectively improves the damping effect and can be applied in fields such as mice, keyboards, automotive dashboards, etc.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

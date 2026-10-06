@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="73497545" country="EP" doc-number="4663652" kind="A1">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4663652</doc-number>
+                        <kind>A1</kind>
+                        <date>20251217</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4663652</doc-number>
+                        <date>20251217</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>C07D 257/    02            A I                    </text>
+                    </classification-ipcr>
+                    <classification-ipcr sequence="2">
+                        <text>C07K   5/   083            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>D</subclass>
+                        <main-group>257</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>C</section>
+                        <class>07</class>
+                        <subclass>D</subclass>
+                        <main-group>257</main-group>
+                        <subgroup>02</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637618054">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25203499</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250203499</doc-number>
+                        <date>20211119</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25203499.6</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20200208556</doc-number>
+                            <date>20201119</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>20208556</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210815500</doc-number>
+                            <date>20211119</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21815500.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="3" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>WO2021EP82323</doc-number>
+                            <date>20211119</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>NOVARTIS AG [CH]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Novartis AG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ANDREAE FRITZ [AT]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>ANDREAE, Fritz</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">SYNTHESE VON LIGANDEN DES PROSTATASPEZIFISCHEN MEMBRANANTIGENS (PSMA)</invention-title>
+                <invention-title lang="fr">SYNTHÈSE DE LIGANDS D'ANTIGÈNE MEMBRANAIRE SPÉCIFIQUE DE LA PROSTATE (PSMA)</invention-title>
+                <invention-title lang="en">SYNTHESIS OF PROSTATE SPECIFIC MEMBRANE ANTIGEN (PSMA) LIGANDS</invention-title>
+                <references-cited>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="1">
+                        <nplcit num="1">
+                            <text>- MARCHAL et al., Histol Histopathol, (20040700), vol. 19, no. 3, pages 715 - 8</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="2">
+                        <nplcit num="2">
+                            <text>- MEASE et al., Curr Top Med Chem, (20130000), vol. 13, no. 8, pages 951 - 62</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="3">
+                        <nplcit num="3">
+                            <text>- KIESS et al., Q J Nucl Med Mol Imaging, (20150000), vol. 59, pages 241 - 68</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="4">
+                        <nplcit num="4">
+                            <text>- BANERJEE et al., J Med Chem, (20130000), vol. 56, pages 6108 - 21</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="5">
+                        <nplcit num="5">
+                            <text>- DELKER et al., European Journal of Nuclear Medicine and Molecular Imaging, (20160000), vol. 43, no. 1, pages 42 - 51</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="6">
+                        <nplcit num="6">
+                            <text>- YADAV et al., European Journal of Nuclear Medicine and Molecular Imaging, (20170000), vol. 44, no. 1, pages 81 - 91</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="7">
+                        <nplcit num="7">
+                            <text>- WUTZ et al., Greene's Protective Groups in Organic Synthesis, Wiley- Interscience, (20070000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="8">
+                        <nplcit num="8">
+                            <text>- WUTZ, Protecting groups for protection of the carboxyl group, pages 533 - 643</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="9">
+                        <nplcit num="9">
+                            <text>- WUTZ et al., Protecting group for protection of the amino group, pages 696 - 927</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="undefined" cited-by="applicant" sequence="10">
+                        <nplcit num="10">
+                            <text>- LIT. WENG C. CHAN, PETER D. WHITE, Fmoc Solid Phase Peptide Synthesis. A Practical Approach, Oxford University Press, (20000000)</text>
+                        </nplcit>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="1">
+                        <patcit dnum-type="publication number" num="1">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>CN109134602</doc-number>
+                                <name>UNIV LANZHOU</name>
+                                <date>20190104</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>CN</country>
+                                <doc-number>109134602</doc-number>
+                                <kind>A</kind>
+                                <name>UNIV LANZHOU</name>
+                                <date>20190104</date>
+                            </document-id>
+                        </patcit>
+                        <category>I</category>
+                        <rel-claims>1-10</rel-claims>
+                        <rel-passage>
+                            <passage>* the whole document *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="2">
+                        <patcit dnum-type="publication number" num="2">
+                            <document-id document-id-type="epodoc">
+                                <doc-number>WO2020236808</doc-number>
+                                <name>ENDOCYTE INC [US]</name>
+                                <date>20201126</date>
+                            </document-id>
+                            <document-id document-id-type="docdb">
+                                <country>WO</country>
+                                <doc-number>2020236808</doc-number>
+                                <kind>A1</kind>
+                                <name>ENDOCYTE INC [US]</name>
+                                <date>20201126</date>
+                            </document-id>
+                        </patcit>
+                        <category>P</category>
+                        <rel-claims>1-10</rel-claims>
+                        <category>X</category>
+                        <rel-claims>1-10</rel-claims>
+                        <rel-passage>
+                            <passage>* the whole document *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="3">
+                        <nplcit num="1">
+                            <text>- MATTHIAS EDER ET AL, "68 Ga-Complex Lipophilicity and the Targeting Property of a Urea-Based PSMA Inhibitor for PET Imaging", BIOCONJUGATE CHEMISTRY, (20120418), vol. 23, no. 4, doi:10.1021/bc200279b, ISSN 1043-1802, pages 688 - 697, XP055043532</text>
+                        </nplcit>
+                        <category>I</category>
+                        <rel-claims>1-10</rel-claims>
+                        <rel-passage>
+                            <passage>* Scheme 1; scheme 2 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="4">
+                        <nplcit num="2">
+                            <text>- M. BENESOVA ET AL, "Preclinical Evaluation of a Tailor-Made DOTA-Conjugated PSMA Inhibitor with Optimized Linker Moiety for Imaging and Endoradiotherapy of Prostate Cancer", THE JOURNAL OF NUCLEAR MEDICINE, US, (20150416), vol. 56, no. 6, doi:10.2967/jnumed.114.147413, ISSN 0161-5505, pages 914 - 920, XP055289291</text>
+                        </nplcit>
+                        <category>I</category>
+                        <rel-claims>1-10</rel-claims>
+                        <rel-passage>
+                            <passage>* Scheme 1; page  915 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="5">
+                        <nplcit num="3">
+                            <text>- MARTINA BENESOVA ET AL, "Linker Modification Strategies To Control the Prostate-Specific Membrane Antigen (PSMA)-Targeting and Pharmacokinetic Properties of DOTA-Conjugated PSMA Inhibitors", JOURNAL OF MEDICINAL CHEMISTRY, US, (20160310), vol. 59, no. 5, doi:10.1021/acs.jmedchem.5b01210, ISSN 0022-2623, pages 1761 - 1775, XP055289267</text>
+                        </nplcit>
+                        <category>I</category>
+                        <rel-claims>1-10</rel-claims>
+                        <rel-passage>
+                            <passage>* Schemes 1,2 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="6">
+                        <nplcit num="4">
+                            <text>- ALESSANDRO PRATESI ET AL, "Design and solid phase synthesis of new DOTA conjugated (+)-biotin dimers planned to develop molecular weight-tuned avidin oligomers", ORGANIC &amp; BIOMOLECULAR CHEMISTRY, (20150101), vol. 13, no. 13, doi:10.1039/C4OB02685C, ISSN 1477-0520, pages 3988 - 4001, XP055685812</text>
+                        </nplcit>
+                        <category>A</category>
+                        <rel-claims>1-13</rel-claims>
+                        <rel-passage>
+                            <passage>* the whole document *</passage>
+                            <passage>* Scheme 1 to 3 *</passage>
+                        </rel-passage>
+                    </citation>
+                    <citation cited-phase="national-search-report" cited-by="examiner" sequence="7">
+                        <nplcit num="5">
+                            <text>- CHAN W C ET AL, Fmoc-Solid Phase Peptide Synthesis-A practical approach passage, FMOC SOLID PHASE PEPTIDE SYNTHESIS : A PRACTICAL APPROACH; [THE PRACTICAL APPROACH SERIES , ISSN 0957-025X ; ZDB-ID: 9132715 ; 222], OXFORD UNIVERSITY PRESS, GB, PAGE(S) X-XXIV, (20000301), ISBN 978-0-19-963724-9, XP007919886</text>
+                        </nplcit>
+                        <rel-passage>
+                            <passage>[ ]     - CHAN W C ET AL, Fmoc-Solid Phase Peptide Synthesis-A practical approach passage, FMOC SOLID PHASE PEPTIDE SYNTHESIS : A PRACTICAL APPROACH; [THE PRACTICAL APPROACH SERIES , ISSN 0957-025X ; ZDB-ID: 9132715 ; 222], OXFORD UNIVERSITY PRESS, GB, PAGE(S) X-XXIV, (20000301), ISBN 978-0-19-963724-9, XP007919886</passage>
+                            <passage>* the whole document *</passage>
+                        </rel-passage>
+                    </citation>
+                </references-cited>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>The present disclosure relates to the synthesis of prostate specific membrane antigen (PSMA) ligands that are useful in the treatment of diseases like cancer. In particular, the disclosure relates to a method for synthesizing PSMA ligands having a glutamate-urea-lysine (GUL) moiety and a chelating agent that can comprise a radiometal</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

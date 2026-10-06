@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97172744" country="EP" doc-number="4650872" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4650872</doc-number>
+                        <kind>A2</kind>
+                        <date>20251119</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4650872</doc-number>
+                        <date>20251119</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G03F   7/    00            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>70258</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>705</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>03</class>
+                        <subclass>F</subclass>
+                        <main-group>7</main-group>
+                        <subgroup>70525</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638164143">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25205718</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250205718</doc-number>
+                        <date>20250930</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25205718.7</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20250205718</doc-number>
+                            <date>20250930</date>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ASML NETHERLANDS BV [NL]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>ASML Netherlands B.V</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>VAN DEN BRINK ARIE [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="epodoc">
+                            <inventor-name>
+                                <name> WERKMAN ROY [NL]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>VAN DEN BRINK, Arie, </name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="2" data-format="original">
+                            <inventor-name>
+                                <name>WERKMAN, Roy</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BELICHTUNGSVORRICHTUNG UND VERFAHREN ZUR DURCHFÜHRUNG EINES LITHOGRAFISCHEN BELICHTUNGSVERFAHRENS</invention-title>
+                <invention-title lang="fr">APPAREIL D'EXPOSITION ET PROCÉDÉ DE RÉALISATION D'UN PROCESSUS D'EXPOSITION LITHOGRAPHIQUE</invention-title>
+                <invention-title lang="en">AN EXPOSURE APPARATUS AND A METHOD OF PERFORMING A LITHOGRAPHIC EXPOSURE PROCESS</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>An exposure apparatus configured to perform a lithographic exposure process, comprising an actuator, and a control unit configured to control the actuator, the control unit comprising a trained machine learning model. The control unit is configured to determine, within a predetermined amount of time, a control setting for controlling the actuator by: obtaining a desired correction of the lithographic exposure process; determining an initial control setting for the actuator based on the desired correction of the lithographic exposure process; and iteratively refining the initial control setting to approach the desired correction of the lithographic exposure process, thereby obtaining the control setting for the actuator. The control unit is configured to determine the initial control setting for the actuator by providing the desired correction of the lithographic exposure process as input to the trained machine learning model.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

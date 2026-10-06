@@ -1,0 +1,145 @@
+/* =========================
+   MENU THEME (H7) — SINGLE FILE
+   Works with:
+   .menu-lateral, .itemMenu, .menu-header, etc.
+========================= */
+
+:root{
+  --bg:#0b1020;
+  --panel: rgba(17,26,51,.72);
+  --border: rgba(255,255,255,.10);
+  --text:#e8ecff;
+  --muted:#a9b3d6;
+
+  --accent:#7c5cff;
+  --hover-bg: rgba(124,92,255,.14);
+  --hover-border: rgba(124,92,255,.45);
+  --active-bg: rgba(124,92,255,.22);
+  --active-border: rgba(124,92,255,.65);
+
+  --radius: 14px;
+  --shadow: 0 12px 40px rgba(0,0,0,.35);
+
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+          Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+}
+
+/* Reset mínimo (solo para este frame/página de menú) */
+html, body{
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;
+  overflow:hidden; /* evita scroll raro en el frame del menú */
+  font-family: var(--font);
+  background:
+    radial-gradient(900px 600px at 20% 10%, rgba(124,92,255,.28), transparent 60%),
+    radial-gradient(900px 600px at 80% 90%, rgba(46,233,166,.12), transparent 55%),
+    var(--bg);
+  color: var(--text);
+}
+
+/* Contenedor lateral */
+.menu-lateral{
+  width: 260px;          /* importante para que no “flote” */
+  height: 100vh;         /* ocupa toda la altura */
+  padding: 16px 12px;
+
+  background: var(--panel);
+  backdrop-filter: blur(10px);
+
+  border-right: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+/* Header del menú */
+.menu-header{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding: 10px 10px 14px;
+  margin-bottom: 6px;
+
+  border-bottom: 1px solid rgba(255,255,255,.10);
+}
+
+.menu-logo{
+  width: 40px;
+  height: 40px;
+  border-radius: 14px;
+  background: linear-gradient(145deg, rgba(124,92,255,1), rgba(46,233,166,1));
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+  position: relative;
+  flex: none;
+}
+
+.menu-logo::after{
+  content:"";
+  position:absolute;
+  inset: 9px;
+  border-radius: 12px;
+  background: rgba(11,16,32,.72);
+  border: 1px solid rgba(255,255,255,.12);
+}
+
+.menu-title{ line-height: 1.1; }
+.menu-name{
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text);
+}
+.menu-subtitle{
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+/* Lista */
+.menu-items{ margin-top: 10px; }
+
+/* Item base */
+.itemMenu{
+  margin: 6px 0;
+}
+
+/* Enlaces del menú: AQUÍ se arregla el morado/subrayado */
+.itemMenu a{
+  display:block;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+
+  color: var(--text) !important;
+  text-decoration: none !important;
+
+  border: 1px solid transparent;
+  background: transparent;
+
+  transition: background .15s ease, border-color .15s ease, box-shadow .15s ease;
+}
+
+/* Hover “recuadro azul” */
+.itemMenu a:hover{
+  background: var(--hover-bg);
+  border-color: var(--hover-border);
+}
+
+/* Activo: usa aria-current="page" (o una clase .active si prefieres) */
+.itemMenu a[aria-current="page"],
+.itemMenu a.active{
+  background: var(--active-bg);
+  border-color: var(--active-border);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.06);
+}
+
+/* Quitar color de visited para que no vuelva el morado */
+.itemMenu a:visited{
+  color: var(--text) !important;
+}
+
+/* Focus accesible */
+.itemMenu a:focus-visible{
+  outline: none;
+  border-color: var(--active-border);
+  background: var(--active-bg);
+  box-shadow: 0 0 0 4px rgba(124,92,255,.18);
+}

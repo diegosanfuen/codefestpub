@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="78819733" country="EP" doc-number="4667949" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4667949</doc-number>
+                        <kind>A2</kind>
+                        <date>20251224</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4667949</doc-number>
+                        <date>20251224</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G01R  23/   163            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>163</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>01</class>
+                        <subclass>R</subclass>
+                        <main-group>23</main-group>
+                        <subgroup>165</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>H</section>
+                        <class>04</class>
+                        <subclass>B</subclass>
+                        <main-group>17</main-group>
+                        <subgroup>30</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>US</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="638039106">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25205360</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250205360</doc-number>
+                        <date>20211130</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25205360.8</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>US202117158827</doc-number>
+                            <date>20210126</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202117158827</doc-number>
+                        </document-id>
+                    </priority-claim>
+                    <priority-claim sequence="2" kind="regional">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>EP20210211265</doc-number>
+                            <date>20211130</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>21211265.0</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>ROHDE &amp; SCHWARZ [DE]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Rohde &amp; Schwarz GmbH &amp; Co. KG</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>ROTH ALEXANDER [DE]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>Roth, Alexander</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">BREITBAND-SPEKTRALANALYSATOR</invention-title>
+                <invention-title lang="fr">ANALYSEUR DE SPECTRE À LARGE BANDE</invention-title>
+                <invention-title lang="en">WIDEBAND SPECTRUM ANALYZER</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>A wideband spectrum analyzer (10) is disclosed that has good image suppression and dynamic range. The wideband spectrum analyzer (10) comprises at least one signal input (12), a first signal channel (14) with a first filter module (16) and a second filter module (18), and a second signal channel (58) with a third filter module (64) and a fourth filter module (66). The first filter module (16) and the second filter module (18) are connected with the at least one signal input (12) downstream of the at least one signal input (12) in a series connection. The third filter module (64) and the fourth filter module (66) are connected with the at least one signal input (56) downstream of the at least one signal input (56) in a series connection. The same signal is sent to both signal channels (14, 58) of the wideband spectrum analyzer (10) in order to gather information concerning cross-correlation, and wherein the wideband spectrum analyzer (10) is configured to perform cross-correlation measurements in an operation mode.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>

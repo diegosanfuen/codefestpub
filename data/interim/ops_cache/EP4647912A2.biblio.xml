@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../../../../style/exchange.xsl"?>
+<ops:world-patent-data xmlns="http://www.epo.org/exchange" xmlns:ops="http://ops.epo.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <exchange-documents>
+        <exchange-document system="ops.epo.org" family-id="97103876" country="EP" doc-number="4647912" kind="A2">
+            <bibliographic-data>
+                <publication-reference>
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>4647912</doc-number>
+                        <kind>A2</kind>
+                        <date>20251112</date>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP4647912</doc-number>
+                        <date>20251112</date>
+                    </document-id>
+                </publication-reference>
+                <classifications-ipcr>
+                    <classification-ipcr sequence="1">
+                        <text>G06F   9/    48            A I                    </text>
+                    </classification-ipcr>
+                </classifications-ipcr>
+                <patent-classifications>
+                    <patent-classification sequence="1">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>4881</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="2">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>5066</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                    <patent-classification sequence="3">
+                        <classification-scheme office="EP" scheme="CPCI"/>
+                        <section>G</section>
+                        <class>06</class>
+                        <subclass>F</subclass>
+                        <main-group>9</main-group>
+                        <subgroup>52</subgroup>
+                        <classification-value>I</classification-value>
+                        <generating-office>EP</generating-office>
+                    </patent-classification>
+                </patent-classifications>
+                <application-reference doc-id="637824674">
+                    <document-id document-id-type="docdb">
+                        <country>EP</country>
+                        <doc-number>25204341</doc-number>
+                        <kind>A</kind>
+                    </document-id>
+                    <document-id document-id-type="epodoc">
+                        <doc-number>EP20250204341</doc-number>
+                        <date>20250924</date>
+                    </document-id>
+                    <document-id document-id-type="original">
+                        <doc-number>25204341.9</doc-number>
+                    </document-id>
+                </application-reference>
+                <priority-claims>
+                    <priority-claim sequence="1" kind="national">
+                        <document-id document-id-type="epodoc">
+                            <doc-number>CN202510857502</doc-number>
+                            <date>20250624</date>
+                        </document-id>
+                        <document-id document-id-type="original">
+                            <doc-number>202510857502</doc-number>
+                        </document-id>
+                    </priority-claim>
+                </priority-claims>
+                <parties>
+                    <applicants>
+                        <applicant sequence="1" data-format="epodoc">
+                            <applicant-name>
+                                <name>BEIJING HORIZON INFORMATION TECH CO LTD [CN]</name>
+                            </applicant-name>
+                        </applicant>
+                        <applicant sequence="1" data-format="original">
+                            <applicant-name>
+                                <name>Beijing Horizon Information Technology Co., Ltd</name>
+                            </applicant-name>
+                        </applicant>
+                    </applicants>
+                    <inventors>
+                        <inventor sequence="1" data-format="epodoc">
+                            <inventor-name>
+                                <name>DING JINNAN [CN]</name>
+                            </inventor-name>
+                        </inventor>
+                        <inventor sequence="1" data-format="original">
+                            <inventor-name>
+                                <name>DING, Jinnan</name>
+                            </inventor-name>
+                        </inventor>
+                    </inventors>
+                </parties>
+                <invention-title lang="de">RECHENVORRICHTUNG, RECHENVERFAHREN, COMPUTERSYSTEM, CHIP, VORRICHTUNG UND MEDIUM</invention-title>
+                <invention-title lang="fr">APPAREIL INFORMATIQUE, PROCÉDÉ INFORMATIQUE, SYSTÈME INFORMATIQUE, PUCE, DISPOSITIF ET SUPPORT</invention-title>
+                <invention-title lang="en">COMPUTING APPARATUS, COMPUTING METHOD, COMPUTING SYSTEM, CHIP, DEVICE, AND MEDIUM</invention-title>
+            </bibliographic-data>
+            <abstract lang="en">
+                <p>This disclosure provides a computing apparatus, system, and method, a chip, a device, and a medium. The computing apparatus includes a reading circuit, a computing circuit, a storage circuit, a control circuit, and a plurality of first registers. At least one first register is configured with task configuration information of tasks. The control circuit reads register information respectively corresponding to the tasks one by one in a preset manner; enables the first register identified by a currently read piece of register information to output first configuration information to the reading circuit, second configuration information to the computing circuit, and third configuration information to the storage circuit; controls the reading circuits, the computing circuit, and the storage circuit to perform data reading, data operations, and data storage in a time-sharing manner based on the first configuration information, the second configuration information, and the third configuration information of the tasks.</p>
+            </abstract>
+        </exchange-document>
+    </exchange-documents>
+</ops:world-patent-data>
